@@ -1,0 +1,70 @@
+AttributeError
+Python 3.6.5: D:\ProgramFile\Anaconda\python.exe
+Fri Nov 30 10:23:29 2018
+
+A problem occurred in a Python script.  Here is the sequence of
+function calls leading up to the error, in the order they occurred.
+
+ D:\研一\项目\Auditing\main.py in <module>()
+    6 if __name__ == '__main__':
+    7     app = QApplication(sys.argv)
+    8     mywin = MyMainWindow()
+    9     mywin.show()
+   10     # mywin.showMaximized()
+mywin undefined
+MyMainWindow = <class 'mainWin.MyMainWindow'>
+
+ D:\研一\项目\Auditing\mainWin.py in __init__(self=<mainWin.MyMainWindow object>, parent=None)
+   54         self.table_head = {'year':[],'sid':[],'scode':[],'name':[],'code':[],'提示内容':[],'townname':[],'vname':[]}
+   55         self.A_necessity_check_result = pd.DataFrame(self.table_head)
+   56         self.A_necessity_check_result = self.A_necessity_check_resut[['year','sid', 'scode', 'name', 'code', '提示内容', 'townname', 'vname']]
+   57 
+   58         self.now_show_table = ''
+self = <mainWin.MyMainWindow object>
+self.A_necessity_check_result = Empty DataFrame
+Columns: [year, sid, scode, name, code, 提示内容, townname, vname]
+Index: []
+self.A_necessity_check_resut undefined
+AttributeError: 'MyMainWindow' object has no attribute 'A_necessity_check_resut'
+    __cause__ = None
+    __class__ = <class 'AttributeError'>
+    __context__ = None
+    __delattr__ = <method-wrapper '__delattr__' of AttributeError object>
+    __dict__ = {}
+    __dir__ = <built-in method __dir__ of AttributeError object>
+    __doc__ = 'Attribute not found.'
+    __eq__ = <method-wrapper '__eq__' of AttributeError object>
+    __format__ = <built-in method __format__ of AttributeError object>
+    __ge__ = <method-wrapper '__ge__' of AttributeError object>
+    __getattribute__ = <method-wrapper '__getattribute__' of AttributeError object>
+    __gt__ = <method-wrapper '__gt__' of AttributeError object>
+    __hash__ = <method-wrapper '__hash__' of AttributeError object>
+    __init__ = <method-wrapper '__init__' of AttributeError object>
+    __init_subclass__ = <built-in method __init_subclass__ of type object>
+    __le__ = <method-wrapper '__le__' of AttributeError object>
+    __lt__ = <method-wrapper '__lt__' of AttributeError object>
+    __ne__ = <method-wrapper '__ne__' of AttributeError object>
+    __new__ = <built-in method __new__ of type object>
+    __reduce__ = <built-in method __reduce__ of AttributeError object>
+    __reduce_ex__ = <built-in method __reduce_ex__ of AttributeError object>
+    __repr__ = <method-wrapper '__repr__' of AttributeError object>
+    __setattr__ = <method-wrapper '__setattr__' of AttributeError object>
+    __setstate__ = <built-in method __setstate__ of AttributeError object>
+    __sizeof__ = <built-in method __sizeof__ of AttributeError object>
+    __str__ = <method-wrapper '__str__' of AttributeError object>
+    __subclasshook__ = <built-in method __subclasshook__ of type object>
+    __suppress_context__ = False
+    __traceback__ = <traceback object>
+    args = ("'MyMainWindow' object has no attribute 'A_necessity_check_resut'",)
+    with_traceback = <built-in method with_traceback of AttributeError object>
+
+The above is a description of an error in a Python program.  Here is
+the original traceback:
+
+Traceback (most recent call last):
+  File "D:/研一/项目/Auditing/main.py", line 8, in <module>
+    mywin = MyMainWindow()
+  File "D:\研一\项目\Auditing\mainWin.py", line 56, in __init__
+    self.A_necessity_check_result = self.A_necessity_check_resut[['year','sid', 'scode', 'name', 'code', '提示内容', 'townname', 'vname']]
+AttributeError: 'MyMainWindow' object has no attribute 'A_necessity_check_resut'
+

@@ -1,0 +1,52 @@
+2018-11-27 14:26:46,620 - myLogging.py[line:37] - DEBUG: logging init over
+2018-11-27 14:27:43,167 - myLogging.py[line:37] - DEBUG: logging init over
+2018-11-27 14:27:43,167 - deal_taizhang.py[line:18] - DEBUG: deal_taizhang init..
+2018-11-27 14:27:43,205 - deal_taizhang.py[line:98] - DEBUG: deal_taizhang init ok
+2018-11-27 14:27:43,682 - deal_taizhang.py[line:212] - DEBUG: deal_taizhang>function:getCommunity
+2018-11-27 14:31:55,331 - myLogging.py[line:37] - DEBUG: logging init over
+2018-11-27 14:31:55,331 - deal_taizhang.py[line:18] - DEBUG: deal_taizhang init..
+2018-11-27 14:31:55,331 - deal_taizhang.py[line:98] - DEBUG: deal_taizhang init ok
+2018-11-27 14:31:55,409 - deal_taizhang.py[line:212] - DEBUG: deal_taizhang>function:getCommunity
+2018-11-27 14:33:27,589 - myLogging.py[line:37] - DEBUG: logging init over
+2018-11-27 14:33:27,589 - deal_taizhang.py[line:18] - DEBUG: deal_taizhang init..
+2018-11-27 14:33:27,589 - deal_taizhang.py[line:98] - DEBUG: deal_taizhang init ok
+2018-11-27 14:33:27,667 - deal_taizhang.py[line:212] - DEBUG: deal_taizhang>function:getCommunity
+2018-11-27 14:38:24,245 - myLogging.py[line:37] - DEBUG: logging init over
+2018-11-27 14:38:24,245 - deal_taizhang.py[line:18] - DEBUG: deal_taizhang init..
+2018-11-27 14:38:24,245 - deal_taizhang.py[line:98] - DEBUG: deal_taizhang init ok
+2018-11-27 14:38:24,308 - deal_taizhang.py[line:212] - DEBUG: deal_taizhang>function:getCommunity
+2018-11-27 14:59:29,663 - myLogging.py[line:37] - DEBUG: logging init over
+2018-11-27 14:59:29,663 - deal_taizhang.py[line:18] - DEBUG: deal_taizhang init..
+2018-11-27 14:59:29,663 - deal_taizhang.py[line:98] - DEBUG: deal_taizhang init ok
+2018-11-27 14:59:39,229 - myLogging.py[line:37] - DEBUG: logging init over
+2018-11-27 14:59:39,229 - deal_taizhang.py[line:18] - DEBUG: deal_taizhang init..
+2018-11-27 14:59:39,229 - deal_taizhang.py[line:98] - DEBUG: deal_taizhang init ok
+2018-11-27 14:59:39,307 - deal_taizhang.py[line:212] - DEBUG: deal_taizhang>function:getCommunity
+2018-11-27 15:00:04,351 - myLogging.py[line:37] - DEBUG: logging init over
+2018-11-27 15:00:04,351 - deal_taizhang.py[line:18] - DEBUG: deal_taizhang init..
+2018-11-27 15:00:04,351 - deal_taizhang.py[line:98] - DEBUG: deal_taizhang init ok
+2018-11-27 15:00:04,430 - deal_taizhang.py[line:212] - DEBUG: deal_taizhang>function:getCommunity
+2018-11-27 15:00:59,071 - myLogging.py[line:37] - DEBUG: logging init over
+2018-11-27 15:00:59,071 - deal_taizhang.py[line:18] - DEBUG: deal_taizhang init..
+2018-11-27 15:00:59,071 - deal_taizhang.py[line:98] - DEBUG: deal_taizhang init ok
+2018-11-27 15:00:59,149 - deal_taizhang.py[line:212] - DEBUG: deal_taizhang>function:getCommunity
+2018-11-27 15:00:59,196 - deal_taizhang.py[line:254] - WARNING: 找不到户310117106001001H01701所在乡镇，请检查数据是否有问题。
+2018-11-27 15:00:59,414 - deal_taizhang.py[line:254] - WARNING: 找不到户310117106001001H01801所在乡镇，请检查数据是否有问题。
+2018-11-27 15:00:59,570 - deal_taizhang.py[line:254] - WARNING: 找不到户310117106001001H03701所在乡镇，请检查数据是否有问题。
+2018-11-27 15:00:59,742 - deal_taizhang.py[line:254] - WARNING: 找不到户310117106001001H04301所在乡镇，请检查数据是否有问题。
+2018-11-27 15:05:06,764 - myLogging.py[line:37] - DEBUG: logging init over
+2018-11-27 15:05:06,764 - deal_taizhang.py[line:18] - DEBUG: deal_taizhang init..
+2018-11-27 15:05:06,764 - deal_taizhang.py[line:98] - DEBUG: deal_taizhang init ok
+2018-11-27 15:05:06,842 - deal_taizhang.py[line:212] - DEBUG: deal_taizhang>function:getCommunity
+2018-11-27 15:05:06,842 - deal_taizhang.py[line:254] - WARNING: 找不到户310117106001001H01701所在乡镇，请检查数据是否有问题。
+2018-11-27 15:05:07,061 - deal_taizhang.py[line:254] - WARNING: 找不到户310117106001001H01801所在乡镇，请检查数据是否有问题。
+2018-11-27 15:05:07,225 - deal_taizhang.py[line:254] - WARNING: 找不到户310117106001001H03701所在乡镇，请检查数据是否有问题。
+2018-11-27 15:05:07,401 - deal_taizhang.py[line:254] - WARNING: 找不到户310117106001001H04301所在乡镇，请检查数据是否有问题。
+2018-11-27 15:09:14,761 - myLogging.py[line:37] - DEBUG: logging init over
+2018-11-27 15:09:14,761 - deal_taizhang.py[line:18] - DEBUG: deal_taizhang init..
+2018-11-27 15:09:14,761 - deal_taizhang.py[line:98] - DEBUG: deal_taizhang init ok
+2018-11-27 15:09:14,839 - deal_taizhang.py[line:212] - DEBUG: deal_taizhang>function:getCommunity
+2018-11-27 15:09:14,839 - deal_taizhang.py[line:254] - WARNING: 找不到户310117106001001H01701所在乡镇，请检查数据是否有问题。
+2018-11-27 15:09:15,058 - deal_taizhang.py[line:254] - WARNING: 找不到户310117106001001H01801所在乡镇，请检查数据是否有问题。
+2018-11-27 15:09:15,214 - deal_taizhang.py[line:254] - WARNING: 找不到户310117106001001H03701所在乡镇，请检查数据是否有问题。
+2018-11-27 15:09:15,372 - deal_taizhang.py[line:254] - WARNING: 找不到户310117106001001H04301所在乡镇，请检查数据是否有问题。

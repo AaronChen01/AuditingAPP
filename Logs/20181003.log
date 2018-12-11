@@ -1,0 +1,136 @@
+2018-10-03 16:54:12,548 - myLogging.py[line:30] - DEBUG: logging init over
+2018-10-03 16:58:36,974 - myLogging.py[line:30] - DEBUG: logging init over
+2018-10-03 17:00:18,343 - myLogging.py[line:30] - DEBUG: logging init over
+2018-10-03 17:00:18,349 - deal_taizhang.py[line:88] - DEBUG: deal_taizhang init over
+2018-10-03 17:00:18,368 - mainWin.py[line:30] - DEBUG: mainWin>init ok
+2018-10-03 17:00:35,523 - mainWin.py[line:65] - DEBUG: mainWin>function:openFile:D:/Document/Code/Python/AuditingApp/Auditing/小区名录310151.18.csv
+2018-10-03 17:00:35,524 - mainWin.py[line:73] - DEBUG: mainWin>function:openFile:try
+2018-10-03 17:00:35,532 - mainWin.py[line:94] - DEBUG: openTownList openFile
+2018-10-03 17:00:35,536 - mainWin.py[line:103] - DEBUG: mainWin>function:openTownList
+2018-10-03 17:53:00,920 - myLogging.py[line:30] - DEBUG: logging init over
+2018-10-03 17:53:00,930 - deal_taizhang.py[line:88] - DEBUG: deal_taizhang init over
+2018-10-03 17:53:00,951 - mainWin.py[line:30] - DEBUG: mainWin>init ok
+2018-10-03 17:53:05,705 - mainWin.py[line:65] - DEBUG: mainWin>function:openFile:D:/Document/Code/Python/AuditingApp/Auditing/小区名录310151.18.csv
+2018-10-03 17:53:05,706 - mainWin.py[line:73] - DEBUG: mainWin>function:openFile:try
+2018-10-03 17:53:05,714 - mainWin.py[line:94] - DEBUG: openTownList openFile
+2018-10-03 17:53:05,714 - mainWin.py[line:98] - DEBUG: in openTownList else
+2018-10-03 17:53:05,715 - mainWin.py[line:107] - DEBUG: in townSelectChange
+2018-10-03 17:53:05,715 - mainWin.py[line:109] - DEBUG: in townSelectChange 2
+2018-10-03 17:53:05,716 - mainWin.py[line:111] - DEBUG: in townSelectChange 3
+2018-10-03 17:53:05,716 - mainWin.py[line:113] - DEBUG: in townSelectChange 4
+2018-10-03 17:53:05,716 - mainWin.py[line:115] - DEBUG: in townSelectChange 5
+2018-10-03 17:53:05,717 - mainWin.py[line:117] - DEBUG: in townSelectChange 6
+2018-10-03 17:53:05,717 - mainWin.py[line:107] - DEBUG: in townSelectChange
+2018-10-03 17:53:05,717 - mainWin.py[line:109] - DEBUG: in townSelectChange 2
+2018-10-03 17:53:05,717 - mainWin.py[line:111] - DEBUG: in townSelectChange 3
+2018-10-03 17:53:05,718 - mainWin.py[line:113] - DEBUG: in townSelectChange 4
+2018-10-03 17:53:05,718 - mainWin.py[line:115] - DEBUG: in townSelectChange 5
+2018-10-03 17:53:05,718 - mainWin.py[line:117] - DEBUG: in townSelectChange 6
+2018-10-03 17:53:05,718 - mainWin.py[line:104] - DEBUG: mainWin>function:openTownList
+2018-10-03 17:53:15,642 - mainWin.py[line:134] - DEBUG: mainWin>function:setTableA
+2018-10-03 17:53:18,068 - mainWin.py[line:65] - DEBUG: mainWin>function:openFile:D:/Document/Code/Python/AuditingApp/Auditing/A310151.18.csv
+2018-10-03 17:53:18,069 - mainWin.py[line:73] - DEBUG: mainWin>function:openFile:try
+2018-10-03 17:53:18,932 - mainWin.py[line:138] - DEBUG: mainWin>function:setTableZy
+2018-10-03 17:53:21,789 - mainWin.py[line:65] - DEBUG: mainWin>function:openFile:D:/Document/Code/Python/AuditingApp/Auditing/D310151.1806.csv
+2018-10-03 17:53:21,789 - mainWin.py[line:73] - DEBUG: mainWin>function:openFile:try
+2018-10-03 17:53:22,773 - mainWin.py[line:124] - DEBUG: mainWin>function:getCommunityCode
+2018-10-03 17:54:02,239 - myLogging.py[line:30] - DEBUG: logging init over
+2018-10-03 17:54:02,246 - deal_taizhang.py[line:88] - DEBUG: deal_taizhang init over
+2018-10-03 17:54:02,265 - mainWin.py[line:30] - DEBUG: mainWin>init ok
+2018-10-03 17:54:18,339 - mainWin.py[line:65] - DEBUG: mainWin>function:openFile:D:/Document/Code/Python/AuditingApp/Auditing/小区名录310151.18.csv
+2018-10-03 17:54:18,339 - mainWin.py[line:73] - DEBUG: mainWin>function:openFile:try
+2018-10-03 17:54:18,353 - mainWin.py[line:94] - DEBUG: openTownList openFile
+2018-10-03 17:54:18,353 - mainWin.py[line:98] - DEBUG: in openTownList else
+2018-10-03 17:54:33,415 - mainWin.py[line:107] - DEBUG: in townSelectChange
+2018-10-03 17:54:33,415 - mainWin.py[line:109] - DEBUG: in townSelectChange 2
+2018-10-03 17:54:33,417 - mainWin.py[line:111] - DEBUG: in townSelectChange 3
+2018-10-03 17:54:33,419 - mainWin.py[line:113] - DEBUG: in townSelectChange 4
+2018-10-03 17:54:33,419 - mainWin.py[line:115] - DEBUG: in townSelectChange 5
+2018-10-03 17:54:33,419 - mainWin.py[line:117] - DEBUG: in townSelectChange 6
+2018-10-03 17:54:40,314 - mainWin.py[line:107] - DEBUG: in townSelectChange
+2018-10-03 17:54:40,314 - mainWin.py[line:109] - DEBUG: in townSelectChange 2
+2018-10-03 17:54:40,317 - mainWin.py[line:111] - DEBUG: in townSelectChange 3
+2018-10-03 17:54:40,319 - mainWin.py[line:113] - DEBUG: in townSelectChange 4
+2018-10-03 17:54:40,319 - mainWin.py[line:115] - DEBUG: in townSelectChange 5
+2018-10-03 17:54:40,320 - mainWin.py[line:117] - DEBUG: in townSelectChange 6
+2018-10-03 18:51:55,362 - myLogging.py[line:30] - DEBUG: logging init over
+2018-10-03 18:51:55,369 - deal_taizhang.py[line:88] - DEBUG: deal_taizhang init over
+2018-10-03 18:51:55,449 - mainWin.py[line:30] - DEBUG: mainWin>init ok
+2018-10-03 18:52:02,062 - mainWin.py[line:65] - DEBUG: mainWin>function:openFile:D:/Document/Code/Python/AuditingApp/Auditing/小区名录310151.18.csv
+2018-10-03 18:52:02,062 - mainWin.py[line:73] - DEBUG: mainWin>function:openFile:try
+2018-10-03 18:52:02,070 - mainWin.py[line:94] - DEBUG: openTownList openFile
+2018-10-03 18:52:02,070 - mainWin.py[line:98] - DEBUG: in openTownList else
+2018-10-03 18:52:02,071 - mainWin.py[line:107] - DEBUG: in townSelectChange
+2018-10-03 18:52:02,071 - mainWin.py[line:109] - DEBUG: in townSelectChange 2
+2018-10-03 18:52:02,072 - mainWin.py[line:111] - DEBUG: in townSelectChange 3
+2018-10-03 18:52:02,073 - mainWin.py[line:113] - DEBUG: in townSelectChange 4
+2018-10-03 18:52:02,074 - mainWin.py[line:115] - DEBUG: in townSelectChange 5
+2018-10-03 18:52:02,075 - mainWin.py[line:117] - DEBUG: in townSelectChange 6
+2018-10-03 18:52:02,075 - mainWin.py[line:107] - DEBUG: in townSelectChange
+2018-10-03 18:52:02,076 - mainWin.py[line:109] - DEBUG: in townSelectChange 2
+2018-10-03 18:52:02,077 - mainWin.py[line:111] - DEBUG: in townSelectChange 3
+2018-10-03 18:52:02,078 - mainWin.py[line:113] - DEBUG: in townSelectChange 4
+2018-10-03 18:52:02,078 - mainWin.py[line:115] - DEBUG: in townSelectChange 5
+2018-10-03 18:52:02,078 - mainWin.py[line:117] - DEBUG: in townSelectChange 6
+2018-10-03 18:52:02,078 - mainWin.py[line:104] - DEBUG: mainWin>function:openTownList
+2018-10-03 18:52:03,364 - mainWin.py[line:134] - DEBUG: mainWin>function:setTableA
+2018-10-03 18:52:05,708 - mainWin.py[line:65] - DEBUG: mainWin>function:openFile:D:/Document/Code/Python/AuditingApp/Auditing/A310151.18.csv
+2018-10-03 18:52:05,708 - mainWin.py[line:73] - DEBUG: mainWin>function:openFile:try
+2018-10-03 18:52:06,938 - mainWin.py[line:138] - DEBUG: mainWin>function:setTableZy
+2018-10-03 18:52:09,735 - mainWin.py[line:65] - DEBUG: mainWin>function:openFile:D:/Document/Code/Python/AuditingApp/Auditing/D310151.1806.csv
+2018-10-03 18:52:09,735 - mainWin.py[line:73] - DEBUG: mainWin>function:openFile:try
+2018-10-03 18:52:10,568 - mainWin.py[line:124] - DEBUG: mainWin>function:getCommunityCode
+2018-10-03 21:24:06,591 - myLogging.py[line:30] - DEBUG: logging init over
+2018-10-03 21:24:06,721 - deal_taizhang.py[line:94] - DEBUG: deal_taizhang init over
+2018-10-03 21:24:06,864 - mainWin.py[line:30] - DEBUG: mainWin>init ok
+2018-10-03 21:24:17,453 - mainWin.py[line:65] - DEBUG: mainWin>function:openFile:D:/Document/Code/Python/AuditingApp/Auditing/小区名录310151.18.csv
+2018-10-03 21:24:17,454 - mainWin.py[line:73] - DEBUG: mainWin>function:openFile:try
+2018-10-03 21:24:17,463 - mainWin.py[line:94] - DEBUG: openTownList openFile
+2018-10-03 21:24:17,463 - mainWin.py[line:98] - DEBUG: in openTownList else
+2018-10-03 21:24:17,470 - mainWin.py[line:107] - DEBUG: in townSelectChange
+2018-10-03 21:24:17,470 - mainWin.py[line:109] - DEBUG: in townSelectChange 2
+2018-10-03 21:24:17,471 - mainWin.py[line:111] - DEBUG: in townSelectChange 3
+2018-10-03 21:24:17,471 - mainWin.py[line:113] - DEBUG: in townSelectChange 4
+2018-10-03 21:24:17,471 - mainWin.py[line:115] - DEBUG: in townSelectChange 5
+2018-10-03 21:24:17,471 - mainWin.py[line:117] - DEBUG: in townSelectChange 6
+2018-10-03 21:24:17,472 - mainWin.py[line:107] - DEBUG: in townSelectChange
+2018-10-03 21:24:17,472 - mainWin.py[line:109] - DEBUG: in townSelectChange 2
+2018-10-03 21:24:17,472 - mainWin.py[line:111] - DEBUG: in townSelectChange 3
+2018-10-03 21:24:17,473 - mainWin.py[line:113] - DEBUG: in townSelectChange 4
+2018-10-03 21:24:17,473 - mainWin.py[line:115] - DEBUG: in townSelectChange 5
+2018-10-03 21:24:17,473 - mainWin.py[line:117] - DEBUG: in townSelectChange 6
+2018-10-03 21:24:17,473 - mainWin.py[line:104] - DEBUG: mainWin>function:openTownList
+2018-10-03 21:24:18,366 - mainWin.py[line:134] - DEBUG: mainWin>function:setTableA
+2018-10-03 21:24:20,356 - mainWin.py[line:65] - DEBUG: mainWin>function:openFile:D:/Document/Code/Python/AuditingApp/Auditing/A310151.18.csv
+2018-10-03 21:24:20,356 - mainWin.py[line:73] - DEBUG: mainWin>function:openFile:try
+2018-10-03 21:24:21,115 - mainWin.py[line:138] - DEBUG: mainWin>function:setTableZy
+2018-10-03 21:24:23,763 - mainWin.py[line:65] - DEBUG: mainWin>function:openFile:D:/Document/Code/Python/AuditingApp/Auditing/D310151.1806.csv
+2018-10-03 21:24:23,763 - mainWin.py[line:73] - DEBUG: mainWin>function:openFile:try
+2018-10-03 21:24:24,734 - mainWin.py[line:124] - DEBUG: mainWin>function:getCommunityCode
+2018-10-03 22:04:35,232 - myLogging.py[line:30] - DEBUG: logging init over
+2018-10-03 22:04:35,244 - deal_taizhang.py[line:94] - DEBUG: deal_taizhang init over
+2018-10-03 22:04:35,260 - mainWin.py[line:30] - DEBUG: mainWin>init ok
+2018-10-03 22:04:41,358 - mainWin.py[line:65] - DEBUG: mainWin>function:openFile:D:/Document/Code/Python/AuditingApp/Auditing/小区名录310151.18.csv
+2018-10-03 22:04:41,358 - mainWin.py[line:73] - DEBUG: mainWin>function:openFile:try
+2018-10-03 22:04:41,363 - mainWin.py[line:94] - DEBUG: openTownList openFile
+2018-10-03 22:04:41,363 - mainWin.py[line:98] - DEBUG: in openTownList else
+2018-10-03 22:04:41,367 - mainWin.py[line:107] - DEBUG: in townSelectChange
+2018-10-03 22:04:41,367 - mainWin.py[line:109] - DEBUG: in townSelectChange 2
+2018-10-03 22:04:41,367 - mainWin.py[line:111] - DEBUG: in townSelectChange 3
+2018-10-03 22:04:41,368 - mainWin.py[line:113] - DEBUG: in townSelectChange 4
+2018-10-03 22:04:41,368 - mainWin.py[line:115] - DEBUG: in townSelectChange 5
+2018-10-03 22:04:41,368 - mainWin.py[line:117] - DEBUG: in townSelectChange 6
+2018-10-03 22:04:41,368 - mainWin.py[line:107] - DEBUG: in townSelectChange
+2018-10-03 22:04:41,368 - mainWin.py[line:109] - DEBUG: in townSelectChange 2
+2018-10-03 22:04:41,369 - mainWin.py[line:111] - DEBUG: in townSelectChange 3
+2018-10-03 22:04:41,369 - mainWin.py[line:113] - DEBUG: in townSelectChange 4
+2018-10-03 22:04:41,369 - mainWin.py[line:115] - DEBUG: in townSelectChange 5
+2018-10-03 22:04:41,369 - mainWin.py[line:117] - DEBUG: in townSelectChange 6
+2018-10-03 22:04:41,369 - mainWin.py[line:104] - DEBUG: mainWin>function:openTownList
+2018-10-03 22:04:43,167 - mainWin.py[line:134] - DEBUG: mainWin>function:setTableA
+2018-10-03 22:04:45,396 - mainWin.py[line:65] - DEBUG: mainWin>function:openFile:D:/Document/Code/Python/AuditingApp/Auditing/A310151.18.csv
+2018-10-03 22:04:45,397 - mainWin.py[line:73] - DEBUG: mainWin>function:openFile:try
+2018-10-03 22:04:46,327 - mainWin.py[line:138] - DEBUG: mainWin>function:setTableZy
+2018-10-03 22:04:48,735 - mainWin.py[line:65] - DEBUG: mainWin>function:openFile:D:/Document/Code/Python/AuditingApp/Auditing/D310151.1806.csv
+2018-10-03 22:04:48,735 - mainWin.py[line:73] - DEBUG: mainWin>function:openFile:try
+2018-10-03 22:04:49,656 - mainWin.py[line:124] - DEBUG: mainWin>function:getCommunityCode

@@ -1,0 +1,64 @@
+SyntaxError
+Python 3.6.5: D:\ProgramFile\Anaconda\python.exe
+Fri Nov 30 21:03:46 2018
+
+A problem occurred in a Python script.  Here is the sequence of
+function calls leading up to the error, in the order they occurred.
+
+ D:\研一\项目\Auditing\mainWin.py in openzyCheckDialog(self=<mainWin.MyMainWindow object>)
+  348     # 打开审核账页对话框
+  349     def openzyCheckDialog(self):
+  350         from zyCheckDialog import zyCheckDialog
+  351         zcd = zyCheckDialog(self)
+  352         result = zcd.exec_()
+zyCheckDialog undefined
+SyntaxError: unexpected EOF while parsing (zyCheckDialog.py, line 28)
+    __cause__ = None
+    __class__ = <class 'SyntaxError'>
+    __context__ = None
+    __delattr__ = <method-wrapper '__delattr__' of SyntaxError object>
+    __dict__ = {}
+    __dir__ = <built-in method __dir__ of SyntaxError object>
+    __doc__ = 'Invalid syntax.'
+    __eq__ = <method-wrapper '__eq__' of SyntaxError object>
+    __format__ = <built-in method __format__ of SyntaxError object>
+    __ge__ = <method-wrapper '__ge__' of SyntaxError object>
+    __getattribute__ = <method-wrapper '__getattribute__' of SyntaxError object>
+    __gt__ = <method-wrapper '__gt__' of SyntaxError object>
+    __hash__ = <method-wrapper '__hash__' of SyntaxError object>
+    __init__ = <method-wrapper '__init__' of SyntaxError object>
+    __init_subclass__ = <built-in method __init_subclass__ of type object>
+    __le__ = <method-wrapper '__le__' of SyntaxError object>
+    __lt__ = <method-wrapper '__lt__' of SyntaxError object>
+    __ne__ = <method-wrapper '__ne__' of SyntaxError object>
+    __new__ = <built-in method __new__ of type object>
+    __reduce__ = <built-in method __reduce__ of SyntaxError object>
+    __reduce_ex__ = <built-in method __reduce_ex__ of SyntaxError object>
+    __repr__ = <method-wrapper '__repr__' of SyntaxError object>
+    __setattr__ = <method-wrapper '__setattr__' of SyntaxError object>
+    __setstate__ = <built-in method __setstate__ of SyntaxError object>
+    __sizeof__ = <built-in method __sizeof__ of SyntaxError object>
+    __str__ = <method-wrapper '__str__' of SyntaxError object>
+    __subclasshook__ = <built-in method __subclasshook__ of type object>
+    __suppress_context__ = False
+    __traceback__ = <traceback object>
+    args = ('unexpected EOF while parsing', (r'D:\研一\项目\Auditing\zyCheckDialog.py', 28, 1, '\n'))
+    filename = r'D:\研一\项目\Auditing\zyCheckDialog.py'
+    lineno = 28
+    msg = 'unexpected EOF while parsing'
+    offset = 1
+    print_file_and_line = None
+    text = '\n'
+    with_traceback = <built-in method with_traceback of SyntaxError object>
+
+The above is a description of an error in a Python program.  Here is
+the original traceback:
+
+Traceback (most recent call last):
+  File "D:\研一\项目\Auditing\mainWin.py", line 350, in openzyCheckDialog
+    from zyCheckDialog import zyCheckDialog
+  File "D:\研一\项目\Auditing\zyCheckDialog.py", line 28
+    
+    ^
+SyntaxError: unexpected EOF while parsing
+

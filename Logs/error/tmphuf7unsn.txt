@@ -1,0 +1,85 @@
+TypeError
+Python 3.6.5: D:\ProgramFile\Anaconda\python.exe
+Fri Nov 30 11:16:33 2018
+
+A problem occurred in a Python script.  Here is the sequence of
+function calls leading up to the error, in the order they occurred.
+
+ D:\研一\项目\Auditing\mainWin.py in openQuestionCheckDialog(self=<mainWin.MyMainWindow object>)
+  249         if An == True:
+  250             if self.A_flag == True:
+  251                 A_necessity_outcome = A_necessity_check(self.A,self.zhuhu,self.xiaoqu,self.A_necessity_check_result)
+  252                 print(A_necessity_outcome)
+  253                 A_necessity_outcome.to_excel('./A_necessity_result.xlsx',encoding="utf-8",index=False,sheet_name='Sheet')
+A_necessity_outcome undefined
+A_necessity_check = <function A_necessity_check>
+self = <mainWin.MyMainWindow object>
+self.A =                        SID  COL       SCODE  ......  ...    NaN   NaN   NaN
+
+[767 rows x 44 columns]
+self.zhuhu =                       HHID  COL    COUN    VCODE...     2     3   NaN   NaN
+
+[351 rows x 43 columns]
+self.xiaoqu = ''
+self.A_necessity_check_result = Empty DataFrame
+Columns: [year, sid, scode, name, code, 提示内容, townname, vname]
+Index: []
+
+ D:\研一\项目\Auditing\A_necessity_check.py in A_necessity_check(TableA=                       SID  COL       SCODE  ......  ...    NaN   NaN   NaN
+
+[767 rows x 44 columns], zhuhu=                      HHID  COL    COUN    VCODE...     2     3   NaN   NaN
+
+[351 rows x 43 columns], xiaoqu='', result_table=Empty DataFrame
+Columns: [year, sid, scode, name, code, 提示内容, townname, vname]
+Index: [])
+   74         scode = TableA['SCODE'].values[0]
+   75         qu_vid = family_sid[0:15]
+   76         qu = xiaoqu[xiaoqu['VID'] == qu_vid]
+   77         townname = qu['TOWNNAME'].values[0]
+   78         vname = qu['VNAME'].values[0]
+qu undefined
+xiaoqu = ''
+qu_vid = '310151110208001'
+TypeError: string indices must be integers
+    __cause__ = None
+    __class__ = <class 'TypeError'>
+    __context__ = None
+    __delattr__ = <method-wrapper '__delattr__' of TypeError object>
+    __dict__ = {}
+    __dir__ = <built-in method __dir__ of TypeError object>
+    __doc__ = 'Inappropriate argument type.'
+    __eq__ = <method-wrapper '__eq__' of TypeError object>
+    __format__ = <built-in method __format__ of TypeError object>
+    __ge__ = <method-wrapper '__ge__' of TypeError object>
+    __getattribute__ = <method-wrapper '__getattribute__' of TypeError object>
+    __gt__ = <method-wrapper '__gt__' of TypeError object>
+    __hash__ = <method-wrapper '__hash__' of TypeError object>
+    __init__ = <method-wrapper '__init__' of TypeError object>
+    __init_subclass__ = <built-in method __init_subclass__ of type object>
+    __le__ = <method-wrapper '__le__' of TypeError object>
+    __lt__ = <method-wrapper '__lt__' of TypeError object>
+    __ne__ = <method-wrapper '__ne__' of TypeError object>
+    __new__ = <built-in method __new__ of type object>
+    __reduce__ = <built-in method __reduce__ of TypeError object>
+    __reduce_ex__ = <built-in method __reduce_ex__ of TypeError object>
+    __repr__ = <method-wrapper '__repr__' of TypeError object>
+    __setattr__ = <method-wrapper '__setattr__' of TypeError object>
+    __setstate__ = <built-in method __setstate__ of TypeError object>
+    __sizeof__ = <built-in method __sizeof__ of TypeError object>
+    __str__ = <method-wrapper '__str__' of TypeError object>
+    __subclasshook__ = <built-in method __subclasshook__ of type object>
+    __suppress_context__ = False
+    __traceback__ = <traceback object>
+    args = ('string indices must be integers',)
+    with_traceback = <built-in method with_traceback of TypeError object>
+
+The above is a description of an error in a Python program.  Here is
+the original traceback:
+
+Traceback (most recent call last):
+  File "D:\研一\项目\Auditing\mainWin.py", line 251, in openQuestionCheckDialog
+    A_necessity_outcome = A_necessity_check(self.A,self.zhuhu,self.xiaoqu,self.A_necessity_check_result)
+  File "D:\研一\项目\Auditing\A_necessity_check.py", line 76, in A_necessity_check
+    qu = xiaoqu[xiaoqu['VID'] == qu_vid]
+TypeError: string indices must be integers
+

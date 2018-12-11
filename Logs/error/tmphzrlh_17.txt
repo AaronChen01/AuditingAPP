@@ -1,0 +1,88 @@
+NameError
+Python 3.6.5: D:\ProgramFile\Anaconda\python.exe
+Fri Nov 30 14:47:10 2018
+
+A problem occurred in a Python script.  Here is the sequence of
+function calls leading up to the error, in the order they occurred.
+
+ D:\研一\项目\Auditing\mainWin.py in openQuestionCheckDialog(self=<mainWin.MyMainWindow object>)
+  259             if self.A_flag == True and self.xiaoqu_flag == True and self.zhuhu_flag == True:
+  260                 if An == True:
+  261                     A_necessity_outcome = A_necessity_check(self.A,self.zhuhu,self.xiaoqu,self.A_necessity_check_result)
+  262                     # print(type(A_necessity_outcome))
+  263                     Anfilename = 'A_necessity_result.xlsx'
+A_necessity_outcome undefined
+A_necessity_check = <function A_necessity_check>
+self = <mainWin.MyMainWindow object>
+self.A =                        SID  COL       SCODE  ......  ...    NaN   NaN   NaN
+
+[767 rows x 44 columns]
+self.zhuhu =                       HHID  COL    COUN    VCODE...     2     3   NaN   NaN
+
+[351 rows x 43 columns]
+self.xiaoqu =                 VID    COUN COUNNAME   ...    NV...       2     NaN        1
+
+[36 rows x 23 columns]
+self.A_necessity_check_result = Empty DataFrame
+Columns: [year, sid, scode, name, code, 提示内容, townname, vname]
+Index: []
+
+ D:\研一\项目\Auditing\A_necessity_check.py in A_necessity_check(TableA=                       SID  COL       SCODE  ......  ...    NaN   NaN   NaN
+
+[767 rows x 44 columns], zhuhu=                      HHID  COL    COUN    VCODE...     2     3   NaN   NaN
+
+[351 rows x 43 columns], xiaoqu=                VID    COUN COUNNAME   ...    NV...       2     NaN        1
+
+[36 rows x 23 columns], result_table=Empty DataFrame
+Columns: [year, sid, scode, name, code, 提示内容, townname, vname]
+Index: [])
+   60     mylogger.logger.debug("A_necessity_check init..")
+   61     global A_necessity_result
+   62     A_necessity_result.drop(A_necessity_result.index, inplace=True)
+   63     A_necessity_result = result_table
+   64 
+A_necessity_result undefined
+inplace undefined
+NameError: name 'A_necessity_result' is not defined
+    __cause__ = None
+    __class__ = <class 'NameError'>
+    __context__ = None
+    __delattr__ = <method-wrapper '__delattr__' of NameError object>
+    __dict__ = {}
+    __dir__ = <built-in method __dir__ of NameError object>
+    __doc__ = 'Name not found globally.'
+    __eq__ = <method-wrapper '__eq__' of NameError object>
+    __format__ = <built-in method __format__ of NameError object>
+    __ge__ = <method-wrapper '__ge__' of NameError object>
+    __getattribute__ = <method-wrapper '__getattribute__' of NameError object>
+    __gt__ = <method-wrapper '__gt__' of NameError object>
+    __hash__ = <method-wrapper '__hash__' of NameError object>
+    __init__ = <method-wrapper '__init__' of NameError object>
+    __init_subclass__ = <built-in method __init_subclass__ of type object>
+    __le__ = <method-wrapper '__le__' of NameError object>
+    __lt__ = <method-wrapper '__lt__' of NameError object>
+    __ne__ = <method-wrapper '__ne__' of NameError object>
+    __new__ = <built-in method __new__ of type object>
+    __reduce__ = <built-in method __reduce__ of NameError object>
+    __reduce_ex__ = <built-in method __reduce_ex__ of NameError object>
+    __repr__ = <method-wrapper '__repr__' of NameError object>
+    __setattr__ = <method-wrapper '__setattr__' of NameError object>
+    __setstate__ = <built-in method __setstate__ of NameError object>
+    __sizeof__ = <built-in method __sizeof__ of NameError object>
+    __str__ = <method-wrapper '__str__' of NameError object>
+    __subclasshook__ = <built-in method __subclasshook__ of type object>
+    __suppress_context__ = False
+    __traceback__ = <traceback object>
+    args = ("name 'A_necessity_result' is not defined",)
+    with_traceback = <built-in method with_traceback of NameError object>
+
+The above is a description of an error in a Python program.  Here is
+the original traceback:
+
+Traceback (most recent call last):
+  File "D:\研一\项目\Auditing\mainWin.py", line 261, in openQuestionCheckDialog
+    A_necessity_outcome = A_necessity_check(self.A,self.zhuhu,self.xiaoqu,self.A_necessity_check_result)
+  File "D:\研一\项目\Auditing\A_necessity_check.py", line 62, in A_necessity_check
+    A_necessity_result.drop(A_necessity_result.index, inplace=True)
+NameError: name 'A_necessity_result' is not defined
+

@@ -1,0 +1,9 @@
+2018-12-03 21:02:02,347 - myLogging.py[line:37] - DEBUG: logging init over
+2018-12-03 21:02:08,962 - mainWin.py[line:26] - DEBUG: mainWin>init..
+2018-12-03 21:02:10,398 - mainWin.py[line:76] - DEBUG: mainWin>init ok
+2018-12-03 21:03:25,629 - importFileDialog.py[line:17] - DEBUG: importFileDialog init..
+2018-12-03 21:03:25,629 - importFileDialog.py[line:24] - DEBUG: importFileDialog init ok
+2018-12-03 21:03:27,780 - questionCheckDialog.py[line:19] - DEBUG: QuestionCheckDialog init..
+2018-12-03 21:03:27,780 - questionCheckDialog.py[line:22] - DEBUG: QuestionCheckDialog init ok
+2018-12-03 21:04:39,331 - zyCheckDialog.py[line:19] - DEBUG: zyCheckDialog init..
+2018-12-03 21:04:39,331 - zyCheckDialog.py[line:24] - DEBUG: zyCheckDialog init ok

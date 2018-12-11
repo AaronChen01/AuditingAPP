@@ -1,0 +1,224 @@
+KeyError
+Python 3.6.5: D:\ProgramFile\Anaconda\python.exe
+Sun Dec  2 21:17:30 2018
+
+A problem occurred in a Python script.  Here is the sequence of
+function calls leading up to the error, in the order they occurred.
+
+ D:\研一\项目\Auditing\mainWin.py in openzyCheckDialog(self=<mainWin.MyMainWindow object>)
+  370                     self.showData(Zs_outcome, 100)
+  371                 if Zn == True:
+  372                     Zn_outcome = zy_check_necessity(self.A,self.B,self.zy,self.zhuzhai,self.zhuhu,self.xiaoqu,self.zn_check_result)
+  373                     Znfilename = 'zy_necessity_result.xlsx'
+  374                     Zn_outcome.to_excel(directory+'/'+Znfilename, encoding="utf-8", index=False,sheet_name='Sheet')
+Zn_outcome undefined
+zy_check_necessity = <function zy_check_necessity>
+self = <mainWin.MyMainWindow object>
+self.A =                        SID  COL       SCODE  ......  ...    NaN   NaN   NaN
+
+[767 rows x 44 columns]
+self.B =                        SID  COL       SCODE  YEA...     2   NaN     2   NaN
+
+[366 rows x 96 columns]
+self.zy =                          SID    COUN    ...     ...         99          否
+
+[25973 rows x 13 columns]
+self.zhuzhai =                      HID    COUN    VCODE HCODE ...    82    30     1     1
+
+[483 rows x 15 columns]
+self.zhuhu =                       HHID  COL    COUN    VCODE...     2     3   NaN   NaN
+
+[351 rows x 43 columns]
+self.xiaoqu =                 VID    COUN COUNNAME   ...    NV...       2     NaN        1
+
+[36 rows x 23 columns]
+self.zn_check_result = Empty DataFrame
+Columns: [year, month, task, sco...son, name, code, 核实内容, townname, vname]
+Index: []
+
+ D:\研一\项目\Auditing\zy_check_necessity.py in zy_check_necessity(TableA=                       SID  COL       SCODE  ......  ...    NaN   NaN   NaN
+
+[767 rows x 44 columns], TableB=                       SID  COL       SCODE  YEA...     2   NaN     2   NaN
+
+[366 rows x 96 columns], zy=                         SID    COUN    ...     ...         99          否
+
+[25972 rows x 13 columns], zhuzhai=                     HID    COUN VCODE HCODE OWN...   1   82   30    1    1
+
+[482 rows x 15 columns], zhuhu=                      HHID COL    COUN VCODE HCO...   2    2    3  NaN  NaN
+
+[350 rows x 43 columns], xiaoqu=                VID    COUN COUNNAME   ...    NV...       2     NaN        1
+
+[36 rows x 23 columns], result=Empty DataFrame
+Columns: [year, month, task, sco...son, name, code, 核实内容, townname, vname]
+Index: [])
+  177         B = TableB[TableB["SID"] == family_sid]
+  178         qu_vid = family_sid[0:15]
+  179         qu = xiaoqu[xiaoqu['vID'] == qu_vid]
+  180         townname = qu['townName'].values[0]
+  181         vname = qu['vName'].values[0]
+qu undefined
+xiaoqu =                 VID    COUN COUNNAME   ...    NV...       2     NaN        1
+
+[36 rows x 23 columns]
+qu_vid = '310151101010001'
+
+ D:\ProgramFile\Anaconda\lib\site-packages\pandas\core\frame.py in __getitem__(self=                VID    COUN COUNNAME   ...    NV...       2     NaN        1
+
+[36 rows x 23 columns], key='vID')
+ 2683             return self._getitem_multilevel(key)
+ 2684         else:
+ 2685             return self._getitem_column(key)
+ 2686 
+ 2687     def _getitem_column(self, key):
+self =                 VID    COUN COUNNAME   ...    NV...       2     NaN        1
+
+[36 rows x 23 columns]
+self._getitem_column = <bound method DataFrame._getitem_column of      ...      2     NaN        1
+
+[36 rows x 23 columns]>
+key = 'vID'
+
+ D:\ProgramFile\Anaconda\lib\site-packages\pandas\core\frame.py in _getitem_column(self=                VID    COUN COUNNAME   ...    NV...       2     NaN        1
+
+[36 rows x 23 columns], key='vID')
+ 2690         # get column
+ 2691         if self.columns.is_unique:
+ 2692             return self._get_item_cache(key)
+ 2693 
+ 2694         # duplicate columns & possible reduce dimensionality
+self =                 VID    COUN COUNNAME   ...    NV...       2     NaN        1
+
+[36 rows x 23 columns]
+self._get_item_cache = <bound method NDFrame._get_item_cache of        ...      2     NaN        1
+
+[36 rows x 23 columns]>
+key = 'vID'
+
+ D:\ProgramFile\Anaconda\lib\site-packages\pandas\core\generic.py in _get_item_cache(self=                VID    COUN COUNNAME   ...    NV...       2     NaN        1
+
+[36 rows x 23 columns], item='vID')
+ 2484         res = cache.get(item)
+ 2485         if res is None:
+ 2486             values = self._data.get(item)
+ 2487             res = self._box_item_values(item, values)
+ 2488             cache[item] = res
+values undefined
+self =                 VID    COUN COUNNAME   ...    NV...       2     NaN        1
+
+[36 rows x 23 columns]
+self._data = BlockManager
+Items: Index(['VID', 'COUN', 'COUNN...ectBlock: slice(0, 23, 1), 23 x 36, dtype: object
+self._data.get = <bound method BlockManager.get of BlockManager
+I...ctBlock: slice(0, 23, 1), 23 x 36, dtype: object>
+item = 'vID'
+
+ D:\ProgramFile\Anaconda\lib\site-packages\pandas\core\internals.py in get(self=BlockManager
+Items: Index(['VID', 'COUN', 'COUNN...ectBlock: slice(0, 23, 1), 23 x 36, dtype: object, item='vID', fastpath=True)
+ 4113 
+ 4114             if not isna(item):
+ 4115                 loc = self.items.get_loc(item)
+ 4116             else:
+ 4117                 indexer = np.arange(len(self.items))[isna(self.items)]
+loc undefined
+self = BlockManager
+Items: Index(['VID', 'COUN', 'COUNN...ectBlock: slice(0, 23, 1), 23 x 36, dtype: object
+self.items = Index(['VID', 'COUN', 'COUNNAME', 'TOWNNAME', 'L...YPE', 'VCHANGE', 'YLEVEL'],
+      dtype='object')
+self.items.get_loc = <bound method Index.get_loc of Index(['VID', 'CO...PE', 'VCHANGE', 'YLEVEL'],
+      dtype='object')>
+item = 'vID'
+
+ D:\ProgramFile\Anaconda\lib\site-packages\pandas\core\indexes\base.py in get_loc(self=Index(['VID', 'COUN', 'COUNNAME', 'TOWNNAME', 'L...YPE', 'VCHANGE', 'YLEVEL'],
+      dtype='object'), key='vID', method=None, tolerance=None)
+ 3063                 return self._engine.get_loc(key)
+ 3064             except KeyError:
+ 3065                 return self._engine.get_loc(self._maybe_cast_indexer(key))
+ 3066 
+ 3067         indexer = self.get_indexer([key], method=method, tolerance=tolerance)
+self = Index(['VID', 'COUN', 'COUNNAME', 'TOWNNAME', 'L...YPE', 'VCHANGE', 'YLEVEL'],
+      dtype='object')
+self._engine = <pandas._libs.index.ObjectEngine object>
+self._engine.get_loc = <built-in method get_loc of pandas._libs.index.ObjectEngine object>
+self._maybe_cast_indexer = <bound method Index._maybe_cast_indexer of Index...PE', 'VCHANGE', 'YLEVEL'],
+      dtype='object')>
+key = 'vID'
+
+ D:\研一\项目\Auditing\pandas\_libs\index.pyx in pandas._libs.index.IndexEngine.get_loc()
+
+
+ D:\研一\项目\Auditing\pandas\_libs\index.pyx in pandas._libs.index.IndexEngine.get_loc()
+
+
+ D:\研一\项目\Auditing\pandas\_libs\hashtable_class_helper.pxi in pandas._libs.hashtable.PyObjectHashTable.get_item()
+
+
+ D:\研一\项目\Auditing\pandas\_libs\hashtable_class_helper.pxi in pandas._libs.hashtable.PyObjectHashTable.get_item()
+
+KeyError: 'vID'
+    __cause__ = None
+    __class__ = <class 'KeyError'>
+    __context__ = KeyError('vID',)
+    __delattr__ = <method-wrapper '__delattr__' of KeyError object>
+    __dict__ = {}
+    __dir__ = <built-in method __dir__ of KeyError object>
+    __doc__ = 'Mapping key not found.'
+    __eq__ = <method-wrapper '__eq__' of KeyError object>
+    __format__ = <built-in method __format__ of KeyError object>
+    __ge__ = <method-wrapper '__ge__' of KeyError object>
+    __getattribute__ = <method-wrapper '__getattribute__' of KeyError object>
+    __gt__ = <method-wrapper '__gt__' of KeyError object>
+    __hash__ = <method-wrapper '__hash__' of KeyError object>
+    __init__ = <method-wrapper '__init__' of KeyError object>
+    __init_subclass__ = <built-in method __init_subclass__ of type object>
+    __le__ = <method-wrapper '__le__' of KeyError object>
+    __lt__ = <method-wrapper '__lt__' of KeyError object>
+    __ne__ = <method-wrapper '__ne__' of KeyError object>
+    __new__ = <built-in method __new__ of type object>
+    __reduce__ = <built-in method __reduce__ of KeyError object>
+    __reduce_ex__ = <built-in method __reduce_ex__ of KeyError object>
+    __repr__ = <method-wrapper '__repr__' of KeyError object>
+    __setattr__ = <method-wrapper '__setattr__' of KeyError object>
+    __setstate__ = <built-in method __setstate__ of KeyError object>
+    __sizeof__ = <built-in method __sizeof__ of KeyError object>
+    __str__ = <method-wrapper '__str__' of KeyError object>
+    __subclasshook__ = <built-in method __subclasshook__ of type object>
+    __suppress_context__ = False
+    __traceback__ = <traceback object>
+    args = ('vID',)
+    with_traceback = <built-in method with_traceback of KeyError object>
+
+The above is a description of an error in a Python program.  Here is
+the original traceback:
+
+Traceback (most recent call last):
+  File "D:\ProgramFile\Anaconda\lib\site-packages\pandas\core\indexes\base.py", line 3063, in get_loc
+    return self._engine.get_loc(key)
+  File "pandas\_libs\index.pyx", line 140, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas\_libs\index.pyx", line 162, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas\_libs\hashtable_class_helper.pxi", line 1492, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas\_libs\hashtable_class_helper.pxi", line 1500, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 'vID'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\研一\项目\Auditing\mainWin.py", line 372, in openzyCheckDialog
+    Zn_outcome = zy_check_necessity(self.A,self.B,self.zy,self.zhuzhai,self.zhuhu,self.xiaoqu,self.zn_check_result)
+  File "D:\研一\项目\Auditing\zy_check_necessity.py", line 179, in zy_check_necessity
+    qu = xiaoqu[xiaoqu['vID'] == qu_vid]
+  File "D:\ProgramFile\Anaconda\lib\site-packages\pandas\core\frame.py", line 2685, in __getitem__
+    return self._getitem_column(key)
+  File "D:\ProgramFile\Anaconda\lib\site-packages\pandas\core\frame.py", line 2692, in _getitem_column
+    return self._get_item_cache(key)
+  File "D:\ProgramFile\Anaconda\lib\site-packages\pandas\core\generic.py", line 2486, in _get_item_cache
+    values = self._data.get(item)
+  File "D:\ProgramFile\Anaconda\lib\site-packages\pandas\core\internals.py", line 4115, in get
+    loc = self.items.get_loc(item)
+  File "D:\ProgramFile\Anaconda\lib\site-packages\pandas\core\indexes\base.py", line 3065, in get_loc
+    return self._engine.get_loc(self._maybe_cast_indexer(key))
+  File "pandas\_libs\index.pyx", line 140, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas\_libs\index.pyx", line 162, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas\_libs\hashtable_class_helper.pxi", line 1492, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas\_libs\hashtable_class_helper.pxi", line 1500, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 'vID'
+

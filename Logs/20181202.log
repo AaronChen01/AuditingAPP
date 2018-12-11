@@ -1,0 +1,51 @@
+2018-12-02 17:17:50,391 - myLogging.py[line:37] - DEBUG: logging init over
+2018-12-02 17:17:50,626 - zy_check_necessity.py[line:150] - DEBUG: zy_necessity init...
+2018-12-02 17:18:35,925 - myLogging.py[line:37] - DEBUG: logging init over
+2018-12-02 17:18:36,132 - zy_check_necessity.py[line:150] - DEBUG: zy_necessity init...
+2018-12-02 17:27:13,902 - myLogging.py[line:37] - DEBUG: logging init over
+2018-12-02 17:27:14,104 - zy_check_necessity.py[line:150] - DEBUG: zy_necessity init...
+2018-12-02 17:28:29,983 - myLogging.py[line:37] - DEBUG: logging init over
+2018-12-02 17:28:30,168 - zy_check_necessity.py[line:150] - DEBUG: zy_necessity init...
+2018-12-02 17:30:09,477 - myLogging.py[line:37] - DEBUG: logging init over
+2018-12-02 17:30:09,695 - zy_check_necessity.py[line:150] - DEBUG: zy_necessity init...
+2018-12-02 21:16:26,476 - myLogging.py[line:37] - DEBUG: logging init over
+2018-12-02 21:16:31,647 - mainWin.py[line:26] - DEBUG: mainWin>init..
+2018-12-02 21:16:32,803 - mainWin.py[line:76] - DEBUG: mainWin>init ok
+2018-12-02 21:16:39,442 - importFileDialog.py[line:17] - DEBUG: importFileDialog init..
+2018-12-02 21:16:39,473 - importFileDialog.py[line:24] - DEBUG: importFileDialog init ok
+2018-12-02 21:17:05,991 - mainWin.py[line:394] - DEBUG: mainWin>function:openFile:try
+2018-12-02 21:17:05,991 - mainWin.py[line:210] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/A310151.18.csv
+2018-12-02 21:17:06,009 - mainWin.py[line:394] - DEBUG: mainWin>function:openFile:try
+2018-12-02 21:17:06,009 - mainWin.py[line:210] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/B310151.18.csv
+2018-12-02 21:17:06,017 - mainWin.py[line:394] - DEBUG: mainWin>function:openFile:try
+2018-12-02 21:17:06,017 - mainWin.py[line:210] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/住户样本310151.18.csv
+2018-12-02 21:17:06,022 - mainWin.py[line:394] - DEBUG: mainWin>function:openFile:try
+2018-12-02 21:17:06,023 - mainWin.py[line:210] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/住宅名录310151.18.csv
+2018-12-02 21:17:06,026 - mainWin.py[line:394] - DEBUG: mainWin>function:openFile:try
+2018-12-02 21:17:06,026 - mainWin.py[line:210] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/小区名录310151.18.csv
+2018-12-02 21:17:06,028 - mainWin.py[line:394] - DEBUG: mainWin>function:openFile:try
+2018-12-02 21:17:06,028 - mainWin.py[line:210] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/D3101511806.csv
+2018-12-02 21:17:07,492 - zyCheckDialog.py[line:19] - DEBUG: zyCheckDialog init..
+2018-12-02 21:17:07,538 - zyCheckDialog.py[line:24] - DEBUG: zyCheckDialog init ok
+2018-12-02 21:17:30,580 - zy_check_necessity.py[line:150] - DEBUG: zy_necessity init...
+2018-12-02 21:18:15,571 - myLogging.py[line:37] - DEBUG: logging init over
+2018-12-02 21:18:15,742 - mainWin.py[line:26] - DEBUG: mainWin>init..
+2018-12-02 21:18:16,117 - mainWin.py[line:76] - DEBUG: mainWin>init ok
+2018-12-02 21:18:21,521 - importFileDialog.py[line:17] - DEBUG: importFileDialog init..
+2018-12-02 21:18:21,521 - importFileDialog.py[line:24] - DEBUG: importFileDialog init ok
+2018-12-02 21:18:49,463 - mainWin.py[line:394] - DEBUG: mainWin>function:openFile:try
+2018-12-02 21:18:49,463 - mainWin.py[line:210] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/A310151.18.csv
+2018-12-02 21:18:49,480 - mainWin.py[line:394] - DEBUG: mainWin>function:openFile:try
+2018-12-02 21:18:49,480 - mainWin.py[line:210] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/B310151.18.csv
+2018-12-02 21:18:49,487 - mainWin.py[line:394] - DEBUG: mainWin>function:openFile:try
+2018-12-02 21:18:49,487 - mainWin.py[line:210] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/住户样本310151.18.csv
+2018-12-02 21:18:49,493 - mainWin.py[line:394] - DEBUG: mainWin>function:openFile:try
+2018-12-02 21:18:49,493 - mainWin.py[line:210] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/住宅名录310151.18.csv
+2018-12-02 21:18:49,497 - mainWin.py[line:394] - DEBUG: mainWin>function:openFile:try
+2018-12-02 21:18:49,497 - mainWin.py[line:210] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/小区名录310151.18.csv
+2018-12-02 21:18:49,500 - mainWin.py[line:394] - DEBUG: mainWin>function:openFile:try
+2018-12-02 21:18:49,500 - mainWin.py[line:210] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/D3101511806.csv
+2018-12-02 21:18:50,652 - zyCheckDialog.py[line:19] - DEBUG: zyCheckDialog init..
+2018-12-02 21:18:50,652 - zyCheckDialog.py[line:24] - DEBUG: zyCheckDialog init ok
+2018-12-02 21:18:57,670 - zy_check_necessity.py[line:150] - DEBUG: zy_necessity init...
+2018-12-02 21:19:04,793 - mainWin.py[line:615] - DEBUG: 将结果显示在表上

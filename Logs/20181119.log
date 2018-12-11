@@ -1,0 +1,7 @@
+2018-11-19 19:25:50,150 - myLogging.py[line:37] - DEBUG: logging init over
+2018-11-19 19:25:50,181 - A_suggestion_check.py[line:50] - DEBUG: A_necessity_check init..
+2018-11-19 19:26:56,276 - myLogging.py[line:37] - DEBUG: logging init over
+2018-11-19 19:26:56,307 - A_suggestion_check.py[line:50] - DEBUG: A_necessity_check init..
+2018-11-19 19:49:30,445 - myLogging.py[line:37] - DEBUG: logging init over
+2018-11-19 19:49:30,445 - deal_taizhang.py[line:18] - DEBUG: deal_taizhang init..
+2018-11-19 19:49:30,445 - deal_taizhang.py[line:98] - DEBUG: deal_taizhang init ok

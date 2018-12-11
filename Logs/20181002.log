@@ -1,0 +1,643 @@
+2018-10-02 19:23:45,076 - myLogging.py[line:32] - DEBUG: logging init over
+2018-10-02 19:23:45,077 - myLogging.py[line:35] - DEBUG: deal_taizhang init over
+2018-10-02 19:48:37,545 - myLogging.py[line:32] - DEBUG: logging init over
+2018-10-02 19:48:37,546 - myLogging.py[line:32] - DEBUG: logging init over
+2018-10-02 19:48:37,546 - myLogging.py[line:32] - DEBUG: logging init over
+2018-10-02 19:48:37,547 - myLogging.py[line:35] - DEBUG: deal_taizhang init over
+2018-10-02 19:48:37,547 - myLogging.py[line:35] - DEBUG: deal_taizhang init over
+2018-10-02 19:49:34,898 - myLogging.py[line:32] - DEBUG: logging init over
+2018-10-02 19:49:34,898 - myLogging.py[line:32] - DEBUG: logging init over
+2018-10-02 19:49:34,898 - myLogging.py[line:32] - DEBUG: logging init over
+2018-10-02 19:49:34,900 - myLogging.py[line:35] - DEBUG: deal_taizhang init over
+2018-10-02 19:49:34,900 - myLogging.py[line:35] - DEBUG: deal_taizhang init over
+2018-10-02 19:49:52,848 - myLogging.py[line:32] - DEBUG: logging init over
+2018-10-02 19:49:52,848 - myLogging.py[line:32] - DEBUG: logging init over
+2018-10-02 19:49:52,848 - myLogging.py[line:32] - DEBUG: logging init over
+2018-10-02 19:49:52,849 - myLogging.py[line:35] - DEBUG: deal_taizhang init over
+2018-10-02 19:49:52,849 - myLogging.py[line:35] - DEBUG: deal_taizhang init over
+2018-10-02 19:49:52,862 - myLogging.py[line:35] - DEBUG: mainWin>openFile:D:/Document/Code/Python/AuditingApp/src/输入文件夹/小区名录310151.18.csv
+2018-10-02 19:49:52,862 - myLogging.py[line:35] - DEBUG: mainWin>openFile:D:/Document/Code/Python/AuditingApp/src/输入文件夹/小区名录310151.18.csv
+2018-10-02 19:49:52,872 - myLogging.py[line:35] - DEBUG: mainWin>function:openTownList
+2018-10-02 19:49:52,872 - myLogging.py[line:35] - DEBUG: mainWin>function:openTownList
+2018-10-02 19:49:52,873 - myLogging.py[line:35] - DEBUG: mainWin>init ok
+2018-10-02 19:49:52,873 - myLogging.py[line:35] - DEBUG: mainWin>init ok
+2018-10-02 19:50:45,257 - myLogging.py[line:32] - DEBUG: logging init over
+2018-10-02 19:50:45,257 - myLogging.py[line:32] - DEBUG: logging init over
+2018-10-02 19:50:45,257 - myLogging.py[line:32] - DEBUG: logging init over
+2018-10-02 19:50:45,258 - myLogging.py[line:35] - DEBUG: deal_taizhang init over
+2018-10-02 19:50:45,258 - myLogging.py[line:35] - DEBUG: deal_taizhang init over
+2018-10-02 19:50:45,278 - myLogging.py[line:35] - DEBUG: mainWin>openFile:D:/Document/Code/Python/AuditingApp/src/输入文件夹/小区名录310151.18.csv
+2018-10-02 19:50:45,278 - myLogging.py[line:35] - DEBUG: mainWin>openFile:D:/Document/Code/Python/AuditingApp/src/输入文件夹/小区名录310151.18.csv
+2018-10-02 19:50:45,289 - myLogging.py[line:35] - DEBUG: mainWin>function:openTownList
+2018-10-02 19:50:45,289 - myLogging.py[line:35] - DEBUG: mainWin>function:openTownList
+2018-10-02 19:50:45,289 - myLogging.py[line:35] - DEBUG: mainWin>init ok
+2018-10-02 19:50:45,289 - myLogging.py[line:35] - DEBUG: mainWin>init ok
+2018-10-02 19:50:49,503 - myLogging.py[line:35] - DEBUG: mainWin>function:setTableA
+2018-10-02 19:50:49,503 - myLogging.py[line:35] - DEBUG: mainWin>function:setTableA
+2018-10-02 19:50:53,220 - myLogging.py[line:35] - DEBUG: mainWin>function:setTableZy
+2018-10-02 19:50:53,220 - myLogging.py[line:35] - DEBUG: mainWin>function:setTableZy
+2018-10-02 19:50:56,877 - myLogging.py[line:35] - DEBUG: mainWin>function:getCommunityCode
+2018-10-02 19:50:56,877 - myLogging.py[line:35] - DEBUG: mainWin>function:getCommunityCode
+2018-10-02 19:50:56,878 - myLogging.py[line:35] - DEBUG: deal_taizhang>function:getCommunity 1
+2018-10-02 19:50:56,878 - myLogging.py[line:35] - DEBUG: deal_taizhang>function:getCommunity 1
+2018-10-02 19:55:10,720 - myLogging.py[line:32] - DEBUG: logging init over
+2018-10-02 19:55:10,721 - myLogging.py[line:32] - DEBUG: logging init over
+2018-10-02 19:55:10,721 - myLogging.py[line:32] - DEBUG: logging init over
+2018-10-02 19:55:46,289 - myLogging.py[line:32] - DEBUG: logging init over
+2018-10-02 19:55:46,290 - myLogging.py[line:32] - DEBUG: logging init over
+2018-10-02 19:55:46,290 - myLogging.py[line:32] - DEBUG: logging init over
+2018-10-02 19:55:46,290 - myLogging.py[line:35] - DEBUG: deal_taizhang init over
+2018-10-02 19:55:46,290 - myLogging.py[line:35] - DEBUG: deal_taizhang init over
+2018-10-02 19:55:46,315 - myLogging.py[line:35] - DEBUG: mainWin>openFile:D:/Document/Code/Python/AuditingApp/src/输入文件夹/小区名录310151.18.csv
+2018-10-02 19:55:46,315 - myLogging.py[line:35] - DEBUG: mainWin>openFile:D:/Document/Code/Python/AuditingApp/src/输入文件夹/小区名录310151.18.csv
+2018-10-02 19:55:46,329 - myLogging.py[line:35] - DEBUG: mainWin>function:openTownList
+2018-10-02 19:55:46,329 - myLogging.py[line:35] - DEBUG: mainWin>function:openTownList
+2018-10-02 19:55:46,330 - myLogging.py[line:35] - DEBUG: mainWin>init ok
+2018-10-02 19:55:46,330 - myLogging.py[line:35] - DEBUG: mainWin>init ok
+2018-10-02 19:55:48,192 - myLogging.py[line:35] - DEBUG: mainWin>function:setTableA
+2018-10-02 19:55:48,192 - myLogging.py[line:35] - DEBUG: mainWin>function:setTableA
+2018-10-02 19:56:25,191 - myLogging.py[line:35] - DEBUG: mainWin>function:setTableZy
+2018-10-02 19:56:25,191 - myLogging.py[line:35] - DEBUG: mainWin>function:setTableZy
+2018-10-02 19:56:28,501 - myLogging.py[line:35] - DEBUG: mainWin>function:getCommunityCode
+2018-10-02 19:56:28,501 - myLogging.py[line:35] - DEBUG: mainWin>function:getCommunityCode
+2018-10-02 19:56:28,501 - myLogging.py[line:35] - DEBUG: deal_taizhang>function:getCommunity 1
+2018-10-02 19:56:28,501 - myLogging.py[line:35] - DEBUG: deal_taizhang>function:getCommunity 1
+2018-10-02 19:58:13,791 - myLogging.py[line:32] - DEBUG: logging init over
+2018-10-02 19:58:13,791 - myLogging.py[line:32] - DEBUG: logging init over
+2018-10-02 19:58:13,791 - myLogging.py[line:32] - DEBUG: logging init over
+2018-10-02 19:58:13,792 - myLogging.py[line:35] - DEBUG: deal_taizhang init over
+2018-10-02 19:58:13,792 - myLogging.py[line:35] - DEBUG: deal_taizhang init over
+2018-10-02 19:58:13,810 - myLogging.py[line:35] - DEBUG: mainWin>openFile:D:/Document/Code/Python/AuditingApp/src/输入文件夹/小区名录310151.18.csv
+2018-10-02 19:58:13,810 - myLogging.py[line:35] - DEBUG: mainWin>openFile:D:/Document/Code/Python/AuditingApp/src/输入文件夹/小区名录310151.18.csv
+2018-10-02 19:58:13,821 - myLogging.py[line:35] - DEBUG: mainWin>function:openTownList
+2018-10-02 19:58:13,821 - myLogging.py[line:35] - DEBUG: mainWin>function:openTownList
+2018-10-02 19:58:13,821 - myLogging.py[line:35] - DEBUG: mainWin>init ok
+2018-10-02 19:58:13,821 - myLogging.py[line:35] - DEBUG: mainWin>init ok
+2018-10-02 19:58:15,415 - myLogging.py[line:35] - DEBUG: mainWin>function:setTableA
+2018-10-02 19:58:15,415 - myLogging.py[line:35] - DEBUG: mainWin>function:setTableA
+2018-10-02 19:58:18,364 - myLogging.py[line:35] - DEBUG: mainWin>function:setTableZy
+2018-10-02 19:58:18,364 - myLogging.py[line:35] - DEBUG: mainWin>function:setTableZy
+2018-10-02 19:58:21,786 - myLogging.py[line:35] - DEBUG: mainWin>function:getCommunityCode
+2018-10-02 19:58:21,786 - myLogging.py[line:35] - DEBUG: mainWin>function:getCommunityCode
+2018-10-02 19:58:21,786 - myLogging.py[line:35] - DEBUG: deal_taizhang>function:getCommunity 1
+2018-10-02 19:58:21,786 - myLogging.py[line:35] - DEBUG: deal_taizhang>function:getCommunity 1
+2018-10-02 19:58:52,480 - myLogging.py[line:32] - DEBUG: logging init over
+2018-10-02 19:58:52,480 - myLogging.py[line:32] - DEBUG: logging init over
+2018-10-02 19:58:52,480 - myLogging.py[line:32] - DEBUG: logging init over
+2018-10-02 19:58:52,481 - myLogging.py[line:35] - DEBUG: deal_taizhang init over
+2018-10-02 19:58:52,481 - myLogging.py[line:35] - DEBUG: deal_taizhang init over
+2018-10-02 19:58:52,498 - myLogging.py[line:35] - DEBUG: mainWin>openFile:D:/Document/Code/Python/AuditingApp/src/输入文件夹/小区名录310151.18.csv
+2018-10-02 19:58:52,498 - myLogging.py[line:35] - DEBUG: mainWin>openFile:D:/Document/Code/Python/AuditingApp/src/输入文件夹/小区名录310151.18.csv
+2018-10-02 19:58:52,506 - myLogging.py[line:35] - DEBUG: mainWin>function:openTownList
+2018-10-02 19:58:52,506 - myLogging.py[line:35] - DEBUG: mainWin>function:openTownList
+2018-10-02 19:58:52,506 - myLogging.py[line:35] - DEBUG: mainWin>init ok
+2018-10-02 19:58:52,506 - myLogging.py[line:35] - DEBUG: mainWin>init ok
+2018-10-02 19:58:53,930 - myLogging.py[line:35] - DEBUG: mainWin>function:setTableA
+2018-10-02 19:58:53,930 - myLogging.py[line:35] - DEBUG: mainWin>function:setTableA
+2018-10-02 19:58:57,139 - myLogging.py[line:35] - DEBUG: mainWin>function:setTableZy
+2018-10-02 19:58:57,139 - myLogging.py[line:35] - DEBUG: mainWin>function:setTableZy
+2018-10-02 19:58:59,847 - myLogging.py[line:35] - DEBUG: mainWin>function:getCommunityCode
+2018-10-02 19:58:59,847 - myLogging.py[line:35] - DEBUG: mainWin>function:getCommunityCode
+2018-10-02 19:58:59,847 - myLogging.py[line:35] - DEBUG: deal_taizhang>function:getCommunity 1
+2018-10-02 19:58:59,847 - myLogging.py[line:35] - DEBUG: deal_taizhang>function:getCommunity 1
+2018-10-02 20:05:14,164 - myLogging.py[line:32] - DEBUG: logging init over
+2018-10-02 20:05:14,164 - myLogging.py[line:32] - DEBUG: logging init over
+2018-10-02 20:05:14,164 - myLogging.py[line:32] - DEBUG: logging init over
+2018-10-02 20:05:14,264 - myLogging.py[line:35] - DEBUG: deal_taizhang init over
+2018-10-02 20:05:14,264 - myLogging.py[line:35] - DEBUG: deal_taizhang init over
+2018-10-02 20:05:14,282 - myLogging.py[line:35] - DEBUG: mainWin>openFile:D:/Document/Code/Python/AuditingApp/src/输入文件夹/小区名录310151.18.csv
+2018-10-02 20:05:14,282 - myLogging.py[line:35] - DEBUG: mainWin>openFile:D:/Document/Code/Python/AuditingApp/src/输入文件夹/小区名录310151.18.csv
+2018-10-02 20:05:14,290 - myLogging.py[line:35] - DEBUG: mainWin>function:openTownList
+2018-10-02 20:05:14,290 - myLogging.py[line:35] - DEBUG: mainWin>function:openTownList
+2018-10-02 20:05:14,291 - myLogging.py[line:35] - DEBUG: mainWin>init ok
+2018-10-02 20:05:14,291 - myLogging.py[line:35] - DEBUG: mainWin>init ok
+2018-10-02 20:05:15,958 - myLogging.py[line:35] - DEBUG: mainWin>function:setTableA
+2018-10-02 20:05:15,958 - myLogging.py[line:35] - DEBUG: mainWin>function:setTableA
+2018-10-02 20:05:19,310 - myLogging.py[line:35] - DEBUG: mainWin>function:setTableZy
+2018-10-02 20:05:19,310 - myLogging.py[line:35] - DEBUG: mainWin>function:setTableZy
+2018-10-02 20:05:22,540 - myLogging.py[line:35] - DEBUG: mainWin>function:getCommunityCode
+2018-10-02 20:05:22,540 - myLogging.py[line:35] - DEBUG: mainWin>function:getCommunityCode
+2018-10-02 20:05:22,540 - myLogging.py[line:35] - DEBUG: deal_taizhang>function:getCommunity 1
+2018-10-02 20:05:22,540 - myLogging.py[line:35] - DEBUG: deal_taizhang>function:getCommunity 1
+2018-10-02 20:06:23,056 - myLogging.py[line:32] - DEBUG: logging init over
+2018-10-02 20:06:23,057 - myLogging.py[line:32] - DEBUG: logging init over
+2018-10-02 20:06:23,057 - myLogging.py[line:32] - DEBUG: logging init over
+2018-10-02 20:06:23,062 - myLogging.py[line:35] - DEBUG: deal_taizhang init over
+2018-10-02 20:06:23,062 - myLogging.py[line:35] - DEBUG: deal_taizhang init over
+2018-10-02 20:06:23,101 - myLogging.py[line:35] - DEBUG: mainWin>openFile:D:/Document/Code/Python/AuditingApp/src/输入文件夹/小区名录310151.18.csv
+2018-10-02 20:06:23,101 - myLogging.py[line:35] - DEBUG: mainWin>openFile:D:/Document/Code/Python/AuditingApp/src/输入文件夹/小区名录310151.18.csv
+2018-10-02 20:06:23,115 - myLogging.py[line:35] - DEBUG: mainWin>function:openTownList
+2018-10-02 20:06:23,115 - myLogging.py[line:35] - DEBUG: mainWin>function:openTownList
+2018-10-02 20:06:23,116 - myLogging.py[line:35] - DEBUG: mainWin>init ok
+2018-10-02 20:06:23,116 - myLogging.py[line:35] - DEBUG: mainWin>init ok
+2018-10-02 20:06:24,711 - myLogging.py[line:35] - DEBUG: mainWin>function:setTableA
+2018-10-02 20:06:24,711 - myLogging.py[line:35] - DEBUG: mainWin>function:setTableA
+2018-10-02 20:06:28,193 - myLogging.py[line:35] - DEBUG: mainWin>function:setTableZy
+2018-10-02 20:06:28,193 - myLogging.py[line:35] - DEBUG: mainWin>function:setTableZy
+2018-10-02 20:06:44,874 - myLogging.py[line:32] - DEBUG: logging init over
+2018-10-02 20:06:44,874 - myLogging.py[line:32] - DEBUG: logging init over
+2018-10-02 20:06:44,874 - myLogging.py[line:32] - DEBUG: logging init over
+2018-10-02 20:06:44,887 - myLogging.py[line:35] - DEBUG: deal_taizhang init over
+2018-10-02 20:06:44,887 - myLogging.py[line:35] - DEBUG: deal_taizhang init over
+2018-10-02 20:06:44,911 - myLogging.py[line:35] - DEBUG: mainWin>openFile:D:/Document/Code/Python/AuditingApp/src/输入文件夹/小区名录310151.18.csv
+2018-10-02 20:06:44,911 - myLogging.py[line:35] - DEBUG: mainWin>openFile:D:/Document/Code/Python/AuditingApp/src/输入文件夹/小区名录310151.18.csv
+2018-10-02 20:06:44,925 - myLogging.py[line:35] - DEBUG: mainWin>function:openTownList
+2018-10-02 20:06:44,925 - myLogging.py[line:35] - DEBUG: mainWin>function:openTownList
+2018-10-02 20:06:44,926 - myLogging.py[line:35] - DEBUG: mainWin>init ok
+2018-10-02 20:06:44,926 - myLogging.py[line:35] - DEBUG: mainWin>init ok
+2018-10-02 20:06:46,688 - myLogging.py[line:35] - DEBUG: mainWin>function:setTableA
+2018-10-02 20:06:46,688 - myLogging.py[line:35] - DEBUG: mainWin>function:setTableA
+2018-10-02 20:06:49,850 - myLogging.py[line:35] - DEBUG: mainWin>function:setTableZy
+2018-10-02 20:06:49,850 - myLogging.py[line:35] - DEBUG: mainWin>function:setTableZy
+2018-10-02 20:06:53,755 - myLogging.py[line:35] - DEBUG: mainWin>function:getCommunityCode
+2018-10-02 20:06:53,755 - myLogging.py[line:35] - DEBUG: mainWin>function:getCommunityCode
+2018-10-02 20:06:53,755 - myLogging.py[line:35] - DEBUG: deal_taizhang>function:getCommunity 1
+2018-10-02 20:06:53,755 - myLogging.py[line:35] - DEBUG: deal_taizhang>function:getCommunity 1
+2018-10-02 20:10:39,960 - myLogging.py[line:32] - DEBUG: logging init over
+2018-10-02 20:10:39,960 - myLogging.py[line:32] - DEBUG: logging init over
+2018-10-02 20:10:39,960 - myLogging.py[line:32] - DEBUG: logging init over
+2018-10-02 20:10:39,972 - myLogging.py[line:35] - DEBUG: deal_taizhang init over
+2018-10-02 20:10:39,972 - myLogging.py[line:35] - DEBUG: deal_taizhang init over
+2018-10-02 20:10:39,994 - myLogging.py[line:35] - DEBUG: mainWin>openFile:D:/Document/Code/Python/AuditingApp/src/输入文件夹/小区名录310151.18.csv
+2018-10-02 20:10:39,994 - myLogging.py[line:35] - DEBUG: mainWin>openFile:D:/Document/Code/Python/AuditingApp/src/输入文件夹/小区名录310151.18.csv
+2018-10-02 20:10:40,007 - myLogging.py[line:35] - DEBUG: mainWin>function:openTownList
+2018-10-02 20:10:40,007 - myLogging.py[line:35] - DEBUG: mainWin>function:openTownList
+2018-10-02 20:10:40,007 - myLogging.py[line:35] - DEBUG: mainWin>init ok
+2018-10-02 20:10:40,007 - myLogging.py[line:35] - DEBUG: mainWin>init ok
+2018-10-02 20:10:50,823 - myLogging.py[line:35] - DEBUG: mainWin>function:setTableA
+2018-10-02 20:10:50,823 - myLogging.py[line:35] - DEBUG: mainWin>function:setTableA
+2018-10-02 20:10:54,225 - myLogging.py[line:35] - DEBUG: mainWin>function:setTableZy
+2018-10-02 20:10:54,225 - myLogging.py[line:35] - DEBUG: mainWin>function:setTableZy
+2018-10-02 20:10:57,300 - myLogging.py[line:35] - DEBUG: mainWin>function:getCommunityCode
+2018-10-02 20:10:57,300 - myLogging.py[line:35] - DEBUG: mainWin>function:getCommunityCode
+2018-10-02 20:10:57,301 - myLogging.py[line:35] - DEBUG: deal_taizhang>function:getCommunity 1
+2018-10-02 20:10:57,301 - myLogging.py[line:35] - DEBUG: deal_taizhang>function:getCommunity 1
+2018-10-02 20:12:07,207 - myLogging.py[line:32] - DEBUG: logging init over
+2018-10-02 20:12:07,207 - myLogging.py[line:32] - DEBUG: logging init over
+2018-10-02 20:12:07,207 - myLogging.py[line:32] - DEBUG: logging init over
+2018-10-02 20:12:07,218 - myLogging.py[line:35] - DEBUG: deal_taizhang init over
+2018-10-02 20:12:07,218 - myLogging.py[line:35] - DEBUG: deal_taizhang init over
+2018-10-02 20:12:07,241 - myLogging.py[line:35] - DEBUG: mainWin>openFile:D:/Document/Code/Python/AuditingApp/src/输入文件夹/小区名录310151.18.csv
+2018-10-02 20:12:07,241 - myLogging.py[line:35] - DEBUG: mainWin>openFile:D:/Document/Code/Python/AuditingApp/src/输入文件夹/小区名录310151.18.csv
+2018-10-02 20:12:07,254 - myLogging.py[line:35] - DEBUG: mainWin>function:openTownList
+2018-10-02 20:12:07,254 - myLogging.py[line:35] - DEBUG: mainWin>function:openTownList
+2018-10-02 20:12:07,254 - myLogging.py[line:35] - DEBUG: mainWin>init ok
+2018-10-02 20:12:07,254 - myLogging.py[line:35] - DEBUG: mainWin>init ok
+2018-10-02 20:12:09,212 - myLogging.py[line:35] - DEBUG: mainWin>function:setTableA
+2018-10-02 20:12:09,212 - myLogging.py[line:35] - DEBUG: mainWin>function:setTableA
+2018-10-02 20:12:12,299 - myLogging.py[line:35] - DEBUG: mainWin>function:setTableZy
+2018-10-02 20:12:12,299 - myLogging.py[line:35] - DEBUG: mainWin>function:setTableZy
+2018-10-02 20:12:15,384 - myLogging.py[line:35] - DEBUG: mainWin>function:getCommunityCode
+2018-10-02 20:12:15,384 - myLogging.py[line:35] - DEBUG: mainWin>function:getCommunityCode
+2018-10-02 20:12:15,384 - myLogging.py[line:35] - DEBUG: deal_taizhang>function:getCommunity 1
+2018-10-02 20:12:15,384 - myLogging.py[line:35] - DEBUG: deal_taizhang>function:getCommunity 1
+2018-10-02 20:13:09,608 - myLogging.py[line:32] - DEBUG: logging init over
+2018-10-02 20:13:09,609 - myLogging.py[line:32] - DEBUG: logging init over
+2018-10-02 20:13:09,609 - myLogging.py[line:32] - DEBUG: logging init over
+2018-10-02 20:13:09,625 - myLogging.py[line:35] - DEBUG: deal_taizhang init over
+2018-10-02 20:13:09,625 - myLogging.py[line:35] - DEBUG: deal_taizhang init over
+2018-10-02 20:13:09,672 - myLogging.py[line:35] - DEBUG: mainWin>openFile:D:/Document/Code/Python/AuditingApp/src/输入文件夹/小区名录310151.18.csv
+2018-10-02 20:13:09,672 - myLogging.py[line:35] - DEBUG: mainWin>openFile:D:/Document/Code/Python/AuditingApp/src/输入文件夹/小区名录310151.18.csv
+2018-10-02 20:13:09,685 - myLogging.py[line:35] - DEBUG: mainWin>function:openTownList
+2018-10-02 20:13:09,685 - myLogging.py[line:35] - DEBUG: mainWin>function:openTownList
+2018-10-02 20:13:09,686 - myLogging.py[line:35] - DEBUG: mainWin>init ok
+2018-10-02 20:13:09,686 - myLogging.py[line:35] - DEBUG: mainWin>init ok
+2018-10-02 20:13:11,027 - myLogging.py[line:35] - DEBUG: mainWin>function:setTableA
+2018-10-02 20:13:11,027 - myLogging.py[line:35] - DEBUG: mainWin>function:setTableA
+2018-10-02 20:13:14,783 - myLogging.py[line:35] - DEBUG: mainWin>function:setTableZy
+2018-10-02 20:13:14,783 - myLogging.py[line:35] - DEBUG: mainWin>function:setTableZy
+2018-10-02 20:13:18,497 - myLogging.py[line:35] - DEBUG: mainWin>function:getCommunityCode
+2018-10-02 20:13:18,497 - myLogging.py[line:35] - DEBUG: mainWin>function:getCommunityCode
+2018-10-02 20:13:18,498 - myLogging.py[line:35] - DEBUG: deal_taizhang>function:getCommunity 1
+2018-10-02 20:13:18,498 - myLogging.py[line:35] - DEBUG: deal_taizhang>function:getCommunity 1
+2018-10-02 20:13:42,938 - myLogging.py[line:32] - DEBUG: logging init over
+2018-10-02 20:13:42,938 - myLogging.py[line:32] - DEBUG: logging init over
+2018-10-02 20:13:42,938 - myLogging.py[line:32] - DEBUG: logging init over
+2018-10-02 20:13:42,949 - myLogging.py[line:35] - DEBUG: deal_taizhang init over
+2018-10-02 20:13:42,949 - myLogging.py[line:35] - DEBUG: deal_taizhang init over
+2018-10-02 20:13:42,973 - myLogging.py[line:35] - DEBUG: mainWin>openFile:D:/Document/Code/Python/AuditingApp/src/输入文件夹/小区名录310151.18.csv
+2018-10-02 20:13:42,973 - myLogging.py[line:35] - DEBUG: mainWin>openFile:D:/Document/Code/Python/AuditingApp/src/输入文件夹/小区名录310151.18.csv
+2018-10-02 20:13:42,986 - myLogging.py[line:35] - DEBUG: mainWin>function:openTownList
+2018-10-02 20:13:42,986 - myLogging.py[line:35] - DEBUG: mainWin>function:openTownList
+2018-10-02 20:13:42,986 - myLogging.py[line:35] - DEBUG: mainWin>init ok
+2018-10-02 20:13:42,986 - myLogging.py[line:35] - DEBUG: mainWin>init ok
+2018-10-02 20:13:44,386 - myLogging.py[line:35] - DEBUG: mainWin>function:setTableA
+2018-10-02 20:13:44,386 - myLogging.py[line:35] - DEBUG: mainWin>function:setTableA
+2018-10-02 20:13:47,319 - myLogging.py[line:35] - DEBUG: mainWin>function:setTableZy
+2018-10-02 20:13:47,319 - myLogging.py[line:35] - DEBUG: mainWin>function:setTableZy
+2018-10-02 20:13:50,054 - myLogging.py[line:35] - DEBUG: mainWin>function:getCommunityCode
+2018-10-02 20:13:50,054 - myLogging.py[line:35] - DEBUG: mainWin>function:getCommunityCode
+2018-10-02 20:13:50,055 - myLogging.py[line:35] - DEBUG: deal_taizhang>function:getCommunity 1
+2018-10-02 20:13:50,055 - myLogging.py[line:35] - DEBUG: deal_taizhang>function:getCommunity 1
+2018-10-02 20:14:24,197 - myLogging.py[line:32] - DEBUG: logging init over
+2018-10-02 20:14:24,198 - myLogging.py[line:32] - DEBUG: logging init over
+2018-10-02 20:14:24,198 - myLogging.py[line:32] - DEBUG: logging init over
+2018-10-02 20:14:24,198 - myLogging.py[line:35] - DEBUG: deal_taizhang init over
+2018-10-02 20:14:24,198 - myLogging.py[line:35] - DEBUG: deal_taizhang init over
+2018-10-02 20:14:24,214 - myLogging.py[line:35] - DEBUG: mainWin>openFile:D:/Document/Code/Python/AuditingApp/src/输入文件夹/小区名录310151.18.csv
+2018-10-02 20:14:24,214 - myLogging.py[line:35] - DEBUG: mainWin>openFile:D:/Document/Code/Python/AuditingApp/src/输入文件夹/小区名录310151.18.csv
+2018-10-02 20:14:24,223 - myLogging.py[line:35] - DEBUG: mainWin>function:openTownList
+2018-10-02 20:14:24,223 - myLogging.py[line:35] - DEBUG: mainWin>function:openTownList
+2018-10-02 20:14:24,223 - myLogging.py[line:35] - DEBUG: mainWin>init ok
+2018-10-02 20:14:24,223 - myLogging.py[line:35] - DEBUG: mainWin>init ok
+2018-10-02 20:14:25,686 - myLogging.py[line:35] - DEBUG: mainWin>function:setTableA
+2018-10-02 20:14:25,686 - myLogging.py[line:35] - DEBUG: mainWin>function:setTableA
+2018-10-02 20:14:28,566 - myLogging.py[line:35] - DEBUG: mainWin>function:setTableZy
+2018-10-02 20:14:28,566 - myLogging.py[line:35] - DEBUG: mainWin>function:setTableZy
+2018-10-02 20:14:31,704 - myLogging.py[line:35] - DEBUG: mainWin>function:getCommunityCode
+2018-10-02 20:14:31,704 - myLogging.py[line:35] - DEBUG: mainWin>function:getCommunityCode
+2018-10-02 20:14:31,704 - myLogging.py[line:35] - DEBUG: deal_taizhang>function:getCommunity 1
+2018-10-02 20:14:31,704 - myLogging.py[line:35] - DEBUG: deal_taizhang>function:getCommunity 1
+2018-10-02 20:15:08,166 - myLogging.py[line:32] - DEBUG: logging init over
+2018-10-02 20:15:08,166 - myLogging.py[line:32] - DEBUG: logging init over
+2018-10-02 20:15:08,166 - myLogging.py[line:32] - DEBUG: logging init over
+2018-10-02 20:15:08,166 - myLogging.py[line:35] - DEBUG: deal_taizhang init over
+2018-10-02 20:15:08,166 - myLogging.py[line:35] - DEBUG: deal_taizhang init over
+2018-10-02 20:15:08,187 - myLogging.py[line:35] - DEBUG: mainWin>openFile:D:/Document/Code/Python/AuditingApp/src/输入文件夹/小区名录310151.18.csv
+2018-10-02 20:15:08,187 - myLogging.py[line:35] - DEBUG: mainWin>openFile:D:/Document/Code/Python/AuditingApp/src/输入文件夹/小区名录310151.18.csv
+2018-10-02 20:15:08,197 - myLogging.py[line:35] - DEBUG: mainWin>function:openTownList
+2018-10-02 20:15:08,197 - myLogging.py[line:35] - DEBUG: mainWin>function:openTownList
+2018-10-02 20:15:08,197 - myLogging.py[line:35] - DEBUG: mainWin>init ok
+2018-10-02 20:15:08,197 - myLogging.py[line:35] - DEBUG: mainWin>init ok
+2018-10-02 20:16:28,703 - myLogging.py[line:32] - DEBUG: logging init over
+2018-10-02 20:16:28,704 - myLogging.py[line:32] - DEBUG: logging init over
+2018-10-02 20:16:28,704 - myLogging.py[line:32] - DEBUG: logging init over
+2018-10-02 20:16:28,704 - myLogging.py[line:35] - DEBUG: deal_taizhang init over
+2018-10-02 20:16:28,704 - myLogging.py[line:35] - DEBUG: deal_taizhang init over
+2018-10-02 20:16:28,724 - myLogging.py[line:35] - DEBUG: mainWin>openFile:D:/Document/Code/Python/AuditingApp/src/输入文件夹/小区名录310151.18.csv
+2018-10-02 20:16:28,724 - myLogging.py[line:35] - DEBUG: mainWin>openFile:D:/Document/Code/Python/AuditingApp/src/输入文件夹/小区名录310151.18.csv
+2018-10-02 20:16:28,734 - myLogging.py[line:35] - DEBUG: mainWin>function:openTownList
+2018-10-02 20:16:28,734 - myLogging.py[line:35] - DEBUG: mainWin>function:openTownList
+2018-10-02 20:16:28,734 - myLogging.py[line:35] - DEBUG: mainWin>init ok
+2018-10-02 20:16:28,734 - myLogging.py[line:35] - DEBUG: mainWin>init ok
+2018-10-02 20:16:30,359 - myLogging.py[line:35] - DEBUG: mainWin>function:setTableA
+2018-10-02 20:16:30,359 - myLogging.py[line:35] - DEBUG: mainWin>function:setTableA
+2018-10-02 20:16:33,012 - myLogging.py[line:35] - DEBUG: mainWin>function:setTableZy
+2018-10-02 20:16:33,012 - myLogging.py[line:35] - DEBUG: mainWin>function:setTableZy
+2018-10-02 20:16:36,039 - myLogging.py[line:35] - DEBUG: mainWin>function:getCommunityCode
+2018-10-02 20:16:36,039 - myLogging.py[line:35] - DEBUG: mainWin>function:getCommunityCode
+2018-10-02 20:16:36,039 - myLogging.py[line:35] - DEBUG: deal_taizhang>function:getCommunity 1
+2018-10-02 20:16:36,039 - myLogging.py[line:35] - DEBUG: deal_taizhang>function:getCommunity 1
+2018-10-02 20:28:28,767 - myLogging.py[line:32] - DEBUG: logging init over
+2018-10-02 20:28:28,767 - myLogging.py[line:32] - DEBUG: logging init over
+2018-10-02 20:28:28,767 - myLogging.py[line:32] - DEBUG: logging init over
+2018-10-02 20:28:28,768 - myLogging.py[line:35] - DEBUG: deal_taizhang init over
+2018-10-02 20:28:28,768 - myLogging.py[line:35] - DEBUG: deal_taizhang init over
+2018-10-02 20:28:28,785 - myLogging.py[line:35] - DEBUG: mainWin>openFile:D:/Document/Code/Python/AuditingApp/src/输入文件夹/小区名录310151.18.csv
+2018-10-02 20:28:28,785 - myLogging.py[line:35] - DEBUG: mainWin>openFile:D:/Document/Code/Python/AuditingApp/src/输入文件夹/小区名录310151.18.csv
+2018-10-02 20:28:28,794 - myLogging.py[line:35] - DEBUG: mainWin>function:openTownList
+2018-10-02 20:28:28,794 - myLogging.py[line:35] - DEBUG: mainWin>function:openTownList
+2018-10-02 20:28:28,794 - myLogging.py[line:35] - DEBUG: mainWin>init ok
+2018-10-02 20:28:28,794 - myLogging.py[line:35] - DEBUG: mainWin>init ok
+2018-10-02 20:28:33,367 - myLogging.py[line:35] - DEBUG: mainWin>function:setTableA
+2018-10-02 20:28:33,367 - myLogging.py[line:35] - DEBUG: mainWin>function:setTableA
+2018-10-02 20:28:36,302 - myLogging.py[line:35] - DEBUG: mainWin>function:setTableZy
+2018-10-02 20:28:36,302 - myLogging.py[line:35] - DEBUG: mainWin>function:setTableZy
+2018-10-02 20:28:39,606 - myLogging.py[line:35] - DEBUG: mainWin>function:getCommunityCode
+2018-10-02 20:28:39,606 - myLogging.py[line:35] - DEBUG: mainWin>function:getCommunityCode
+2018-10-02 20:28:39,607 - myLogging.py[line:35] - DEBUG: deal_taizhang>function:getCommunity 1
+2018-10-02 20:28:39,607 - myLogging.py[line:35] - DEBUG: deal_taizhang>function:getCommunity 1
+2018-10-02 20:35:54,402 - myLogging.py[line:32] - DEBUG: logging init over
+2018-10-02 20:35:54,402 - myLogging.py[line:32] - DEBUG: logging init over
+2018-10-02 20:35:54,402 - myLogging.py[line:32] - DEBUG: logging init over
+2018-10-02 20:35:54,402 - myLogging.py[line:35] - DEBUG: deal_taizhang init over
+2018-10-02 20:35:54,402 - myLogging.py[line:35] - DEBUG: deal_taizhang init over
+2018-10-02 20:35:54,421 - myLogging.py[line:35] - DEBUG: mainWin>init ok
+2018-10-02 20:35:54,421 - myLogging.py[line:35] - DEBUG: mainWin>init ok
+2018-10-02 20:36:10,900 - myLogging.py[line:35] - DEBUG: mainWin>function:openTownList
+2018-10-02 20:36:10,900 - myLogging.py[line:35] - DEBUG: mainWin>function:openTownList
+2018-10-02 20:36:13,218 - myLogging.py[line:35] - DEBUG: mainWin>function:setTableA
+2018-10-02 20:36:13,218 - myLogging.py[line:35] - DEBUG: mainWin>function:setTableA
+2018-10-02 20:36:16,061 - myLogging.py[line:35] - DEBUG: mainWin>function:setTableZy
+2018-10-02 20:36:16,061 - myLogging.py[line:35] - DEBUG: mainWin>function:setTableZy
+2018-10-02 20:36:18,640 - myLogging.py[line:35] - DEBUG: mainWin>function:getCommunityCode
+2018-10-02 20:36:18,640 - myLogging.py[line:35] - DEBUG: mainWin>function:getCommunityCode
+2018-10-02 20:36:18,640 - myLogging.py[line:35] - DEBUG: deal_taizhang>function:getCommunity 1
+2018-10-02 20:36:18,640 - myLogging.py[line:35] - DEBUG: deal_taizhang>function:getCommunity 1
+2018-10-02 20:50:27,229 - myLogging.py[line:32] - DEBUG: logging init over
+2018-10-02 20:50:27,230 - myLogging.py[line:32] - DEBUG: logging init over
+2018-10-02 20:50:27,230 - myLogging.py[line:32] - DEBUG: logging init over
+2018-10-02 20:50:27,230 - myLogging.py[line:35] - DEBUG: deal_taizhang init over
+2018-10-02 20:50:27,230 - myLogging.py[line:35] - DEBUG: deal_taizhang init over
+2018-10-02 20:50:27,247 - myLogging.py[line:35] - DEBUG: mainWin>init ok
+2018-10-02 20:50:27,247 - myLogging.py[line:35] - DEBUG: mainWin>init ok
+2018-10-02 20:50:32,402 - myLogging.py[line:35] - DEBUG: openTownList 未选中文件
+2018-10-02 20:50:32,402 - myLogging.py[line:35] - DEBUG: openTownList 未选中文件
+2018-10-02 20:50:42,345 - myLogging.py[line:35] - DEBUG: mainWin>function:openTownList
+2018-10-02 20:50:42,345 - myLogging.py[line:35] - DEBUG: mainWin>function:openTownList
+2018-10-02 20:56:43,005 - myLogging.py[line:32] - DEBUG: logging init over
+2018-10-02 20:56:43,006 - myLogging.py[line:32] - DEBUG: logging init over
+2018-10-02 20:56:43,006 - myLogging.py[line:32] - DEBUG: logging init over
+2018-10-02 20:56:43,006 - myLogging.py[line:35] - DEBUG: deal_taizhang init over
+2018-10-02 20:56:43,006 - myLogging.py[line:35] - DEBUG: deal_taizhang init over
+2018-10-02 20:56:43,029 - myLogging.py[line:35] - DEBUG: mainWin>init ok
+2018-10-02 20:56:43,029 - myLogging.py[line:35] - DEBUG: mainWin>init ok
+2018-10-02 20:56:52,653 - myLogging.py[line:35] - DEBUG: mainWin>function:openFile:D:/Document/Code/Python/AuditingApp/src/输入文件夹/小区名录310151.18.csv
+2018-10-02 20:56:52,653 - myLogging.py[line:35] - DEBUG: mainWin>function:openFile:D:/Document/Code/Python/AuditingApp/src/输入文件夹/小区名录310151.18.csv
+2018-10-02 20:56:52,653 - myLogging.py[line:35] - DEBUG: mainWin>function:openFile:try
+2018-10-02 20:56:52,653 - myLogging.py[line:35] - DEBUG: mainWin>function:openFile:try
+2018-10-02 20:56:52,659 - myLogging.py[line:35] - DEBUG: openTownList openFile
+2018-10-02 20:56:52,659 - myLogging.py[line:35] - DEBUG: openTownList openFile
+2018-10-02 20:56:52,663 - myLogging.py[line:35] - DEBUG: mainWin>function:openTownList
+2018-10-02 20:56:52,663 - myLogging.py[line:35] - DEBUG: mainWin>function:openTownList
+2018-10-02 20:57:51,893 - myLogging.py[line:35] - DEBUG: mainWin>function:getCommunityCode
+2018-10-02 20:57:51,893 - myLogging.py[line:35] - DEBUG: mainWin>function:getCommunityCode
+2018-10-02 20:57:51,893 - myLogging.py[line:35] - DEBUG: deal_taizhang>function:getCommunity 1
+2018-10-02 20:57:51,893 - myLogging.py[line:35] - DEBUG: deal_taizhang>function:getCommunity 1
+2018-10-02 21:09:37,061 - myLogging.py[line:32] - DEBUG: logging init over
+2018-10-02 21:09:37,061 - myLogging.py[line:32] - DEBUG: logging init over
+2018-10-02 21:09:37,061 - myLogging.py[line:32] - DEBUG: logging init over
+2018-10-02 21:09:37,061 - myLogging.py[line:35] - DEBUG: deal_taizhang init over
+2018-10-02 21:09:37,061 - myLogging.py[line:35] - DEBUG: deal_taizhang init over
+2018-10-02 21:09:37,079 - myLogging.py[line:35] - DEBUG: mainWin>init ok
+2018-10-02 21:09:37,079 - myLogging.py[line:35] - DEBUG: mainWin>init ok
+2018-10-02 21:09:46,389 - myLogging.py[line:35] - DEBUG: mainWin>function:openFile:D:/Document/Code/Python/AuditingApp/src/输入文件夹/小区名录310151.18.csv
+2018-10-02 21:09:46,389 - myLogging.py[line:35] - DEBUG: mainWin>function:openFile:D:/Document/Code/Python/AuditingApp/src/输入文件夹/小区名录310151.18.csv
+2018-10-02 21:09:46,391 - myLogging.py[line:35] - DEBUG: mainWin>function:openFile:try
+2018-10-02 21:09:46,391 - myLogging.py[line:35] - DEBUG: mainWin>function:openFile:try
+2018-10-02 21:09:46,402 - myLogging.py[line:35] - DEBUG: openTownList openFile
+2018-10-02 21:09:46,402 - myLogging.py[line:35] - DEBUG: openTownList openFile
+2018-10-02 21:09:46,406 - myLogging.py[line:35] - DEBUG: mainWin>function:openTownList
+2018-10-02 21:09:46,406 - myLogging.py[line:35] - DEBUG: mainWin>function:openTownList
+2018-10-02 21:13:41,974 - myLogging.py[line:32] - DEBUG: logging init over
+2018-10-02 21:13:41,975 - myLogging.py[line:32] - DEBUG: logging init over
+2018-10-02 21:13:41,975 - myLogging.py[line:32] - DEBUG: logging init over
+2018-10-02 21:13:41,975 - myLogging.py[line:35] - DEBUG: deal_taizhang init over
+2018-10-02 21:13:41,975 - myLogging.py[line:35] - DEBUG: deal_taizhang init over
+2018-10-02 21:13:41,996 - myLogging.py[line:35] - DEBUG: mainWin>init ok
+2018-10-02 21:13:41,996 - myLogging.py[line:35] - DEBUG: mainWin>init ok
+2018-10-02 21:13:50,600 - myLogging.py[line:35] - DEBUG: mainWin>function:openFile:D:/Document/Code/Python/AuditingApp/src/输入文件夹/小区名录310151.18.csv
+2018-10-02 21:13:50,600 - myLogging.py[line:35] - DEBUG: mainWin>function:openFile:D:/Document/Code/Python/AuditingApp/src/输入文件夹/小区名录310151.18.csv
+2018-10-02 21:13:50,601 - myLogging.py[line:35] - DEBUG: mainWin>function:openFile:try
+2018-10-02 21:13:50,601 - myLogging.py[line:35] - DEBUG: mainWin>function:openFile:try
+2018-10-02 21:13:50,608 - myLogging.py[line:35] - DEBUG: openTownList openFile
+2018-10-02 21:13:50,608 - myLogging.py[line:35] - DEBUG: openTownList openFile
+2018-10-02 21:13:50,612 - myLogging.py[line:35] - DEBUG: mainWin>function:openTownList
+2018-10-02 21:13:50,612 - myLogging.py[line:35] - DEBUG: mainWin>function:openTownList
+2018-10-02 21:14:50,577 - myLogging.py[line:32] - DEBUG: logging init over
+2018-10-02 21:14:50,578 - myLogging.py[line:32] - DEBUG: logging init over
+2018-10-02 21:14:50,578 - myLogging.py[line:32] - DEBUG: logging init over
+2018-10-02 21:14:50,578 - myLogging.py[line:35] - DEBUG: deal_taizhang init over
+2018-10-02 21:14:50,578 - myLogging.py[line:35] - DEBUG: deal_taizhang init over
+2018-10-02 21:14:50,598 - myLogging.py[line:35] - DEBUG: mainWin>init ok
+2018-10-02 21:14:50,598 - myLogging.py[line:35] - DEBUG: mainWin>init ok
+2018-10-02 21:15:07,238 - myLogging.py[line:35] - DEBUG: mainWin>function:openFile:D:/Document/Code/Python/AuditingApp/src/输入文件夹/小区名录310151.18.csv
+2018-10-02 21:15:07,238 - myLogging.py[line:35] - DEBUG: mainWin>function:openFile:D:/Document/Code/Python/AuditingApp/src/输入文件夹/小区名录310151.18.csv
+2018-10-02 21:15:07,238 - myLogging.py[line:35] - DEBUG: mainWin>function:openFile:try
+2018-10-02 21:15:07,238 - myLogging.py[line:35] - DEBUG: mainWin>function:openFile:try
+2018-10-02 21:15:07,246 - myLogging.py[line:35] - DEBUG: openTownList openFile
+2018-10-02 21:15:07,246 - myLogging.py[line:35] - DEBUG: openTownList openFile
+2018-10-02 21:15:07,251 - myLogging.py[line:35] - DEBUG: mainWin>function:openTownList
+2018-10-02 21:15:07,251 - myLogging.py[line:35] - DEBUG: mainWin>function:openTownList
+2018-10-02 21:16:12,444 - myLogging.py[line:35] - DEBUG: mainWin>function:getCommunityCode
+2018-10-02 21:16:12,444 - myLogging.py[line:35] - DEBUG: mainWin>function:getCommunityCode
+2018-10-02 21:16:12,445 - myLogging.py[line:35] - DEBUG: deal_taizhang>function:getCommunity 1
+2018-10-02 21:16:12,445 - myLogging.py[line:35] - DEBUG: deal_taizhang>function:getCommunity 1
+2018-10-02 21:17:09,838 - myLogging.py[line:32] - DEBUG: logging init over
+2018-10-02 21:17:09,838 - myLogging.py[line:32] - DEBUG: logging init over
+2018-10-02 21:17:09,838 - myLogging.py[line:32] - DEBUG: logging init over
+2018-10-02 21:17:09,838 - myLogging.py[line:35] - DEBUG: deal_taizhang init over
+2018-10-02 21:17:09,838 - myLogging.py[line:35] - DEBUG: deal_taizhang init over
+2018-10-02 21:17:09,855 - myLogging.py[line:35] - DEBUG: mainWin>init ok
+2018-10-02 21:17:09,855 - myLogging.py[line:35] - DEBUG: mainWin>init ok
+2018-10-02 21:17:19,152 - myLogging.py[line:35] - DEBUG: mainWin>function:openFile:D:/Document/Code/Python/AuditingApp/src/输入文件夹/小区名录310151.18.csv
+2018-10-02 21:17:19,152 - myLogging.py[line:35] - DEBUG: mainWin>function:openFile:D:/Document/Code/Python/AuditingApp/src/输入文件夹/小区名录310151.18.csv
+2018-10-02 21:17:19,152 - myLogging.py[line:35] - DEBUG: mainWin>function:openFile:try
+2018-10-02 21:17:19,152 - myLogging.py[line:35] - DEBUG: mainWin>function:openFile:try
+2018-10-02 21:17:19,157 - myLogging.py[line:35] - DEBUG: openTownList openFile
+2018-10-02 21:17:19,157 - myLogging.py[line:35] - DEBUG: openTownList openFile
+2018-10-02 21:17:19,163 - myLogging.py[line:35] - DEBUG: mainWin>function:openTownList
+2018-10-02 21:17:19,163 - myLogging.py[line:35] - DEBUG: mainWin>function:openTownList
+2018-10-02 21:17:20,706 - myLogging.py[line:35] - DEBUG: mainWin>function:getCommunityCode
+2018-10-02 21:17:20,706 - myLogging.py[line:35] - DEBUG: mainWin>function:getCommunityCode
+2018-10-02 21:17:20,706 - myLogging.py[line:35] - DEBUG: deal_taizhang>function:getCommunity 1
+2018-10-02 21:17:20,706 - myLogging.py[line:35] - DEBUG: deal_taizhang>function:getCommunity 1
+2018-10-02 21:19:00,901 - myLogging.py[line:32] - DEBUG: logging init over
+2018-10-02 21:19:00,902 - myLogging.py[line:32] - DEBUG: logging init over
+2018-10-02 21:19:00,902 - myLogging.py[line:32] - DEBUG: logging init over
+2018-10-02 21:19:00,902 - myLogging.py[line:35] - DEBUG: deal_taizhang init over
+2018-10-02 21:19:00,902 - myLogging.py[line:35] - DEBUG: deal_taizhang init over
+2018-10-02 21:19:00,918 - myLogging.py[line:35] - DEBUG: mainWin>init ok
+2018-10-02 21:19:00,918 - myLogging.py[line:35] - DEBUG: mainWin>init ok
+2018-10-02 21:19:10,786 - myLogging.py[line:35] - DEBUG: mainWin>function:openFile:D:/Document/Code/Python/AuditingApp/src/输入文件夹/小区名录310151.18.csv
+2018-10-02 21:19:10,786 - myLogging.py[line:35] - DEBUG: mainWin>function:openFile:D:/Document/Code/Python/AuditingApp/src/输入文件夹/小区名录310151.18.csv
+2018-10-02 21:19:10,787 - myLogging.py[line:35] - DEBUG: mainWin>function:openFile:try
+2018-10-02 21:19:10,787 - myLogging.py[line:35] - DEBUG: mainWin>function:openFile:try
+2018-10-02 21:19:10,795 - myLogging.py[line:35] - DEBUG: openTownList openFile
+2018-10-02 21:19:10,795 - myLogging.py[line:35] - DEBUG: openTownList openFile
+2018-10-02 21:19:10,799 - myLogging.py[line:35] - DEBUG: mainWin>function:openTownList
+2018-10-02 21:19:10,799 - myLogging.py[line:35] - DEBUG: mainWin>function:openTownList
+2018-10-02 21:19:12,897 - myLogging.py[line:35] - DEBUG: mainWin>function:getCommunityCode
+2018-10-02 21:19:12,897 - myLogging.py[line:35] - DEBUG: mainWin>function:getCommunityCode
+2018-10-02 21:19:12,897 - myLogging.py[line:35] - DEBUG: deal_taizhang>function:getCommunity 1
+2018-10-02 21:19:12,897 - myLogging.py[line:35] - DEBUG: deal_taizhang>function:getCommunity 1
+2018-10-02 21:19:45,923 - myLogging.py[line:32] - DEBUG: logging init over
+2018-10-02 21:19:45,924 - myLogging.py[line:32] - DEBUG: logging init over
+2018-10-02 21:19:45,924 - myLogging.py[line:32] - DEBUG: logging init over
+2018-10-02 21:19:45,924 - myLogging.py[line:35] - DEBUG: deal_taizhang init over
+2018-10-02 21:19:45,924 - myLogging.py[line:35] - DEBUG: deal_taizhang init over
+2018-10-02 21:19:45,945 - myLogging.py[line:35] - DEBUG: mainWin>init ok
+2018-10-02 21:19:45,945 - myLogging.py[line:35] - DEBUG: mainWin>init ok
+2018-10-02 21:19:53,312 - myLogging.py[line:35] - DEBUG: mainWin>function:openFile:
+2018-10-02 21:19:53,312 - myLogging.py[line:35] - DEBUG: mainWin>function:openFile:
+2018-10-02 21:19:53,314 - myLogging.py[line:35] - DEBUG: openTownList openFile
+2018-10-02 21:19:53,314 - myLogging.py[line:35] - DEBUG: openTownList openFile
+2018-10-02 21:19:53,314 - myLogging.py[line:35] - DEBUG: openTownList 未选中文件
+2018-10-02 21:19:53,314 - myLogging.py[line:35] - DEBUG: openTownList 未选中文件
+2018-10-02 21:21:38,163 - myLogging.py[line:32] - DEBUG: logging init over
+2018-10-02 21:21:38,164 - myLogging.py[line:32] - DEBUG: logging init over
+2018-10-02 21:21:38,164 - myLogging.py[line:32] - DEBUG: logging init over
+2018-10-02 21:21:38,164 - myLogging.py[line:35] - DEBUG: deal_taizhang init over
+2018-10-02 21:21:38,164 - myLogging.py[line:35] - DEBUG: deal_taizhang init over
+2018-10-02 21:21:38,180 - myLogging.py[line:35] - DEBUG: mainWin>init ok
+2018-10-02 21:21:38,180 - myLogging.py[line:35] - DEBUG: mainWin>init ok
+2018-10-02 21:21:42,346 - myLogging.py[line:35] - DEBUG: mainWin>function:openFile:D:/Document/Code/Python/AuditingApp/Auditing/A310151.18.csv
+2018-10-02 21:21:42,346 - myLogging.py[line:35] - DEBUG: mainWin>function:openFile:D:/Document/Code/Python/AuditingApp/Auditing/A310151.18.csv
+2018-10-02 21:21:42,347 - myLogging.py[line:35] - DEBUG: mainWin>function:openFile:try
+2018-10-02 21:21:42,347 - myLogging.py[line:35] - DEBUG: mainWin>function:openFile:try
+2018-10-02 21:21:42,361 - myLogging.py[line:35] - DEBUG: openTownList openFile
+2018-10-02 21:21:42,361 - myLogging.py[line:35] - DEBUG: openTownList openFile
+2018-10-02 21:21:49,405 - myLogging.py[line:32] - DEBUG: logging init over
+2018-10-02 21:21:49,405 - myLogging.py[line:32] - DEBUG: logging init over
+2018-10-02 21:21:49,405 - myLogging.py[line:32] - DEBUG: logging init over
+2018-10-02 21:21:49,405 - myLogging.py[line:35] - DEBUG: deal_taizhang init over
+2018-10-02 21:21:49,405 - myLogging.py[line:35] - DEBUG: deal_taizhang init over
+2018-10-02 21:21:49,423 - myLogging.py[line:35] - DEBUG: mainWin>init ok
+2018-10-02 21:21:49,423 - myLogging.py[line:35] - DEBUG: mainWin>init ok
+2018-10-02 21:22:18,965 - myLogging.py[line:35] - DEBUG: mainWin>function:openFile:D:/Document/Code/Python/AuditingApp/src/输入文件夹/小区名录310151.18.csv
+2018-10-02 21:22:18,965 - myLogging.py[line:35] - DEBUG: mainWin>function:openFile:D:/Document/Code/Python/AuditingApp/src/输入文件夹/小区名录310151.18.csv
+2018-10-02 21:22:18,966 - myLogging.py[line:35] - DEBUG: mainWin>function:openFile:try
+2018-10-02 21:22:18,966 - myLogging.py[line:35] - DEBUG: mainWin>function:openFile:try
+2018-10-02 21:22:18,971 - myLogging.py[line:35] - DEBUG: openTownList openFile
+2018-10-02 21:22:18,971 - myLogging.py[line:35] - DEBUG: openTownList openFile
+2018-10-02 21:22:18,977 - myLogging.py[line:35] - DEBUG: mainWin>function:openTownList
+2018-10-02 21:22:18,977 - myLogging.py[line:35] - DEBUG: mainWin>function:openTownList
+2018-10-02 21:22:26,040 - myLogging.py[line:35] - DEBUG: mainWin>function:setTableA
+2018-10-02 21:22:26,040 - myLogging.py[line:35] - DEBUG: mainWin>function:setTableA
+2018-10-02 21:22:28,374 - myLogging.py[line:35] - DEBUG: mainWin>function:openFile:D:/Document/Code/Python/AuditingApp/Auditing/A310151.18.csv
+2018-10-02 21:22:28,374 - myLogging.py[line:35] - DEBUG: mainWin>function:openFile:D:/Document/Code/Python/AuditingApp/Auditing/A310151.18.csv
+2018-10-02 21:22:28,374 - myLogging.py[line:35] - DEBUG: mainWin>function:openFile:try
+2018-10-02 21:22:28,374 - myLogging.py[line:35] - DEBUG: mainWin>function:openFile:try
+2018-10-02 21:22:29,254 - myLogging.py[line:35] - DEBUG: mainWin>function:setTableZy
+2018-10-02 21:22:29,254 - myLogging.py[line:35] - DEBUG: mainWin>function:setTableZy
+2018-10-02 21:22:31,159 - myLogging.py[line:35] - DEBUG: mainWin>function:openFile:D:/Document/Code/Python/AuditingApp/Auditing/D310151.1806.csv
+2018-10-02 21:22:31,159 - myLogging.py[line:35] - DEBUG: mainWin>function:openFile:D:/Document/Code/Python/AuditingApp/Auditing/D310151.1806.csv
+2018-10-02 21:22:31,159 - myLogging.py[line:35] - DEBUG: mainWin>function:openFile:try
+2018-10-02 21:22:31,159 - myLogging.py[line:35] - DEBUG: mainWin>function:openFile:try
+2018-10-02 21:23:55,140 - myLogging.py[line:32] - DEBUG: logging init over
+2018-10-02 21:23:55,141 - myLogging.py[line:32] - DEBUG: logging init over
+2018-10-02 21:23:55,141 - myLogging.py[line:32] - DEBUG: logging init over
+2018-10-02 21:23:55,141 - myLogging.py[line:35] - DEBUG: deal_taizhang init over
+2018-10-02 21:23:55,141 - myLogging.py[line:35] - DEBUG: deal_taizhang init over
+2018-10-02 21:23:55,161 - myLogging.py[line:35] - DEBUG: mainWin>init ok
+2018-10-02 21:23:55,161 - myLogging.py[line:35] - DEBUG: mainWin>init ok
+2018-10-02 21:24:03,241 - myLogging.py[line:35] - DEBUG: mainWin>function:openFile:
+2018-10-02 21:24:03,241 - myLogging.py[line:35] - DEBUG: mainWin>function:openFile:
+2018-10-02 21:24:03,243 - myLogging.py[line:35] - DEBUG: openTownList openFile
+2018-10-02 21:24:03,243 - myLogging.py[line:35] - DEBUG: openTownList openFile
+2018-10-02 21:24:03,243 - myLogging.py[line:35] - DEBUG: openTownList 未选中文件
+2018-10-02 21:24:03,243 - myLogging.py[line:35] - DEBUG: openTownList 未选中文件
+2018-10-02 21:24:27,569 - myLogging.py[line:35] - DEBUG: mainWin>function:openFile:D:/Document/Code/Python/AuditingApp/Auditing/小区名录310151.18.csv
+2018-10-02 21:24:27,569 - myLogging.py[line:35] - DEBUG: mainWin>function:openFile:D:/Document/Code/Python/AuditingApp/Auditing/小区名录310151.18.csv
+2018-10-02 21:24:27,569 - myLogging.py[line:35] - DEBUG: mainWin>function:openFile:try
+2018-10-02 21:24:27,569 - myLogging.py[line:35] - DEBUG: mainWin>function:openFile:try
+2018-10-02 21:24:27,575 - myLogging.py[line:35] - DEBUG: openTownList openFile
+2018-10-02 21:24:27,575 - myLogging.py[line:35] - DEBUG: openTownList openFile
+2018-10-02 21:24:27,582 - myLogging.py[line:35] - DEBUG: mainWin>function:openTownList
+2018-10-02 21:24:27,582 - myLogging.py[line:35] - DEBUG: mainWin>function:openTownList
+2018-10-02 21:24:29,085 - myLogging.py[line:35] - DEBUG: mainWin>function:setTableA
+2018-10-02 21:24:29,085 - myLogging.py[line:35] - DEBUG: mainWin>function:setTableA
+2018-10-02 21:24:31,468 - myLogging.py[line:35] - DEBUG: mainWin>function:openFile:D:/Document/Code/Python/AuditingApp/Auditing/A310151.18.csv
+2018-10-02 21:24:31,468 - myLogging.py[line:35] - DEBUG: mainWin>function:openFile:D:/Document/Code/Python/AuditingApp/Auditing/A310151.18.csv
+2018-10-02 21:24:31,468 - myLogging.py[line:35] - DEBUG: mainWin>function:openFile:try
+2018-10-02 21:24:31,468 - myLogging.py[line:35] - DEBUG: mainWin>function:openFile:try
+2018-10-02 21:24:32,213 - myLogging.py[line:35] - DEBUG: mainWin>function:setTableZy
+2018-10-02 21:24:32,213 - myLogging.py[line:35] - DEBUG: mainWin>function:setTableZy
+2018-10-02 21:24:34,502 - myLogging.py[line:35] - DEBUG: mainWin>function:openFile:D:/Document/Code/Python/AuditingApp/Auditing/D310151.1806.csv
+2018-10-02 21:24:34,502 - myLogging.py[line:35] - DEBUG: mainWin>function:openFile:D:/Document/Code/Python/AuditingApp/Auditing/D310151.1806.csv
+2018-10-02 21:24:34,502 - myLogging.py[line:35] - DEBUG: mainWin>function:openFile:try
+2018-10-02 21:24:34,502 - myLogging.py[line:35] - DEBUG: mainWin>function:openFile:try
+2018-10-02 21:24:57,588 - myLogging.py[line:32] - DEBUG: logging init over
+2018-10-02 21:24:57,588 - myLogging.py[line:32] - DEBUG: logging init over
+2018-10-02 21:24:57,588 - myLogging.py[line:32] - DEBUG: logging init over
+2018-10-02 21:24:57,589 - myLogging.py[line:35] - DEBUG: deal_taizhang init over
+2018-10-02 21:24:57,589 - myLogging.py[line:35] - DEBUG: deal_taizhang init over
+2018-10-02 21:24:57,608 - myLogging.py[line:35] - DEBUG: mainWin>init ok
+2018-10-02 21:24:57,608 - myLogging.py[line:35] - DEBUG: mainWin>init ok
+2018-10-02 21:24:59,558 - myLogging.py[line:35] - DEBUG: mainWin>function:setTableA
+2018-10-02 21:24:59,558 - myLogging.py[line:35] - DEBUG: mainWin>function:setTableA
+2018-10-02 21:25:01,691 - myLogging.py[line:35] - DEBUG: mainWin>function:openFile:D:/Document/Code/Python/AuditingApp/Auditing/A310151.18.csv
+2018-10-02 21:25:01,691 - myLogging.py[line:35] - DEBUG: mainWin>function:openFile:D:/Document/Code/Python/AuditingApp/Auditing/A310151.18.csv
+2018-10-02 21:25:01,692 - myLogging.py[line:35] - DEBUG: mainWin>function:openFile:try
+2018-10-02 21:25:01,692 - myLogging.py[line:35] - DEBUG: mainWin>function:openFile:try
+2018-10-02 21:26:02,822 - myLogging.py[line:32] - DEBUG: logging init over
+2018-10-02 21:26:02,823 - myLogging.py[line:32] - DEBUG: logging init over
+2018-10-02 21:26:02,823 - myLogging.py[line:32] - DEBUG: logging init over
+2018-10-02 21:26:02,823 - myLogging.py[line:35] - DEBUG: deal_taizhang init over
+2018-10-02 21:26:02,823 - myLogging.py[line:35] - DEBUG: deal_taizhang init over
+2018-10-02 21:26:02,841 - myLogging.py[line:35] - DEBUG: mainWin>init ok
+2018-10-02 21:26:02,841 - myLogging.py[line:35] - DEBUG: mainWin>init ok
+2018-10-02 21:26:04,947 - myLogging.py[line:35] - DEBUG: mainWin>function:setTableA
+2018-10-02 21:26:04,947 - myLogging.py[line:35] - DEBUG: mainWin>function:setTableA
+2018-10-02 21:26:07,242 - myLogging.py[line:35] - DEBUG: mainWin>function:openFile:D:/Document/Code/Python/AuditingApp/Auditing/A310151.18.csv
+2018-10-02 21:26:07,242 - myLogging.py[line:35] - DEBUG: mainWin>function:openFile:D:/Document/Code/Python/AuditingApp/Auditing/A310151.18.csv
+2018-10-02 21:26:07,243 - myLogging.py[line:35] - DEBUG: mainWin>function:openFile:try
+2018-10-02 21:26:07,243 - myLogging.py[line:35] - DEBUG: mainWin>function:openFile:try
+2018-10-02 21:26:47,768 - myLogging.py[line:32] - DEBUG: logging init over
+2018-10-02 21:26:47,769 - myLogging.py[line:32] - DEBUG: logging init over
+2018-10-02 21:26:47,769 - myLogging.py[line:32] - DEBUG: logging init over
+2018-10-02 21:26:47,769 - myLogging.py[line:35] - DEBUG: deal_taizhang init over
+2018-10-02 21:26:47,769 - myLogging.py[line:35] - DEBUG: deal_taizhang init over
+2018-10-02 21:26:47,791 - myLogging.py[line:35] - DEBUG: mainWin>init ok
+2018-10-02 21:26:47,791 - myLogging.py[line:35] - DEBUG: mainWin>init ok
+2018-10-02 21:26:49,127 - myLogging.py[line:35] - DEBUG: mainWin>function:setTableA
+2018-10-02 21:26:49,127 - myLogging.py[line:35] - DEBUG: mainWin>function:setTableA
+2018-10-02 21:26:51,174 - myLogging.py[line:35] - DEBUG: mainWin>function:openFile:
+2018-10-02 21:26:51,174 - myLogging.py[line:35] - DEBUG: mainWin>function:openFile:
+2018-10-02 21:27:15,883 - myLogging.py[line:32] - DEBUG: logging init over
+2018-10-02 21:27:15,883 - myLogging.py[line:32] - DEBUG: logging init over
+2018-10-02 21:27:15,883 - myLogging.py[line:32] - DEBUG: logging init over
+2018-10-02 21:27:15,883 - myLogging.py[line:35] - DEBUG: deal_taizhang init over
+2018-10-02 21:27:15,883 - myLogging.py[line:35] - DEBUG: deal_taizhang init over
+2018-10-02 21:27:15,903 - myLogging.py[line:35] - DEBUG: mainWin>init ok
+2018-10-02 21:27:15,903 - myLogging.py[line:35] - DEBUG: mainWin>init ok
+2018-10-02 21:27:17,363 - myLogging.py[line:35] - DEBUG: mainWin>function:setTableA
+2018-10-02 21:27:17,363 - myLogging.py[line:35] - DEBUG: mainWin>function:setTableA
+2018-10-02 21:27:18,727 - myLogging.py[line:35] - DEBUG: mainWin>function:openFile:
+2018-10-02 21:27:18,727 - myLogging.py[line:35] - DEBUG: mainWin>function:openFile:
+2018-10-02 21:27:24,398 - myLogging.py[line:35] - DEBUG: mainWin>function:setTableA
+2018-10-02 21:27:24,398 - myLogging.py[line:35] - DEBUG: mainWin>function:setTableA
+2018-10-02 21:27:27,836 - myLogging.py[line:35] - DEBUG: mainWin>function:openFile:D:/Document/Code/Python/AuditingApp/Auditing/A310151.18.csv
+2018-10-02 21:27:27,836 - myLogging.py[line:35] - DEBUG: mainWin>function:openFile:D:/Document/Code/Python/AuditingApp/Auditing/A310151.18.csv
+2018-10-02 21:27:27,836 - myLogging.py[line:35] - DEBUG: mainWin>function:openFile:try
+2018-10-02 21:27:27,836 - myLogging.py[line:35] - DEBUG: mainWin>function:openFile:try
+2018-10-02 21:28:16,198 - myLogging.py[line:32] - DEBUG: logging init over
+2018-10-02 21:28:16,198 - myLogging.py[line:32] - DEBUG: logging init over
+2018-10-02 21:28:16,198 - myLogging.py[line:32] - DEBUG: logging init over
+2018-10-02 21:28:16,198 - myLogging.py[line:35] - DEBUG: deal_taizhang init over
+2018-10-02 21:28:16,198 - myLogging.py[line:35] - DEBUG: deal_taizhang init over
+2018-10-02 21:28:16,217 - myLogging.py[line:35] - DEBUG: mainWin>init ok
+2018-10-02 21:28:16,217 - myLogging.py[line:35] - DEBUG: mainWin>init ok
+2018-10-02 21:28:19,701 - myLogging.py[line:35] - DEBUG: mainWin>function:setTableA
+2018-10-02 21:28:19,701 - myLogging.py[line:35] - DEBUG: mainWin>function:setTableA
+2018-10-02 21:28:22,985 - myLogging.py[line:35] - DEBUG: mainWin>function:openFile:D:/Document/Code/Python/AuditingApp/Auditing/A310151.18.csv
+2018-10-02 21:28:22,985 - myLogging.py[line:35] - DEBUG: mainWin>function:openFile:D:/Document/Code/Python/AuditingApp/Auditing/A310151.18.csv
+2018-10-02 21:28:22,985 - myLogging.py[line:35] - DEBUG: mainWin>function:openFile:try
+2018-10-02 21:28:22,985 - myLogging.py[line:35] - DEBUG: mainWin>function:openFile:try
+2018-10-02 21:29:32,859 - myLogging.py[line:32] - DEBUG: logging init over
+2018-10-02 21:29:32,859 - myLogging.py[line:32] - DEBUG: logging init over
+2018-10-02 21:29:32,859 - myLogging.py[line:32] - DEBUG: logging init over
+2018-10-02 21:29:32,859 - myLogging.py[line:35] - DEBUG: deal_taizhang init over
+2018-10-02 21:29:32,859 - myLogging.py[line:35] - DEBUG: deal_taizhang init over
+2018-10-02 21:29:32,896 - myLogging.py[line:35] - DEBUG: mainWin>init ok
+2018-10-02 21:29:32,896 - myLogging.py[line:35] - DEBUG: mainWin>init ok
+2018-10-02 21:29:36,540 - myLogging.py[line:35] - DEBUG: mainWin>function:setTableA
+2018-10-02 21:29:36,540 - myLogging.py[line:35] - DEBUG: mainWin>function:setTableA
+2018-10-02 21:29:40,013 - myLogging.py[line:35] - DEBUG: mainWin>function:openFile:
+2018-10-02 21:29:40,013 - myLogging.py[line:35] - DEBUG: mainWin>function:openFile:
+2018-10-02 21:29:44,595 - myLogging.py[line:35] - DEBUG: mainWin>function:setTableA
+2018-10-02 21:29:44,595 - myLogging.py[line:35] - DEBUG: mainWin>function:setTableA
+2018-10-02 21:29:46,481 - myLogging.py[line:35] - DEBUG: mainWin>function:openFile:D:/Document/Code/Python/AuditingApp/Auditing/A310151.18.csv
+2018-10-02 21:29:46,481 - myLogging.py[line:35] - DEBUG: mainWin>function:openFile:D:/Document/Code/Python/AuditingApp/Auditing/A310151.18.csv
+2018-10-02 21:29:46,482 - myLogging.py[line:35] - DEBUG: mainWin>function:openFile:try
+2018-10-02 21:29:46,482 - myLogging.py[line:35] - DEBUG: mainWin>function:openFile:try
+2018-10-02 21:30:52,883 - myLogging.py[line:32] - DEBUG: logging init over
+2018-10-02 21:30:52,884 - myLogging.py[line:32] - DEBUG: logging init over
+2018-10-02 21:30:52,884 - myLogging.py[line:32] - DEBUG: logging init over
+2018-10-02 21:30:52,884 - myLogging.py[line:35] - DEBUG: deal_taizhang init over
+2018-10-02 21:30:52,884 - myLogging.py[line:35] - DEBUG: deal_taizhang init over
+2018-10-02 21:30:52,904 - myLogging.py[line:35] - DEBUG: mainWin>init ok
+2018-10-02 21:30:52,904 - myLogging.py[line:35] - DEBUG: mainWin>init ok
+2018-10-02 21:30:58,171 - myLogging.py[line:35] - DEBUG: mainWin>function:setTableA
+2018-10-02 21:30:58,171 - myLogging.py[line:35] - DEBUG: mainWin>function:setTableA
+2018-10-02 21:31:01,574 - myLogging.py[line:35] - DEBUG: mainWin>function:openFile:
+2018-10-02 21:31:01,574 - myLogging.py[line:35] - DEBUG: mainWin>function:openFile:
+2018-10-02 21:31:06,768 - myLogging.py[line:35] - DEBUG: mainWin>function:setTableZy
+2018-10-02 21:31:06,768 - myLogging.py[line:35] - DEBUG: mainWin>function:setTableZy
+2018-10-02 21:31:09,339 - myLogging.py[line:35] - DEBUG: mainWin>function:openFile:D:/Document/Code/Python/AuditingApp/Auditing/D310151.1806.csv
+2018-10-02 21:31:09,339 - myLogging.py[line:35] - DEBUG: mainWin>function:openFile:D:/Document/Code/Python/AuditingApp/Auditing/D310151.1806.csv
+2018-10-02 21:31:09,339 - myLogging.py[line:35] - DEBUG: mainWin>function:openFile:try
+2018-10-02 21:31:09,339 - myLogging.py[line:35] - DEBUG: mainWin>function:openFile:try
+2018-10-02 21:31:15,600 - myLogging.py[line:35] - DEBUG: mainWin>function:setTableA
+2018-10-02 21:31:15,600 - myLogging.py[line:35] - DEBUG: mainWin>function:setTableA
+2018-10-02 21:31:18,032 - myLogging.py[line:35] - DEBUG: mainWin>function:openFile:D:/Document/Code/Python/AuditingApp/Auditing/A310151.18.csv
+2018-10-02 21:31:18,032 - myLogging.py[line:35] - DEBUG: mainWin>function:openFile:D:/Document/Code/Python/AuditingApp/Auditing/A310151.18.csv
+2018-10-02 21:31:18,032 - myLogging.py[line:35] - DEBUG: mainWin>function:openFile:try
+2018-10-02 21:31:18,032 - myLogging.py[line:35] - DEBUG: mainWin>function:openFile:try
+2018-10-02 21:35:05,711 - myLogging.py[line:32] - DEBUG: logging init over
+2018-10-02 21:35:05,711 - myLogging.py[line:32] - DEBUG: logging init over
+2018-10-02 21:35:05,711 - myLogging.py[line:32] - DEBUG: logging init over
+2018-10-02 21:35:05,712 - myLogging.py[line:35] - DEBUG: deal_taizhang init over
+2018-10-02 21:35:05,712 - myLogging.py[line:35] - DEBUG: deal_taizhang init over
+2018-10-02 21:35:05,733 - myLogging.py[line:35] - DEBUG: mainWin>init ok
+2018-10-02 21:35:05,733 - myLogging.py[line:35] - DEBUG: mainWin>init ok
+2018-10-02 21:35:07,282 - myLogging.py[line:35] - DEBUG: mainWin>function:setTableA
+2018-10-02 21:35:07,282 - myLogging.py[line:35] - DEBUG: mainWin>function:setTableA
+2018-10-02 21:35:10,157 - myLogging.py[line:35] - DEBUG: mainWin>function:openFile:
+2018-10-02 21:35:10,157 - myLogging.py[line:35] - DEBUG: mainWin>function:openFile:
+2018-10-02 21:35:18,384 - myLogging.py[line:35] - DEBUG: mainWin>function:setTableA
+2018-10-02 21:35:18,384 - myLogging.py[line:35] - DEBUG: mainWin>function:setTableA
+2018-10-02 21:35:20,925 - myLogging.py[line:35] - DEBUG: mainWin>function:openFile:D:/Document/Code/Python/AuditingApp/Auditing/A310151.18.csv
+2018-10-02 21:35:20,925 - myLogging.py[line:35] - DEBUG: mainWin>function:openFile:D:/Document/Code/Python/AuditingApp/Auditing/A310151.18.csv
+2018-10-02 21:35:20,925 - myLogging.py[line:35] - DEBUG: mainWin>function:openFile:try
+2018-10-02 21:35:20,925 - myLogging.py[line:35] - DEBUG: mainWin>function:openFile:try

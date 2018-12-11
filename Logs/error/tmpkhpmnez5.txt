@@ -1,0 +1,115 @@
+NameError
+Python 3.6.5: D:\ProgramFile\Anaconda\python.exe
+Sat Dec  1 16:34:58 2018
+
+A problem occurred in a Python script.  Here is the sequence of
+function calls leading up to the error, in the order they occurred.
+
+ D:\研一\项目\Auditing\mainWin.py in openzyCheckDialog(self=<mainWin.MyMainWindow object>)
+  361                self.zhuzhai_flag == True and self.zhuhu_flag == True and self.xiaoqu_flag == True:
+  362                 if Zs == True:
+  363                     Zs_outcome = zy_check_suggestion(self.A,self.B,self.zy,self.zhuzhai,self.zhuhu,self.xiaoqu,self.zs_check_result)
+  364                     Zsfilename = 'zy_suggestion_result.xlsx'
+  365                     Zs_outcome.to_excel('./zy_suggestion_result.xlsx', encoding="utf-8", index=False,sheet_name='Sheet')
+Zs_outcome undefined
+zy_check_suggestion = <function zy_check_suggestion>
+self = <mainWin.MyMainWindow object>
+self.A =                        SID  COL       SCODE  ......  ...    NaN   NaN   NaN
+
+[767 rows x 44 columns]
+self.B =                        SID  COL       SCODE  YEA...     2   NaN     2   NaN
+
+[366 rows x 96 columns]
+self.zy =                          SID    COUN    ...     ...         99          否
+
+[25973 rows x 13 columns]
+self.zhuzhai =                      HID    COUN    VCODE HCODE ...    82    30     1     1
+
+[483 rows x 15 columns]
+self.zhuhu =                       HHID  COL    COUN    VCODE...     2     3   NaN   NaN
+
+[351 rows x 43 columns]
+self.xiaoqu =                 VID    COUN COUNNAME   ...    NV...       2     NaN        1
+
+[36 rows x 23 columns]
+self.zs_check_result = Empty DataFrame
+Columns: [year, month, task, sco...son, name, code, 核实内容, townname, vname]
+Index: []
+
+ D:\研一\项目\Auditing\zy_check_suggestion.py in zy_check_suggestion(TableA=                       SID  COL       SCODE  ......  ...    NaN   NaN   NaN
+
+[767 rows x 44 columns], TableB=                       SID  COL       SCODE  YEA...     2   NaN     2   NaN
+
+[366 rows x 96 columns], zy=                         SID    COUN    ...     ...         99          否
+
+[25972 rows x 13 columns], zhuzhai=                     HID    COUN VCODE HCODE OWN...   1   82   30    1    1
+
+[482 rows x 15 columns], zhuhu=                      HHID COL    COUN VCODE HCO...   2    2    3  NaN  NaN
+
+[350 rows x 43 columns], xiaoqu=                VID    COUN COUNNAME   ...    NV...       2     NaN        1
+
+[36 rows x 23 columns], result=Empty DataFrame
+Columns: [year, month, task, sco...son, name, code, 核实内容, townname, vname]
+Index: [])
+  265                         dict['code'] = value
+  266                         dict['核实内容'] = "年龄低于16岁，有工资、经营等收入，核实是否为童工？"
+  267                         insert_to_pd(dict)
+  268                         # print("年龄低于16岁，有工资、经营等收入，核实是否为童工？")
+  269 
+global insert_to_pd = <function insert_to_pd>
+dict = {'code': 'A106=8,money[2]-money[240511]=2900', 'month': 6, 'name': '茅利辉', 'person': 2, 'scode': '3.049.01h', 'sid': '310151101024001H04901', 'task': 3, 'townname': '城桥镇', 'vname': '金珠居委会', 'year': 2018, ...}
+
+ D:\研一\项目\Auditing\zy_check_suggestion.py in insert_to_pd(data={'code': 'A106=8,money[2]-money[240511]=2900', 'month': 6, 'name': '茅利辉', 'person': 2, 'scode': '3.049.01h', 'sid': '310151101024001H04901', 'task': 3, 'townname': '城桥镇', 'vname': '金珠居委会', 'year': 2018, ...})
+   72 def insert_to_pd(data):
+   73     global result
+   74     result = result.append(data, ignore_index=True)
+   75 
+   76 def zy_check_suggestion(TableA,TableB,zy,zhuzhai,zhuhu,xiaoqu,result):
+result undefined
+data = {'code': 'A106=8,money[2]-money[240511]=2900', 'month': 6, 'name': '茅利辉', 'person': 2, 'scode': '3.049.01h', 'sid': '310151101024001H04901', 'task': 3, 'townname': '城桥镇', 'vname': '金珠居委会', 'year': 2018, ...}
+ignore_index undefined
+NameError: name 'result' is not defined
+    __cause__ = None
+    __class__ = <class 'NameError'>
+    __context__ = None
+    __delattr__ = <method-wrapper '__delattr__' of NameError object>
+    __dict__ = {}
+    __dir__ = <built-in method __dir__ of NameError object>
+    __doc__ = 'Name not found globally.'
+    __eq__ = <method-wrapper '__eq__' of NameError object>
+    __format__ = <built-in method __format__ of NameError object>
+    __ge__ = <method-wrapper '__ge__' of NameError object>
+    __getattribute__ = <method-wrapper '__getattribute__' of NameError object>
+    __gt__ = <method-wrapper '__gt__' of NameError object>
+    __hash__ = <method-wrapper '__hash__' of NameError object>
+    __init__ = <method-wrapper '__init__' of NameError object>
+    __init_subclass__ = <built-in method __init_subclass__ of type object>
+    __le__ = <method-wrapper '__le__' of NameError object>
+    __lt__ = <method-wrapper '__lt__' of NameError object>
+    __ne__ = <method-wrapper '__ne__' of NameError object>
+    __new__ = <built-in method __new__ of type object>
+    __reduce__ = <built-in method __reduce__ of NameError object>
+    __reduce_ex__ = <built-in method __reduce_ex__ of NameError object>
+    __repr__ = <method-wrapper '__repr__' of NameError object>
+    __setattr__ = <method-wrapper '__setattr__' of NameError object>
+    __setstate__ = <built-in method __setstate__ of NameError object>
+    __sizeof__ = <built-in method __sizeof__ of NameError object>
+    __str__ = <method-wrapper '__str__' of NameError object>
+    __subclasshook__ = <built-in method __subclasshook__ of type object>
+    __suppress_context__ = False
+    __traceback__ = <traceback object>
+    args = ("name 'result' is not defined",)
+    with_traceback = <built-in method with_traceback of NameError object>
+
+The above is a description of an error in a Python program.  Here is
+the original traceback:
+
+Traceback (most recent call last):
+  File "D:\研一\项目\Auditing\mainWin.py", line 363, in openzyCheckDialog
+    Zs_outcome = zy_check_suggestion(self.A,self.B,self.zy,self.zhuzhai,self.zhuhu,self.xiaoqu,self.zs_check_result)
+  File "D:\研一\项目\Auditing\zy_check_suggestion.py", line 267, in zy_check_suggestion
+    insert_to_pd(dict)
+  File "D:\研一\项目\Auditing\zy_check_suggestion.py", line 74, in insert_to_pd
+    result = result.append(data, ignore_index=True)
+NameError: name 'result' is not defined
+

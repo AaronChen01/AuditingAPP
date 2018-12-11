@@ -1,0 +1,204 @@
+2018-12-07 20:13:58,433 - myLogging.py[line:37] - DEBUG: logging init over
+2018-12-07 20:13:58,433 - deal_taizhang.py[line:19] - DEBUG: deal_taizhang init..
+2018-12-07 20:13:58,480 - deal_taizhang.py[line:30] - DEBUG: deal_taizhang init ok
+2018-12-07 20:15:14,852 - myLogging.py[line:37] - DEBUG: logging init over
+2018-12-07 20:15:19,496 - mainWin.py[line:26] - DEBUG: mainWin>init..
+2018-12-07 20:15:20,430 - mainWin.py[line:76] - DEBUG: mainWin>init ok
+2018-12-07 20:15:30,656 - mainWin.py[line:428] - DEBUG: mainWin>function:openFile:
+2018-12-07 20:15:30,656 - mainWin.py[line:459] - DEBUG: openTownList openFile
+2018-12-07 20:15:30,656 - mainWin.py[line:461] - DEBUG: openTownList 未选中文件
+2018-12-07 20:15:40,584 - mainWin.py[line:428] - DEBUG: mainWin>function:openFile:D:/研一/项目/Auditing/输入文件夹/小区名录310151.18.csv
+2018-12-07 20:15:40,584 - mainWin.py[line:435] - DEBUG: mainWin>function:openFile:try
+2018-12-07 20:15:40,584 - mainWin.py[line:210] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/小区名录310151.18.csv
+2018-12-07 20:15:40,599 - mainWin.py[line:459] - DEBUG: openTownList openFile
+2018-12-07 20:15:40,599 - mainWin.py[line:463] - DEBUG: in openTownList else
+2018-12-07 20:15:40,615 - mainWin.py[line:488] - DEBUG: in townSelectChange
+2018-12-07 20:15:40,615 - mainWin.py[line:488] - DEBUG: in townSelectChange
+2018-12-07 20:15:40,615 - mainWin.py[line:479] - DEBUG: mainWin>function:openTownList
+2018-12-07 20:15:41,587 - mainWin.py[line:535] - DEBUG: mainWin>function:setTableA
+2018-12-07 20:15:44,646 - mainWin.py[line:428] - DEBUG: mainWin>function:openFile:D:/研一/项目/Auditing/输入文件夹/A310151.18.csv
+2018-12-07 20:15:44,646 - mainWin.py[line:435] - DEBUG: mainWin>function:openFile:try
+2018-12-07 20:15:44,646 - mainWin.py[line:210] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/A310151.18.csv
+2018-12-07 20:15:45,709 - mainWin.py[line:540] - DEBUG: mainWin>function:setTableZy
+2018-12-07 20:15:49,966 - mainWin.py[line:428] - DEBUG: mainWin>function:openFile:D:/研一/项目/Auditing/输入文件夹/D3101511806.csv
+2018-12-07 20:15:49,966 - mainWin.py[line:435] - DEBUG: mainWin>function:openFile:try
+2018-12-07 20:15:49,966 - mainWin.py[line:210] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/D3101511806.csv
+2018-12-07 20:15:52,337 - deal_taizhang.py[line:19] - DEBUG: deal_taizhang init..
+2018-12-07 20:15:52,337 - deal_taizhang.py[line:30] - DEBUG: deal_taizhang init ok
+2018-12-07 20:15:52,337 - deal_taizhang.py[line:150] - DEBUG: deal_taizhang>function:getCommunity
+2018-12-07 20:17:12,031 - mainWin.py[line:573] - ERROR: 'tuple' object has no attribute 'empty'
+2018-12-07 20:18:48,039 - mainWin.py[line:615] - DEBUG: 将结果显示在表上
+2018-12-07 20:18:53,082 - mainWin.py[line:615] - DEBUG: 将结果显示在表上
+2018-12-07 20:18:54,142 - mainWin.py[line:615] - DEBUG: 将结果显示在表上
+2018-12-07 20:18:56,224 - mainWin.py[line:615] - DEBUG: 将结果显示在表上
+2018-12-07 20:19:01,205 - mainWin.py[line:615] - DEBUG: 将结果显示在表上
+2018-12-07 20:23:30,226 - mainWin.py[line:428] - DEBUG: mainWin>function:openFile:
+2018-12-07 20:23:30,226 - mainWin.py[line:459] - DEBUG: openTownList openFile
+2018-12-07 20:23:30,226 - mainWin.py[line:461] - DEBUG: openTownList 未选中文件
+2018-12-07 20:23:56,998 - mainWin.py[line:428] - DEBUG: mainWin>function:openFile:D:/研一/项目/Auditing/输入文件夹/小区名录310151.18.csv
+2018-12-07 20:23:56,999 - mainWin.py[line:435] - DEBUG: mainWin>function:openFile:try
+2018-12-07 20:23:56,999 - mainWin.py[line:210] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/小区名录310151.18.csv
+2018-12-07 20:23:57,004 - mainWin.py[line:459] - DEBUG: openTownList openFile
+2018-12-07 20:23:57,004 - mainWin.py[line:463] - DEBUG: in openTownList else
+2018-12-07 20:23:57,006 - mainWin.py[line:488] - DEBUG: in townSelectChange
+2018-12-07 20:23:57,007 - mainWin.py[line:488] - DEBUG: in townSelectChange
+2018-12-07 20:23:57,007 - mainWin.py[line:488] - DEBUG: in townSelectChange
+2018-12-07 20:23:57,007 - mainWin.py[line:479] - DEBUG: mainWin>function:openTownList
+2018-12-07 20:23:58,353 - mainWin.py[line:535] - DEBUG: mainWin>function:setTableA
+2018-12-07 20:24:02,954 - mainWin.py[line:428] - DEBUG: mainWin>function:openFile:
+2018-12-07 20:24:11,933 - mainWin.py[line:535] - DEBUG: mainWin>function:setTableA
+2018-12-07 20:24:23,659 - mainWin.py[line:428] - DEBUG: mainWin>function:openFile:D:/研一/项目/Auditing/输入文件夹/A310151.18.csv
+2018-12-07 20:24:23,659 - mainWin.py[line:435] - DEBUG: mainWin>function:openFile:try
+2018-12-07 20:24:23,659 - mainWin.py[line:210] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/A310151.18.csv
+2018-12-07 20:24:25,159 - mainWin.py[line:540] - DEBUG: mainWin>function:setTableZy
+2018-12-07 20:24:28,842 - mainWin.py[line:428] - DEBUG: mainWin>function:openFile:D:/研一/项目/Auditing/输入文件夹/D3101511806.csv
+2018-12-07 20:24:28,842 - mainWin.py[line:435] - DEBUG: mainWin>function:openFile:try
+2018-12-07 20:24:28,843 - mainWin.py[line:210] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/D3101511806.csv
+2018-12-07 20:24:30,712 - deal_taizhang.py[line:19] - DEBUG: deal_taizhang init..
+2018-12-07 20:24:30,712 - deal_taizhang.py[line:30] - DEBUG: deal_taizhang init ok
+2018-12-07 20:24:30,712 - deal_taizhang.py[line:150] - DEBUG: deal_taizhang>function:getCommunity
+2018-12-07 20:25:51,111 - mainWin.py[line:573] - ERROR: 'tuple' object has no attribute 'empty'
+2018-12-07 20:42:59,107 - myLogging.py[line:37] - DEBUG: logging init over
+2018-12-07 20:43:00,072 - mainWin.py[line:27] - DEBUG: mainWin>init..
+2018-12-07 20:43:00,733 - mainWin.py[line:79] - DEBUG: mainWin>init ok
+2018-12-07 20:43:13,791 - mainWin.py[line:431] - DEBUG: mainWin>function:openFile:D:/研一/项目/Auditing/输入文件夹/小区名录310151.18.csv
+2018-12-07 20:43:13,791 - mainWin.py[line:438] - DEBUG: mainWin>function:openFile:try
+2018-12-07 20:43:13,791 - mainWin.py[line:213] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/小区名录310151.18.csv
+2018-12-07 20:43:13,815 - mainWin.py[line:462] - DEBUG: openTownList openFile
+2018-12-07 20:43:13,815 - mainWin.py[line:466] - DEBUG: in openTownList else
+2018-12-07 20:43:13,817 - mainWin.py[line:491] - DEBUG: in townSelectChange
+2018-12-07 20:43:13,817 - mainWin.py[line:491] - DEBUG: in townSelectChange
+2018-12-07 20:43:13,818 - mainWin.py[line:482] - DEBUG: mainWin>function:openTownList
+2018-12-07 20:43:14,696 - mainWin.py[line:538] - DEBUG: mainWin>function:setTableA
+2018-12-07 20:43:17,768 - mainWin.py[line:431] - DEBUG: mainWin>function:openFile:D:/研一/项目/Auditing/输入文件夹/A310151.18.csv
+2018-12-07 20:43:17,768 - mainWin.py[line:438] - DEBUG: mainWin>function:openFile:try
+2018-12-07 20:43:17,768 - mainWin.py[line:213] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/A310151.18.csv
+2018-12-07 20:43:18,861 - mainWin.py[line:543] - DEBUG: mainWin>function:setTableZy
+2018-12-07 20:43:25,096 - mainWin.py[line:431] - DEBUG: mainWin>function:openFile:D:/研一/项目/Auditing/输入文件夹/D3101511806.csv
+2018-12-07 20:43:25,096 - mainWin.py[line:438] - DEBUG: mainWin>function:openFile:try
+2018-12-07 20:43:25,096 - mainWin.py[line:213] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/D3101511806.csv
+2018-12-07 20:43:29,668 - mainWin.py[line:491] - DEBUG: in townSelectChange
+2018-12-07 20:43:30,630 - deal_taizhang.py[line:19] - DEBUG: deal_taizhang init..
+2018-12-07 20:43:30,630 - deal_taizhang.py[line:30] - DEBUG: deal_taizhang init ok
+2018-12-07 20:43:30,630 - deal_taizhang.py[line:150] - DEBUG: deal_taizhang>function:getCommunity
+2018-12-07 20:43:37,555 - mainWin.py[line:568] - DEBUG: 获取到生成台账结果
+2018-12-07 20:43:37,564 - mainWin.py[line:618] - DEBUG: 将结果显示在表上
+2018-12-07 20:43:44,144 - mainWin.py[line:618] - DEBUG: 将结果显示在表上
+2018-12-07 20:43:46,643 - mainWin.py[line:644] - DEBUG: 生成台账结果成功
+2018-12-07 20:46:53,071 - mainWin.py[line:491] - DEBUG: in townSelectChange
+2018-12-07 20:46:54,665 - mainWin.py[line:644] - DEBUG: 生成台账结果成功
+2018-12-07 20:46:57,563 - deal_taizhang.py[line:19] - DEBUG: deal_taizhang init..
+2018-12-07 20:46:57,563 - deal_taizhang.py[line:30] - DEBUG: deal_taizhang init ok
+2018-12-07 20:46:57,563 - deal_taizhang.py[line:150] - DEBUG: deal_taizhang>function:getCommunity
+2018-12-07 20:48:18,409 - mainWin.py[line:568] - DEBUG: 获取到生成台账结果
+2018-12-07 20:48:18,525 - mainWin.py[line:618] - DEBUG: 将结果显示在表上
+2018-12-07 21:00:25,571 - mainWin.py[line:618] - DEBUG: 将结果显示在表上
+2018-12-07 21:00:25,821 - mainWin.py[line:618] - DEBUG: 将结果显示在表上
+2018-12-07 21:00:26,040 - mainWin.py[line:618] - DEBUG: 将结果显示在表上
+2018-12-07 21:00:26,227 - mainWin.py[line:618] - DEBUG: 将结果显示在表上
+2018-12-07 21:00:26,415 - mainWin.py[line:618] - DEBUG: 将结果显示在表上
+2018-12-07 21:00:50,522 - mainWin.py[line:618] - DEBUG: 将结果显示在表上
+2018-12-07 21:03:48,052 - myLogging.py[line:37] - DEBUG: logging init over
+2018-12-07 21:03:55,382 - myLogging.py[line:37] - DEBUG: logging init over
+2018-12-07 21:03:55,657 - mainWin.py[line:27] - DEBUG: mainWin>init..
+2018-12-07 21:03:56,310 - mainWin.py[line:79] - DEBUG: mainWin>init ok
+2018-12-07 21:04:07,885 - mainWin.py[line:431] - DEBUG: mainWin>function:openFile:D:/研一/项目/Auditing/输入文件夹/小区名录310151.18.csv
+2018-12-07 21:04:07,885 - mainWin.py[line:438] - DEBUG: mainWin>function:openFile:try
+2018-12-07 21:04:07,885 - mainWin.py[line:213] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/小区名录310151.18.csv
+2018-12-07 21:04:07,901 - mainWin.py[line:462] - DEBUG: openTownList openFile
+2018-12-07 21:04:07,901 - mainWin.py[line:466] - DEBUG: in openTownList else
+2018-12-07 21:04:07,901 - mainWin.py[line:491] - DEBUG: in townSelectChange
+2018-12-07 21:04:07,901 - mainWin.py[line:491] - DEBUG: in townSelectChange
+2018-12-07 21:04:07,916 - mainWin.py[line:482] - DEBUG: mainWin>function:openTownList
+2018-12-07 21:04:09,019 - mainWin.py[line:538] - DEBUG: mainWin>function:setTableA
+2018-12-07 21:04:12,113 - mainWin.py[line:431] - DEBUG: mainWin>function:openFile:D:/研一/项目/Auditing/输入文件夹/A310151.18.csv
+2018-12-07 21:04:12,113 - mainWin.py[line:438] - DEBUG: mainWin>function:openFile:try
+2018-12-07 21:04:12,113 - mainWin.py[line:213] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/A310151.18.csv
+2018-12-07 21:04:13,097 - mainWin.py[line:543] - DEBUG: mainWin>function:setTableZy
+2018-12-07 21:04:18,867 - mainWin.py[line:431] - DEBUG: mainWin>function:openFile:D:/研一/项目/Auditing/输入文件夹/D3101511806.csv
+2018-12-07 21:04:18,867 - mainWin.py[line:438] - DEBUG: mainWin>function:openFile:try
+2018-12-07 21:04:18,867 - mainWin.py[line:213] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/D3101511806.csv
+2018-12-07 21:04:26,934 - deal_taizhang.py[line:19] - DEBUG: deal_taizhang init..
+2018-12-07 21:04:26,934 - deal_taizhang.py[line:30] - DEBUG: deal_taizhang init ok
+2018-12-07 21:04:26,934 - deal_taizhang.py[line:150] - DEBUG: deal_taizhang>function:getCommunity
+2018-12-07 21:05:47,702 - mainWin.py[line:568] - DEBUG: 获取到生成台账结果
+2018-12-07 21:05:47,780 - mainWin.py[line:618] - DEBUG: 将结果显示在表上
+2018-12-07 21:10:35,299 - myLogging.py[line:37] - DEBUG: logging init over
+2018-12-07 21:10:35,491 - mainWin.py[line:27] - DEBUG: mainWin>init..
+2018-12-07 21:10:36,024 - mainWin.py[line:79] - DEBUG: mainWin>init ok
+2018-12-07 21:10:52,968 - mainWin.py[line:431] - DEBUG: mainWin>function:openFile:D:/研一/项目/Auditing/输入文件夹/小区名录310151.18.csv
+2018-12-07 21:10:52,968 - mainWin.py[line:438] - DEBUG: mainWin>function:openFile:try
+2018-12-07 21:10:52,968 - mainWin.py[line:213] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/小区名录310151.18.csv
+2018-12-07 21:10:52,983 - mainWin.py[line:462] - DEBUG: openTownList openFile
+2018-12-07 21:10:52,983 - mainWin.py[line:466] - DEBUG: in openTownList else
+2018-12-07 21:10:52,983 - mainWin.py[line:491] - DEBUG: in townSelectChange
+2018-12-07 21:10:52,983 - mainWin.py[line:491] - DEBUG: in townSelectChange
+2018-12-07 21:10:52,983 - mainWin.py[line:482] - DEBUG: mainWin>function:openTownList
+2018-12-07 21:10:53,952 - mainWin.py[line:538] - DEBUG: mainWin>function:setTableA
+2018-12-07 21:10:59,467 - mainWin.py[line:431] - DEBUG: mainWin>function:openFile:D:/研一/项目/Auditing/输入文件夹/A310151.18.csv
+2018-12-07 21:10:59,467 - mainWin.py[line:438] - DEBUG: mainWin>function:openFile:try
+2018-12-07 21:10:59,467 - mainWin.py[line:213] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/A310151.18.csv
+2018-12-07 21:11:00,623 - mainWin.py[line:543] - DEBUG: mainWin>function:setTableZy
+2018-12-07 21:11:34,189 - mainWin.py[line:431] - DEBUG: mainWin>function:openFile:D:/研一/项目/Auditing/输入文件夹/D3101511806.csv
+2018-12-07 21:11:34,189 - mainWin.py[line:438] - DEBUG: mainWin>function:openFile:try
+2018-12-07 21:11:34,189 - mainWin.py[line:213] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/D3101511806.csv
+2018-12-07 21:11:36,642 - deal_taizhang.py[line:19] - DEBUG: deal_taizhang init..
+2018-12-07 21:11:36,657 - deal_taizhang.py[line:30] - DEBUG: deal_taizhang init ok
+2018-12-07 21:11:36,657 - deal_taizhang.py[line:150] - DEBUG: deal_taizhang>function:getCommunity
+2018-12-07 21:12:55,939 - mainWin.py[line:568] - DEBUG: 获取到生成台账结果
+2018-12-07 21:12:56,017 - mainWin.py[line:618] - DEBUG: 将结果显示在表上
+2018-12-07 21:13:07,178 - mainWin.py[line:646] - DEBUG: 生成台账结果成功
+2018-12-07 21:15:43,691 - mainWin.py[line:431] - DEBUG: mainWin>function:openFile:
+2018-12-07 21:15:43,691 - mainWin.py[line:462] - DEBUG: openTownList openFile
+2018-12-07 21:15:43,691 - mainWin.py[line:464] - DEBUG: openTownList 未选中文件
+2018-12-07 21:15:44,581 - mainWin.py[line:538] - DEBUG: mainWin>function:setTableA
+2018-12-07 21:15:46,065 - mainWin.py[line:431] - DEBUG: mainWin>function:openFile:
+2018-12-07 21:15:47,612 - questionCheckDialog.py[line:19] - DEBUG: QuestionCheckDialog init..
+2018-12-07 21:15:47,612 - questionCheckDialog.py[line:22] - DEBUG: QuestionCheckDialog init ok
+2018-12-07 21:15:51,111 - zyCheckDialog.py[line:19] - DEBUG: zyCheckDialog init..
+2018-12-07 21:15:51,111 - zyCheckDialog.py[line:24] - DEBUG: zyCheckDialog init ok
+2018-12-07 21:17:23,939 - myLogging.py[line:37] - DEBUG: logging init over
+2018-12-07 21:17:24,267 - mainWin.py[line:27] - DEBUG: mainWin>init..
+2018-12-07 21:17:24,736 - mainWin.py[line:79] - DEBUG: mainWin>init ok
+2018-12-07 21:22:14,852 - myLogging.py[line:37] - DEBUG: logging init over
+2018-12-07 21:22:15,285 - mainWin.py[line:27] - DEBUG: mainWin>init..
+2018-12-07 21:22:15,879 - mainWin.py[line:79] - DEBUG: mainWin>init ok
+2018-12-07 21:22:18,180 - deal_taizhang.py[line:19] - DEBUG: deal_taizhang init..
+2018-12-07 21:22:18,180 - deal_taizhang.py[line:30] - DEBUG: deal_taizhang init ok
+2018-12-07 21:22:27,207 - deal_taizhang.py[line:19] - DEBUG: deal_taizhang init..
+2018-12-07 21:22:27,207 - deal_taizhang.py[line:30] - DEBUG: deal_taizhang init ok
+2018-12-07 21:33:47,423 - myLogging.py[line:37] - DEBUG: logging init over
+2018-12-07 21:33:47,892 - mainWin.py[line:27] - DEBUG: mainWin>init..
+2018-12-07 21:33:48,485 - mainWin.py[line:79] - DEBUG: mainWin>init ok
+2018-12-07 21:33:50,922 - importFileDialog.py[line:17] - DEBUG: importFileDialog init..
+2018-12-07 21:33:50,922 - importFileDialog.py[line:24] - DEBUG: importFileDialog init ok
+2018-12-08 11:22:24,186 - mainWin.py[line:431] - DEBUG: mainWin>function:openFile:D:/研一/项目/Auditing/输入文件夹/小区名录310151.18.csv
+2018-12-08 11:22:24,186 - mainWin.py[line:438] - DEBUG: mainWin>function:openFile:try
+2018-12-08 11:22:24,186 - mainWin.py[line:213] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/小区名录310151.18.csv
+2018-12-08 11:22:24,248 - mainWin.py[line:462] - DEBUG: openTownList openFile
+2018-12-08 11:22:24,248 - mainWin.py[line:466] - DEBUG: in openTownList else
+2018-12-08 11:22:24,248 - mainWin.py[line:491] - DEBUG: in townSelectChange
+2018-12-08 11:22:24,248 - mainWin.py[line:491] - DEBUG: in townSelectChange
+2018-12-08 11:22:24,248 - mainWin.py[line:482] - DEBUG: mainWin>function:openTownList
+2018-12-08 11:22:24,967 - mainWin.py[line:538] - DEBUG: mainWin>function:setTableA
+2018-12-08 11:22:27,263 - mainWin.py[line:431] - DEBUG: mainWin>function:openFile:D:/研一/项目/Auditing/输入文件夹/A310151.18.csv
+2018-12-08 11:22:27,263 - mainWin.py[line:438] - DEBUG: mainWin>function:openFile:try
+2018-12-08 11:22:27,263 - mainWin.py[line:213] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/A310151.18.csv
+2018-12-08 11:22:28,143 - mainWin.py[line:543] - DEBUG: mainWin>function:setTableZy
+2018-12-08 11:22:31,146 - mainWin.py[line:431] - DEBUG: mainWin>function:openFile:D:/研一/项目/Auditing/输入文件夹/D3101511806.csv
+2018-12-08 11:22:31,146 - mainWin.py[line:438] - DEBUG: mainWin>function:openFile:try
+2018-12-08 11:22:31,146 - mainWin.py[line:213] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/D3101511806.csv
+2018-12-08 11:22:34,769 - deal_taizhang.py[line:19] - DEBUG: deal_taizhang init..
+2018-12-08 11:22:34,769 - deal_taizhang.py[line:30] - DEBUG: deal_taizhang init ok
+2018-12-08 11:22:34,769 - deal_taizhang.py[line:150] - DEBUG: deal_taizhang>function:getCommunity
+2018-12-08 11:23:57,620 - mainWin.py[line:568] - DEBUG: 获取到生成台账结果
+2018-12-08 11:23:57,715 - mainWin.py[line:618] - DEBUG: 将结果显示在表上
+2018-12-08 11:24:59,545 - mainWin.py[line:618] - DEBUG: 将结果显示在表上
+2018-12-08 11:25:33,690 - mainWin.py[line:491] - DEBUG: in townSelectChange
+2018-12-08 11:25:35,596 - deal_taizhang.py[line:19] - DEBUG: deal_taizhang init..
+2018-12-08 11:25:35,612 - deal_taizhang.py[line:30] - DEBUG: deal_taizhang init ok
+2018-12-08 11:25:35,612 - deal_taizhang.py[line:150] - DEBUG: deal_taizhang>function:getCommunity
+2018-12-08 11:25:42,455 - mainWin.py[line:568] - DEBUG: 获取到生成台账结果
+2018-12-08 11:25:42,464 - mainWin.py[line:618] - DEBUG: 将结果显示在表上
+2018-12-08 11:25:50,664 - mainWin.py[line:646] - DEBUG: 生成台账结果成功
+2018-12-08 11:37:26,019 - mainWin.py[line:646] - DEBUG: 生成台账结果成功

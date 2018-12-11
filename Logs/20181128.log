@@ -1,0 +1,28 @@
+2018-11-28 21:10:01,816 - myLogging.py[line:37] - DEBUG: logging init over
+2018-11-28 21:10:05,394 - mainWin.py[line:26] - DEBUG: mainWin>init..
+2018-11-28 21:10:06,004 - mainWin.py[line:56] - DEBUG: mainWin>init ok
+2018-11-28 21:10:13,097 - importFileDialog.py[line:17] - DEBUG: importFileDialog init..
+2018-11-28 21:10:13,097 - importFileDialog.py[line:24] - DEBUG: importFileDialog init ok
+2018-11-28 21:10:15,895 - questionCheckDialog.py[line:19] - DEBUG: QuestionCheckDialog init..
+2018-11-28 21:10:15,911 - questionCheckDialog.py[line:22] - DEBUG: QuestionCheckDialog init ok
+2018-11-28 21:10:29,582 - questionCheckDialog.py[line:19] - DEBUG: QuestionCheckDialog init..
+2018-11-28 21:10:29,582 - questionCheckDialog.py[line:22] - DEBUG: QuestionCheckDialog init ok
+2018-11-28 21:10:56,175 - zyCheckDialog.py[line:20] - DEBUG: zyCheckDialog init ok
+2018-11-28 21:11:23,051 - importFileDialog.py[line:17] - DEBUG: importFileDialog init..
+2018-11-28 21:11:23,051 - importFileDialog.py[line:24] - DEBUG: importFileDialog init ok
+2018-11-28 21:21:21,832 - importFileDialog.py[line:17] - DEBUG: importFileDialog init..
+2018-11-28 21:21:21,832 - importFileDialog.py[line:24] - DEBUG: importFileDialog init ok
+2018-11-28 21:24:27,379 - questionCheckDialog.py[line:19] - DEBUG: QuestionCheckDialog init..
+2018-11-28 21:24:27,379 - questionCheckDialog.py[line:22] - DEBUG: QuestionCheckDialog init ok
+2018-11-28 21:25:22,598 - questionCheckDialog.py[line:19] - DEBUG: QuestionCheckDialog init..
+2018-11-28 21:25:22,598 - questionCheckDialog.py[line:22] - DEBUG: QuestionCheckDialog init ok
+2018-11-28 21:38:30,097 - questionCheckDialog.py[line:19] - DEBUG: QuestionCheckDialog init..
+2018-11-28 21:38:30,097 - questionCheckDialog.py[line:22] - DEBUG: QuestionCheckDialog init ok
+2018-11-28 21:52:41,707 - questionCheckDialog.py[line:19] - DEBUG: QuestionCheckDialog init..
+2018-11-28 21:52:41,707 - questionCheckDialog.py[line:22] - DEBUG: QuestionCheckDialog init ok
+2018-11-28 21:52:59,894 - zyCheckDialog.py[line:20] - DEBUG: zyCheckDialog init ok
+2018-11-28 21:56:13,019 - questionCheckDialog.py[line:19] - DEBUG: QuestionCheckDialog init..
+2018-11-28 21:56:13,019 - questionCheckDialog.py[line:22] - DEBUG: QuestionCheckDialog init ok
+2018-11-28 22:01:23,957 - zyCheckDialog.py[line:20] - DEBUG: zyCheckDialog init ok
+2018-11-28 22:03:01,566 - questionCheckDialog.py[line:19] - DEBUG: QuestionCheckDialog init..
+2018-11-28 22:03:01,566 - questionCheckDialog.py[line:22] - DEBUG: QuestionCheckDialog init ok

@@ -1,0 +1,100 @@
+NameError
+Python 3.6.5: D:\ProgramFile\Anaconda\python.exe
+Fri Nov 30 15:06:54 2018
+
+A problem occurred in a Python script.  Here is the sequence of
+function calls leading up to the error, in the order they occurred.
+
+ D:\研一\项目\Auditing\mainWin.py in openQuestionCheckDialog(self=<mainWin.MyMainWindow object>)
+  285             if self.B_flag == True and self.zhuhu_flag == True and self.zhuzhai_flag == True and self.xiaoqu_flag == True:
+  286                 if Bn == True:
+  287                     B_necessity_outcome = B_necessity_check(self.B,self.zhuhu,self.zhuzhai,self.xiaoqu)
+  288                     Bnfilename = 'B_necessity_result'
+  289                     B_necessity_outcome.to_excel('./B_necessity_result.xlsx',encoding="utf-8",index=False,sheet_name='Sheet')
+B_necessity_outcome undefined
+B_necessity_check = <function B_necessity_check>
+self = <mainWin.MyMainWindow object>
+self.B =                        SID  COL       SCODE  YEA...     2   NaN     2   NaN
+
+[366 rows x 96 columns]
+self.zhuhu =                       HHID  COL    COUN    VCODE...     2     3   NaN   NaN
+
+[351 rows x 43 columns]
+self.zhuzhai =                      HID    COUN    VCODE HCODE ...    82    30     1     1
+
+[483 rows x 15 columns]
+self.xiaoqu =                 VID    COUN COUNNAME   ...    NV...       2     NaN        1
+
+[36 rows x 23 columns]
+
+ D:\研一\项目\Auditing\B_necessity_check.py in B_necessity_check(tableB=                       SID  COL       SCODE  YEA...     2   NaN     2   NaN
+
+[366 rows x 96 columns], zhuhu=                      HHID  COL    COUN    VCODE...     2     3   NaN   NaN
+
+[351 rows x 43 columns], zhuzhai=                     HID    COUN    VCODE HCODE ...    82    30     1     1
+
+[483 rows x 15 columns], xiaoqu=                VID    COUN COUNNAME   ...    NV...       2     NaN        1
+
+[36 rows x 23 columns])
+  245                     dict['code'] = "B121={}".format(single_row['B118'])
+  246                     dict['提示内容'] = 'B121购(建)房总金额越界'
+  247                     insert_to_pd(dict)
+  248 
+  249                 if single_row['B122'] != 0:
+global insert_to_pd = <function insert_to_pd>
+dict = {'code': 'B121=240.0', 'scode': '3.044.01h', 'sid': '310151101024001H04401', 'townname': '城桥镇', 'vname': '金珠居委会', 'year': 2018, '提示内容': 'B121购(建)房总金额越界'}
+
+ D:\研一\项目\Auditing\B_necessity_check.py in insert_to_pd(data={'code': 'B121=240.0', 'scode': '3.044.01h', 'sid': '310151101024001H04401', 'townname': '城桥镇', 'vname': '金珠居委会', 'year': 2018, '提示内容': 'B121购(建)房总金额越界'})
+   15 def insert_to_pd(data):
+   16     global B_necessity_result
+   17     B_necessity_result = B_necessity_result.append(data, ignore_index=True)
+   18 
+   19 
+B_necessity_result undefined
+data = {'code': 'B121=240.0', 'scode': '3.044.01h', 'sid': '310151101024001H04401', 'townname': '城桥镇', 'vname': '金珠居委会', 'year': 2018, '提示内容': 'B121购(建)房总金额越界'}
+ignore_index undefined
+NameError: name 'B_necessity_result' is not defined
+    __cause__ = None
+    __class__ = <class 'NameError'>
+    __context__ = None
+    __delattr__ = <method-wrapper '__delattr__' of NameError object>
+    __dict__ = {}
+    __dir__ = <built-in method __dir__ of NameError object>
+    __doc__ = 'Name not found globally.'
+    __eq__ = <method-wrapper '__eq__' of NameError object>
+    __format__ = <built-in method __format__ of NameError object>
+    __ge__ = <method-wrapper '__ge__' of NameError object>
+    __getattribute__ = <method-wrapper '__getattribute__' of NameError object>
+    __gt__ = <method-wrapper '__gt__' of NameError object>
+    __hash__ = <method-wrapper '__hash__' of NameError object>
+    __init__ = <method-wrapper '__init__' of NameError object>
+    __init_subclass__ = <built-in method __init_subclass__ of type object>
+    __le__ = <method-wrapper '__le__' of NameError object>
+    __lt__ = <method-wrapper '__lt__' of NameError object>
+    __ne__ = <method-wrapper '__ne__' of NameError object>
+    __new__ = <built-in method __new__ of type object>
+    __reduce__ = <built-in method __reduce__ of NameError object>
+    __reduce_ex__ = <built-in method __reduce_ex__ of NameError object>
+    __repr__ = <method-wrapper '__repr__' of NameError object>
+    __setattr__ = <method-wrapper '__setattr__' of NameError object>
+    __setstate__ = <built-in method __setstate__ of NameError object>
+    __sizeof__ = <built-in method __sizeof__ of NameError object>
+    __str__ = <method-wrapper '__str__' of NameError object>
+    __subclasshook__ = <built-in method __subclasshook__ of type object>
+    __suppress_context__ = False
+    __traceback__ = <traceback object>
+    args = ("name 'B_necessity_result' is not defined",)
+    with_traceback = <built-in method with_traceback of NameError object>
+
+The above is a description of an error in a Python program.  Here is
+the original traceback:
+
+Traceback (most recent call last):
+  File "D:\研一\项目\Auditing\mainWin.py", line 287, in openQuestionCheckDialog
+    B_necessity_outcome = B_necessity_check(self.B,self.zhuhu,self.zhuzhai,self.xiaoqu)
+  File "D:\研一\项目\Auditing\B_necessity_check.py", line 247, in B_necessity_check
+    insert_to_pd(dict)
+  File "D:\研一\项目\Auditing\B_necessity_check.py", line 17, in insert_to_pd
+    B_necessity_result = B_necessity_result.append(data, ignore_index=True)
+NameError: name 'B_necessity_result' is not defined
+

@@ -1,0 +1,995 @@
+2018-11-30 10:22:47,950 - myLogging.py[line:37] - DEBUG: logging init over
+2018-11-30 10:23:28,117 - myLogging.py[line:37] - DEBUG: logging init over
+2018-11-30 10:23:29,368 - mainWin.py[line:26] - DEBUG: mainWin>init..
+2018-11-30 10:31:00,759 - myLogging.py[line:37] - DEBUG: logging init over
+2018-11-30 10:31:01,045 - mainWin.py[line:26] - DEBUG: mainWin>init..
+2018-11-30 10:31:01,443 - mainWin.py[line:61] - DEBUG: mainWin>init ok
+2018-11-30 10:31:03,155 - mainWin.py[line:452] - DEBUG: mainWin>function:setTableA
+2018-11-30 10:31:05,054 - mainWin.py[line:345] - DEBUG: mainWin>function:openFile:
+2018-11-30 10:31:44,673 - questionCheckDialog.py[line:19] - DEBUG: QuestionCheckDialog init..
+2018-11-30 10:31:44,675 - questionCheckDialog.py[line:22] - DEBUG: QuestionCheckDialog init ok
+2018-11-30 10:31:49,082 - importFileDialog.py[line:17] - DEBUG: importFileDialog init..
+2018-11-30 10:31:49,083 - importFileDialog.py[line:24] - DEBUG: importFileDialog init ok
+2018-11-30 10:32:02,056 - mainWin.py[line:311] - DEBUG: mainWin>function:openFile:try
+2018-11-30 10:32:02,057 - mainWin.py[line:195] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/A310151.18.csv
+2018-11-30 10:32:05,564 - questionCheckDialog.py[line:19] - DEBUG: QuestionCheckDialog init..
+2018-11-30 10:32:05,566 - questionCheckDialog.py[line:22] - DEBUG: QuestionCheckDialog init ok
+2018-11-30 10:32:12,487 - A_necessity_check.py[line:63] - DEBUG: A_necessity_check init..
+2018-11-30 10:37:01,837 - myLogging.py[line:37] - DEBUG: logging init over
+2018-11-30 10:37:11,634 - myLogging.py[line:37] - DEBUG: logging init over
+2018-11-30 10:37:11,975 - mainWin.py[line:26] - DEBUG: mainWin>init..
+2018-11-30 10:37:12,373 - mainWin.py[line:61] - DEBUG: mainWin>init ok
+2018-11-30 10:37:21,384 - mainWin.py[line:345] - DEBUG: mainWin>function:openFile:D:/研一/项目/Auditing/输入文件夹/A310151.18.csv
+2018-11-30 10:37:21,384 - mainWin.py[line:352] - DEBUG: mainWin>function:openFile:try
+2018-11-30 10:37:21,385 - mainWin.py[line:195] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/A310151.18.csv
+2018-11-30 10:37:21,402 - mainWin.py[line:376] - DEBUG: openTownList openFile
+2018-11-30 10:37:21,402 - mainWin.py[line:380] - DEBUG: in openTownList else
+2018-11-30 10:37:27,365 - questionCheckDialog.py[line:19] - DEBUG: QuestionCheckDialog init..
+2018-11-30 10:37:27,367 - questionCheckDialog.py[line:22] - DEBUG: QuestionCheckDialog init ok
+2018-11-30 10:41:21,215 - myLogging.py[line:37] - DEBUG: logging init over
+2018-11-30 10:41:21,361 - mainWin.py[line:26] - DEBUG: mainWin>init..
+2018-11-30 10:41:21,743 - mainWin.py[line:61] - DEBUG: mainWin>init ok
+2018-11-30 10:41:24,292 - importFileDialog.py[line:17] - DEBUG: importFileDialog init..
+2018-11-30 10:41:24,293 - importFileDialog.py[line:24] - DEBUG: importFileDialog init ok
+2018-11-30 10:41:32,104 - mainWin.py[line:311] - DEBUG: mainWin>function:openFile:try
+2018-11-30 10:41:32,104 - mainWin.py[line:195] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/A310151.18.csv
+2018-11-30 10:42:06,812 - importFileDialog.py[line:17] - DEBUG: importFileDialog init..
+2018-11-30 10:42:06,813 - importFileDialog.py[line:24] - DEBUG: importFileDialog init ok
+2018-11-30 10:42:10,894 - questionCheckDialog.py[line:19] - DEBUG: QuestionCheckDialog init..
+2018-11-30 10:42:10,896 - questionCheckDialog.py[line:22] - DEBUG: QuestionCheckDialog init ok
+2018-11-30 10:42:20,871 - A_necessity_check.py[line:63] - DEBUG: A_necessity_check init..
+2018-11-30 10:43:09,092 - questionCheckDialog.py[line:19] - DEBUG: QuestionCheckDialog init..
+2018-11-30 10:43:09,093 - questionCheckDialog.py[line:22] - DEBUG: QuestionCheckDialog init ok
+2018-11-30 10:43:11,703 - A_necessity_check.py[line:63] - DEBUG: A_necessity_check init..
+2018-11-30 10:48:08,860 - importFileDialog.py[line:17] - DEBUG: importFileDialog init..
+2018-11-30 10:48:08,861 - importFileDialog.py[line:24] - DEBUG: importFileDialog init ok
+2018-11-30 11:00:01,254 - myLogging.py[line:37] - DEBUG: logging init over
+2018-11-30 11:00:01,286 - A_necessity_check.py[line:63] - DEBUG: A_necessity_check init..
+2018-11-30 11:01:48,124 - myLogging.py[line:37] - DEBUG: logging init over
+2018-11-30 11:01:48,279 - mainWin.py[line:26] - DEBUG: mainWin>init..
+2018-11-30 11:01:48,653 - mainWin.py[line:61] - DEBUG: mainWin>init ok
+2018-11-30 11:01:52,501 - importFileDialog.py[line:17] - DEBUG: importFileDialog init..
+2018-11-30 11:01:52,502 - importFileDialog.py[line:24] - DEBUG: importFileDialog init ok
+2018-11-30 11:02:01,240 - mainWin.py[line:311] - DEBUG: mainWin>function:openFile:try
+2018-11-30 11:02:01,240 - mainWin.py[line:195] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/A310151.18.csv
+2018-11-30 11:02:04,183 - questionCheckDialog.py[line:19] - DEBUG: QuestionCheckDialog init..
+2018-11-30 11:02:04,185 - questionCheckDialog.py[line:22] - DEBUG: QuestionCheckDialog init ok
+2018-11-30 11:02:06,455 - A_necessity_check.py[line:63] - DEBUG: A_necessity_check init..
+2018-11-30 11:06:02,764 - importFileDialog.py[line:17] - DEBUG: importFileDialog init..
+2018-11-30 11:06:02,765 - importFileDialog.py[line:24] - DEBUG: importFileDialog init ok
+2018-11-30 11:06:22,384 - mainWin.py[line:311] - DEBUG: mainWin>function:openFile:try
+2018-11-30 11:06:22,385 - mainWin.py[line:195] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/住户样本310151.18.csv
+2018-11-30 11:06:22,393 - mainWin.py[line:311] - DEBUG: mainWin>function:openFile:try
+2018-11-30 11:06:22,394 - mainWin.py[line:195] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/小区名录310151.18.csv
+2018-11-30 11:06:23,788 - questionCheckDialog.py[line:19] - DEBUG: QuestionCheckDialog init..
+2018-11-30 11:06:23,789 - questionCheckDialog.py[line:22] - DEBUG: QuestionCheckDialog init ok
+2018-11-30 11:06:25,720 - A_necessity_check.py[line:63] - DEBUG: A_necessity_check init..
+2018-11-30 11:07:37,587 - questionCheckDialog.py[line:19] - DEBUG: QuestionCheckDialog init..
+2018-11-30 11:07:37,589 - questionCheckDialog.py[line:22] - DEBUG: QuestionCheckDialog init ok
+2018-11-30 11:07:40,495 - A_necessity_check.py[line:63] - DEBUG: A_necessity_check init..
+2018-11-30 11:07:55,982 - myLogging.py[line:37] - DEBUG: logging init over
+2018-11-30 11:07:56,117 - mainWin.py[line:26] - DEBUG: mainWin>init..
+2018-11-30 11:07:56,484 - mainWin.py[line:61] - DEBUG: mainWin>init ok
+2018-11-30 11:07:59,205 - importFileDialog.py[line:17] - DEBUG: importFileDialog init..
+2018-11-30 11:07:59,206 - importFileDialog.py[line:24] - DEBUG: importFileDialog init ok
+2018-11-30 11:08:20,192 - mainWin.py[line:311] - DEBUG: mainWin>function:openFile:try
+2018-11-30 11:08:20,193 - mainWin.py[line:195] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/A310151.18.csv
+2018-11-30 11:08:20,210 - mainWin.py[line:311] - DEBUG: mainWin>function:openFile:try
+2018-11-30 11:08:20,210 - mainWin.py[line:195] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/住户样本310151.18.csv
+2018-11-30 11:08:20,216 - mainWin.py[line:311] - DEBUG: mainWin>function:openFile:try
+2018-11-30 11:08:20,216 - mainWin.py[line:195] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/小区名录310151.18.csv
+2018-11-30 11:08:21,562 - questionCheckDialog.py[line:19] - DEBUG: QuestionCheckDialog init..
+2018-11-30 11:08:21,565 - questionCheckDialog.py[line:22] - DEBUG: QuestionCheckDialog init ok
+2018-11-30 11:08:24,352 - A_necessity_check.py[line:63] - DEBUG: A_necessity_check init..
+2018-11-30 11:16:01,315 - myLogging.py[line:37] - DEBUG: logging init over
+2018-11-30 11:16:01,458 - mainWin.py[line:26] - DEBUG: mainWin>init..
+2018-11-30 11:16:01,853 - mainWin.py[line:61] - DEBUG: mainWin>init ok
+2018-11-30 11:16:04,156 - importFileDialog.py[line:17] - DEBUG: importFileDialog init..
+2018-11-30 11:16:04,157 - importFileDialog.py[line:24] - DEBUG: importFileDialog init ok
+2018-11-30 11:16:29,104 - mainWin.py[line:311] - DEBUG: mainWin>function:openFile:try
+2018-11-30 11:16:29,104 - mainWin.py[line:195] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/A310151.18.csv
+2018-11-30 11:16:29,122 - mainWin.py[line:311] - DEBUG: mainWin>function:openFile:try
+2018-11-30 11:16:29,122 - mainWin.py[line:195] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/住户样本310151.18.csv
+2018-11-30 11:16:29,129 - mainWin.py[line:311] - DEBUG: mainWin>function:openFile:try
+2018-11-30 11:16:29,129 - mainWin.py[line:195] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/住宅名录310151.18.csv
+2018-11-30 11:16:31,253 - questionCheckDialog.py[line:19] - DEBUG: QuestionCheckDialog init..
+2018-11-30 11:16:31,254 - questionCheckDialog.py[line:22] - DEBUG: QuestionCheckDialog init ok
+2018-11-30 11:16:33,824 - A_necessity_check.py[line:63] - DEBUG: A_necessity_check init..
+2018-11-30 11:16:44,876 - importFileDialog.py[line:17] - DEBUG: importFileDialog init..
+2018-11-30 11:16:44,877 - importFileDialog.py[line:24] - DEBUG: importFileDialog init ok
+2018-11-30 11:16:54,680 - mainWin.py[line:311] - DEBUG: mainWin>function:openFile:try
+2018-11-30 11:16:54,681 - mainWin.py[line:195] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/小区名录310151.18.csv
+2018-11-30 11:16:56,052 - questionCheckDialog.py[line:19] - DEBUG: QuestionCheckDialog init..
+2018-11-30 11:16:56,053 - questionCheckDialog.py[line:22] - DEBUG: QuestionCheckDialog init ok
+2018-11-30 11:16:58,895 - A_necessity_check.py[line:63] - DEBUG: A_necessity_check init..
+2018-11-30 11:17:50,255 - myLogging.py[line:37] - DEBUG: logging init over
+2018-11-30 11:17:50,408 - mainWin.py[line:26] - DEBUG: mainWin>init..
+2018-11-30 11:17:50,830 - mainWin.py[line:61] - DEBUG: mainWin>init ok
+2018-11-30 11:17:53,157 - importFileDialog.py[line:17] - DEBUG: importFileDialog init..
+2018-11-30 11:17:53,158 - importFileDialog.py[line:24] - DEBUG: importFileDialog init ok
+2018-11-30 11:18:16,904 - mainWin.py[line:311] - DEBUG: mainWin>function:openFile:try
+2018-11-30 11:18:16,904 - mainWin.py[line:195] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/A310151.18.csv
+2018-11-30 11:18:16,921 - mainWin.py[line:311] - DEBUG: mainWin>function:openFile:try
+2018-11-30 11:18:16,921 - mainWin.py[line:195] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/住户样本310151.18.csv
+2018-11-30 11:18:16,927 - mainWin.py[line:311] - DEBUG: mainWin>function:openFile:try
+2018-11-30 11:18:16,927 - mainWin.py[line:195] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/小区名录310151.18.csv
+2018-11-30 11:18:19,445 - questionCheckDialog.py[line:19] - DEBUG: QuestionCheckDialog init..
+2018-11-30 11:18:19,447 - questionCheckDialog.py[line:22] - DEBUG: QuestionCheckDialog init ok
+2018-11-30 11:18:21,614 - A_necessity_check.py[line:63] - DEBUG: A_necessity_check init..
+2018-11-30 11:21:38,646 - myLogging.py[line:37] - DEBUG: logging init over
+2018-11-30 11:21:38,794 - mainWin.py[line:26] - DEBUG: mainWin>init..
+2018-11-30 11:21:39,208 - mainWin.py[line:61] - DEBUG: mainWin>init ok
+2018-11-30 11:21:41,388 - importFileDialog.py[line:17] - DEBUG: importFileDialog init..
+2018-11-30 11:21:41,390 - importFileDialog.py[line:24] - DEBUG: importFileDialog init ok
+2018-11-30 11:22:15,704 - mainWin.py[line:311] - DEBUG: mainWin>function:openFile:try
+2018-11-30 11:22:15,705 - mainWin.py[line:195] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/A310151.18.csv
+2018-11-30 11:22:15,721 - mainWin.py[line:311] - DEBUG: mainWin>function:openFile:try
+2018-11-30 11:22:15,721 - mainWin.py[line:195] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/住户样本310151.18.csv
+2018-11-30 11:22:15,727 - mainWin.py[line:311] - DEBUG: mainWin>function:openFile:try
+2018-11-30 11:22:15,727 - mainWin.py[line:195] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/小区名录310151.18.csv
+2018-11-30 11:22:17,473 - questionCheckDialog.py[line:19] - DEBUG: QuestionCheckDialog init..
+2018-11-30 11:22:17,474 - questionCheckDialog.py[line:22] - DEBUG: QuestionCheckDialog init ok
+2018-11-30 11:22:20,239 - A_necessity_check.py[line:63] - DEBUG: A_necessity_check init..
+2018-11-30 11:41:03,262 - myLogging.py[line:37] - DEBUG: logging init over
+2018-11-30 11:41:03,294 - A_necessity_check.py[line:63] - DEBUG: A_necessity_check init..
+2018-11-30 11:41:34,549 - mainWin.py[line:531] - DEBUG: 将结果显示在表上
+2018-11-30 11:42:01,878 - myLogging.py[line:37] - DEBUG: logging init over
+2018-11-30 11:42:01,894 - A_necessity_check.py[line:63] - DEBUG: A_necessity_check init..
+2018-11-30 11:43:38,508 - myLogging.py[line:37] - DEBUG: logging init over
+2018-11-30 11:43:38,524 - A_necessity_check.py[line:63] - DEBUG: A_necessity_check init..
+2018-11-30 11:48:48,001 - myLogging.py[line:37] - DEBUG: logging init over
+2018-11-30 11:48:48,329 - mainWin.py[line:26] - DEBUG: mainWin>init..
+2018-11-30 11:48:48,812 - mainWin.py[line:61] - DEBUG: mainWin>init ok
+2018-11-30 11:48:51,130 - importFileDialog.py[line:17] - DEBUG: importFileDialog init..
+2018-11-30 11:48:51,130 - importFileDialog.py[line:24] - DEBUG: importFileDialog init ok
+2018-11-30 11:49:04,607 - importFileDialog.py[line:17] - DEBUG: importFileDialog init..
+2018-11-30 11:49:04,607 - importFileDialog.py[line:24] - DEBUG: importFileDialog init ok
+2018-11-30 11:49:28,575 - mainWin.py[line:314] - DEBUG: mainWin>function:openFile:try
+2018-11-30 11:49:28,575 - mainWin.py[line:195] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/A310151.18.csv
+2018-11-30 11:49:28,592 - mainWin.py[line:314] - DEBUG: mainWin>function:openFile:try
+2018-11-30 11:49:28,592 - mainWin.py[line:195] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/住户样本310151.18.csv
+2018-11-30 11:49:28,598 - mainWin.py[line:314] - DEBUG: mainWin>function:openFile:try
+2018-11-30 11:49:28,598 - mainWin.py[line:195] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/小区名录310151.18.csv
+2018-11-30 11:49:29,805 - questionCheckDialog.py[line:19] - DEBUG: QuestionCheckDialog init..
+2018-11-30 11:49:29,805 - questionCheckDialog.py[line:22] - DEBUG: QuestionCheckDialog init ok
+2018-11-30 11:49:31,742 - A_necessity_check.py[line:63] - DEBUG: A_necessity_check init..
+2018-11-30 11:49:55,931 - myLogging.py[line:37] - DEBUG: logging init over
+2018-11-30 11:49:56,072 - mainWin.py[line:26] - DEBUG: mainWin>init..
+2018-11-30 11:49:56,509 - mainWin.py[line:61] - DEBUG: mainWin>init ok
+2018-11-30 11:50:09,086 - mainWin.py[line:348] - DEBUG: mainWin>function:openFile:
+2018-11-30 11:50:09,086 - mainWin.py[line:379] - DEBUG: openTownList openFile
+2018-11-30 11:50:09,086 - mainWin.py[line:381] - DEBUG: openTownList 未选中文件
+2018-11-30 11:50:10,846 - importFileDialog.py[line:17] - DEBUG: importFileDialog init..
+2018-11-30 11:50:10,846 - importFileDialog.py[line:24] - DEBUG: importFileDialog init ok
+2018-11-30 11:50:32,511 - mainWin.py[line:314] - DEBUG: mainWin>function:openFile:try
+2018-11-30 11:50:32,512 - mainWin.py[line:195] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/A310151.18.csv
+2018-11-30 11:50:32,530 - mainWin.py[line:314] - DEBUG: mainWin>function:openFile:try
+2018-11-30 11:50:32,530 - mainWin.py[line:195] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/住户样本310151.18.csv
+2018-11-30 11:50:32,537 - mainWin.py[line:314] - DEBUG: mainWin>function:openFile:try
+2018-11-30 11:50:32,538 - mainWin.py[line:195] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/小区名录310151.18.csv
+2018-11-30 11:50:34,227 - questionCheckDialog.py[line:19] - DEBUG: QuestionCheckDialog init..
+2018-11-30 11:50:34,227 - questionCheckDialog.py[line:22] - DEBUG: QuestionCheckDialog init ok
+2018-11-30 11:50:36,598 - A_necessity_check.py[line:63] - DEBUG: A_necessity_check init..
+2018-11-30 11:50:41,859 - questionCheckDialog.py[line:19] - DEBUG: QuestionCheckDialog init..
+2018-11-30 11:50:41,859 - questionCheckDialog.py[line:22] - DEBUG: QuestionCheckDialog init ok
+2018-11-30 11:50:44,894 - A_necessity_check.py[line:63] - DEBUG: A_necessity_check init..
+2018-11-30 11:51:10,717 - questionCheckDialog.py[line:19] - DEBUG: QuestionCheckDialog init..
+2018-11-30 11:51:10,732 - questionCheckDialog.py[line:22] - DEBUG: QuestionCheckDialog init ok
+2018-11-30 11:51:13,042 - A_necessity_check.py[line:63] - DEBUG: A_necessity_check init..
+2018-11-30 11:51:59,638 - myLogging.py[line:37] - DEBUG: logging init over
+2018-11-30 11:51:59,781 - mainWin.py[line:26] - DEBUG: mainWin>init..
+2018-11-30 11:52:00,203 - mainWin.py[line:61] - DEBUG: mainWin>init ok
+2018-11-30 11:52:08,823 - mainWin.py[line:348] - DEBUG: mainWin>function:openFile:
+2018-11-30 11:52:08,823 - mainWin.py[line:379] - DEBUG: openTownList openFile
+2018-11-30 11:52:08,823 - mainWin.py[line:381] - DEBUG: openTownList 未选中文件
+2018-11-30 11:52:16,465 - importFileDialog.py[line:17] - DEBUG: importFileDialog init..
+2018-11-30 11:52:16,465 - importFileDialog.py[line:24] - DEBUG: importFileDialog init ok
+2018-11-30 11:52:37,336 - mainWin.py[line:314] - DEBUG: mainWin>function:openFile:try
+2018-11-30 11:52:37,336 - mainWin.py[line:195] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/A310151.18.csv
+2018-11-30 11:52:37,354 - mainWin.py[line:314] - DEBUG: mainWin>function:openFile:try
+2018-11-30 11:52:37,354 - mainWin.py[line:195] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/住户样本310151.18.csv
+2018-11-30 11:52:37,360 - mainWin.py[line:314] - DEBUG: mainWin>function:openFile:try
+2018-11-30 11:52:37,360 - mainWin.py[line:195] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/小区名录310151.18.csv
+2018-11-30 11:52:38,588 - questionCheckDialog.py[line:19] - DEBUG: QuestionCheckDialog init..
+2018-11-30 11:52:38,588 - questionCheckDialog.py[line:22] - DEBUG: QuestionCheckDialog init ok
+2018-11-30 11:52:41,248 - A_necessity_check.py[line:63] - DEBUG: A_necessity_check init..
+2018-11-30 11:56:07,985 - myLogging.py[line:37] - DEBUG: logging init over
+2018-11-30 11:56:08,126 - mainWin.py[line:26] - DEBUG: mainWin>init..
+2018-11-30 11:56:08,500 - mainWin.py[line:61] - DEBUG: mainWin>init ok
+2018-11-30 11:56:16,219 - importFileDialog.py[line:17] - DEBUG: importFileDialog init..
+2018-11-30 11:56:16,219 - importFileDialog.py[line:24] - DEBUG: importFileDialog init ok
+2018-11-30 11:56:33,320 - mainWin.py[line:314] - DEBUG: mainWin>function:openFile:try
+2018-11-30 11:56:33,320 - mainWin.py[line:195] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/A310151.18.csv
+2018-11-30 11:56:33,339 - mainWin.py[line:314] - DEBUG: mainWin>function:openFile:try
+2018-11-30 11:56:33,339 - mainWin.py[line:195] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/住户样本310151.18.csv
+2018-11-30 11:56:33,346 - mainWin.py[line:314] - DEBUG: mainWin>function:openFile:try
+2018-11-30 11:56:33,346 - mainWin.py[line:195] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/小区名录310151.18.csv
+2018-11-30 11:56:36,338 - questionCheckDialog.py[line:19] - DEBUG: QuestionCheckDialog init..
+2018-11-30 11:56:36,338 - questionCheckDialog.py[line:22] - DEBUG: QuestionCheckDialog init ok
+2018-11-30 11:56:39,510 - A_necessity_check.py[line:63] - DEBUG: A_necessity_check init..
+2018-11-30 11:58:21,375 - myLogging.py[line:37] - DEBUG: logging init over
+2018-11-30 11:58:21,531 - mainWin.py[line:26] - DEBUG: mainWin>init..
+2018-11-30 11:58:21,957 - mainWin.py[line:61] - DEBUG: mainWin>init ok
+2018-11-30 11:58:31,106 - mainWin.py[line:348] - DEBUG: mainWin>function:openFile:
+2018-11-30 11:58:31,106 - mainWin.py[line:379] - DEBUG: openTownList openFile
+2018-11-30 11:58:31,106 - mainWin.py[line:381] - DEBUG: openTownList 未选中文件
+2018-11-30 11:58:32,457 - importFileDialog.py[line:17] - DEBUG: importFileDialog init..
+2018-11-30 11:58:32,457 - importFileDialog.py[line:24] - DEBUG: importFileDialog init ok
+2018-11-30 11:58:47,728 - mainWin.py[line:314] - DEBUG: mainWin>function:openFile:try
+2018-11-30 11:58:47,728 - mainWin.py[line:195] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/A310151.18.csv
+2018-11-30 11:58:47,745 - mainWin.py[line:314] - DEBUG: mainWin>function:openFile:try
+2018-11-30 11:58:47,745 - mainWin.py[line:195] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/住户样本310151.18.csv
+2018-11-30 11:58:47,751 - mainWin.py[line:314] - DEBUG: mainWin>function:openFile:try
+2018-11-30 11:58:47,751 - mainWin.py[line:195] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/小区名录310151.18.csv
+2018-11-30 11:58:49,227 - questionCheckDialog.py[line:19] - DEBUG: QuestionCheckDialog init..
+2018-11-30 11:58:49,227 - questionCheckDialog.py[line:22] - DEBUG: QuestionCheckDialog init ok
+2018-11-30 11:58:52,067 - A_necessity_check.py[line:63] - DEBUG: A_necessity_check init..
+2018-11-30 11:58:53,010 - mainWin.py[line:535] - DEBUG: 将结果显示在表上
+2018-11-30 11:59:04,211 - mainWin.py[line:535] - DEBUG: 将结果显示在表上
+2018-11-30 11:59:06,388 - mainWin.py[line:535] - DEBUG: 将结果显示在表上
+2018-11-30 11:59:06,670 - mainWin.py[line:535] - DEBUG: 将结果显示在表上
+2018-11-30 11:59:07,316 - mainWin.py[line:535] - DEBUG: 将结果显示在表上
+2018-11-30 11:59:07,473 - mainWin.py[line:535] - DEBUG: 将结果显示在表上
+2018-11-30 12:07:27,176 - myLogging.py[line:37] - DEBUG: logging init over
+2018-11-30 12:07:27,192 - A_suggestion_check.py[line:50] - DEBUG: A_suggestion_check init..
+2018-11-30 13:39:26,432 - myLogging.py[line:37] - DEBUG: logging init over
+2018-11-30 13:39:26,535 - A_suggestion_check.py[line:50] - DEBUG: A_suggestion_check init..
+2018-11-30 13:39:53,577 - myLogging.py[line:37] - DEBUG: logging init over
+2018-11-30 13:39:56,273 - mainWin.py[line:26] - DEBUG: mainWin>init..
+2018-11-30 13:39:56,871 - mainWin.py[line:68] - DEBUG: mainWin>init ok
+2018-11-30 13:39:59,480 - questionCheckDialog.py[line:19] - DEBUG: QuestionCheckDialog init..
+2018-11-30 13:39:59,480 - questionCheckDialog.py[line:22] - DEBUG: QuestionCheckDialog init ok
+2018-11-30 13:40:23,224 - questionCheckDialog.py[line:19] - DEBUG: QuestionCheckDialog init..
+2018-11-30 13:40:23,224 - questionCheckDialog.py[line:22] - DEBUG: QuestionCheckDialog init ok
+2018-11-30 14:46:21,514 - myLogging.py[line:37] - DEBUG: logging init over
+2018-11-30 14:46:21,655 - mainWin.py[line:26] - DEBUG: mainWin>init..
+2018-11-30 14:46:22,061 - mainWin.py[line:68] - DEBUG: mainWin>init ok
+2018-11-30 14:46:29,324 - mainWin.py[line:396] - DEBUG: mainWin>function:openFile:
+2018-11-30 14:46:29,324 - mainWin.py[line:427] - DEBUG: openTownList openFile
+2018-11-30 14:46:29,324 - mainWin.py[line:429] - DEBUG: openTownList 未选中文件
+2018-11-30 14:46:30,766 - importFileDialog.py[line:17] - DEBUG: importFileDialog init..
+2018-11-30 14:46:30,781 - importFileDialog.py[line:24] - DEBUG: importFileDialog init ok
+2018-11-30 14:47:03,886 - mainWin.py[line:362] - DEBUG: mainWin>function:openFile:try
+2018-11-30 14:47:03,887 - mainWin.py[line:202] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/A310151.18.csv
+2018-11-30 14:47:03,905 - mainWin.py[line:362] - DEBUG: mainWin>function:openFile:try
+2018-11-30 14:47:03,906 - mainWin.py[line:202] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/B310151.18.csv
+2018-11-30 14:47:03,913 - mainWin.py[line:362] - DEBUG: mainWin>function:openFile:try
+2018-11-30 14:47:03,914 - mainWin.py[line:202] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/住户样本310151.18.csv
+2018-11-30 14:47:03,920 - mainWin.py[line:362] - DEBUG: mainWin>function:openFile:try
+2018-11-30 14:47:03,920 - mainWin.py[line:202] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/住宅名录310151.18.csv
+2018-11-30 14:47:03,926 - mainWin.py[line:362] - DEBUG: mainWin>function:openFile:try
+2018-11-30 14:47:03,926 - mainWin.py[line:202] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/小区名录310151.18.csv
+2018-11-30 14:47:05,924 - questionCheckDialog.py[line:19] - DEBUG: QuestionCheckDialog init..
+2018-11-30 14:47:05,924 - questionCheckDialog.py[line:22] - DEBUG: QuestionCheckDialog init ok
+2018-11-30 14:47:10,513 - A_necessity_check.py[line:60] - DEBUG: A_necessity_check init..
+2018-11-30 14:50:43,801 - myLogging.py[line:37] - DEBUG: logging init over
+2018-11-30 14:50:43,989 - mainWin.py[line:26] - DEBUG: mainWin>init..
+2018-11-30 14:50:44,379 - mainWin.py[line:68] - DEBUG: mainWin>init ok
+2018-11-30 14:50:52,992 - mainWin.py[line:396] - DEBUG: mainWin>function:openFile:
+2018-11-30 14:50:52,992 - mainWin.py[line:427] - DEBUG: openTownList openFile
+2018-11-30 14:50:52,992 - mainWin.py[line:429] - DEBUG: openTownList 未选中文件
+2018-11-30 14:50:54,680 - importFileDialog.py[line:17] - DEBUG: importFileDialog init..
+2018-11-30 14:50:54,680 - importFileDialog.py[line:24] - DEBUG: importFileDialog init ok
+2018-11-30 14:51:27,894 - mainWin.py[line:362] - DEBUG: mainWin>function:openFile:try
+2018-11-30 14:51:27,894 - mainWin.py[line:202] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/A310151.18.csv
+2018-11-30 14:51:27,911 - mainWin.py[line:362] - DEBUG: mainWin>function:openFile:try
+2018-11-30 14:51:27,911 - mainWin.py[line:202] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/B310151.18.csv
+2018-11-30 14:51:27,918 - mainWin.py[line:362] - DEBUG: mainWin>function:openFile:try
+2018-11-30 14:51:27,918 - mainWin.py[line:202] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/住户样本310151.18.csv
+2018-11-30 14:51:27,924 - mainWin.py[line:362] - DEBUG: mainWin>function:openFile:try
+2018-11-30 14:51:27,924 - mainWin.py[line:202] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/住宅名录310151.18.csv
+2018-11-30 14:51:27,928 - mainWin.py[line:362] - DEBUG: mainWin>function:openFile:try
+2018-11-30 14:51:27,928 - mainWin.py[line:202] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/小区名录310151.18.csv
+2018-11-30 14:51:31,985 - questionCheckDialog.py[line:19] - DEBUG: QuestionCheckDialog init..
+2018-11-30 14:51:31,985 - questionCheckDialog.py[line:22] - DEBUG: QuestionCheckDialog init ok
+2018-11-30 14:51:36,632 - A_necessity_check.py[line:60] - DEBUG: A_necessity_check init..
+2018-11-30 14:51:37,769 - mainWin.py[line:583] - DEBUG: 将结果显示在表上
+2018-11-30 14:51:40,405 - questionCheckDialog.py[line:19] - DEBUG: QuestionCheckDialog init..
+2018-11-30 14:51:40,405 - questionCheckDialog.py[line:22] - DEBUG: QuestionCheckDialog init ok
+2018-11-30 14:55:42,442 - myLogging.py[line:37] - DEBUG: logging init over
+2018-11-30 14:55:42,573 - mainWin.py[line:26] - DEBUG: mainWin>init..
+2018-11-30 14:55:43,011 - mainWin.py[line:68] - DEBUG: mainWin>init ok
+2018-11-30 14:55:50,489 - mainWin.py[line:396] - DEBUG: mainWin>function:openFile:
+2018-11-30 14:55:50,489 - mainWin.py[line:427] - DEBUG: openTownList openFile
+2018-11-30 14:55:50,489 - mainWin.py[line:429] - DEBUG: openTownList 未选中文件
+2018-11-30 14:55:51,911 - importFileDialog.py[line:17] - DEBUG: importFileDialog init..
+2018-11-30 14:55:51,911 - importFileDialog.py[line:24] - DEBUG: importFileDialog init ok
+2018-11-30 14:56:15,758 - mainWin.py[line:362] - DEBUG: mainWin>function:openFile:try
+2018-11-30 14:56:15,758 - mainWin.py[line:202] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/A310151.18.csv
+2018-11-30 14:56:15,774 - mainWin.py[line:362] - DEBUG: mainWin>function:openFile:try
+2018-11-30 14:56:15,775 - mainWin.py[line:202] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/B310151.18.csv
+2018-11-30 14:56:15,782 - mainWin.py[line:362] - DEBUG: mainWin>function:openFile:try
+2018-11-30 14:56:15,782 - mainWin.py[line:202] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/住户样本310151.18.csv
+2018-11-30 14:56:15,788 - mainWin.py[line:362] - DEBUG: mainWin>function:openFile:try
+2018-11-30 14:56:15,788 - mainWin.py[line:202] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/住宅名录310151.18.csv
+2018-11-30 14:56:15,792 - mainWin.py[line:362] - DEBUG: mainWin>function:openFile:try
+2018-11-30 14:56:15,792 - mainWin.py[line:202] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/小区名录310151.18.csv
+2018-11-30 14:56:17,270 - questionCheckDialog.py[line:19] - DEBUG: QuestionCheckDialog init..
+2018-11-30 14:56:17,270 - questionCheckDialog.py[line:22] - DEBUG: QuestionCheckDialog init ok
+2018-11-30 14:56:19,264 - A_necessity_check.py[line:60] - DEBUG: A_necessity_check init..
+2018-11-30 14:56:20,225 - mainWin.py[line:583] - DEBUG: 将结果显示在表上
+2018-11-30 14:56:21,348 - questionCheckDialog.py[line:19] - DEBUG: QuestionCheckDialog init..
+2018-11-30 14:56:21,364 - questionCheckDialog.py[line:22] - DEBUG: QuestionCheckDialog init ok
+2018-11-30 14:56:23,436 - A_suggestion_check.py[line:50] - DEBUG: A_suggestion_check init..
+2018-11-30 14:57:13,625 - questionCheckDialog.py[line:19] - DEBUG: QuestionCheckDialog init..
+2018-11-30 14:57:13,625 - questionCheckDialog.py[line:22] - DEBUG: QuestionCheckDialog init ok
+2018-11-30 14:57:16,305 - B_necessity_check.py[line:44] - DEBUG: B_necessity_check init..
+2018-11-30 14:58:08,070 - questionCheckDialog.py[line:19] - DEBUG: QuestionCheckDialog init..
+2018-11-30 14:58:08,070 - questionCheckDialog.py[line:22] - DEBUG: QuestionCheckDialog init ok
+2018-11-30 14:58:10,482 - B_suggestion_check.py[line:43] - DEBUG: B_necessity_check init..
+2018-11-30 15:05:36,026 - myLogging.py[line:37] - DEBUG: logging init over
+2018-11-30 15:05:36,167 - mainWin.py[line:26] - DEBUG: mainWin>init..
+2018-11-30 15:05:36,571 - mainWin.py[line:68] - DEBUG: mainWin>init ok
+2018-11-30 15:05:43,188 - importFileDialog.py[line:17] - DEBUG: importFileDialog init..
+2018-11-30 15:05:43,188 - importFileDialog.py[line:24] - DEBUG: importFileDialog init ok
+2018-11-30 15:06:06,198 - mainWin.py[line:362] - DEBUG: mainWin>function:openFile:try
+2018-11-30 15:06:06,199 - mainWin.py[line:202] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/A310151.18.csv
+2018-11-30 15:06:06,215 - mainWin.py[line:362] - DEBUG: mainWin>function:openFile:try
+2018-11-30 15:06:06,215 - mainWin.py[line:202] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/B310151.18.csv
+2018-11-30 15:06:06,223 - mainWin.py[line:362] - DEBUG: mainWin>function:openFile:try
+2018-11-30 15:06:06,223 - mainWin.py[line:202] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/住户样本310151.18.csv
+2018-11-30 15:06:06,229 - mainWin.py[line:362] - DEBUG: mainWin>function:openFile:try
+2018-11-30 15:06:06,229 - mainWin.py[line:202] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/住宅名录310151.18.csv
+2018-11-30 15:06:06,233 - mainWin.py[line:362] - DEBUG: mainWin>function:openFile:try
+2018-11-30 15:06:06,233 - mainWin.py[line:202] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/小区名录310151.18.csv
+2018-11-30 15:06:07,943 - questionCheckDialog.py[line:19] - DEBUG: QuestionCheckDialog init..
+2018-11-30 15:06:07,943 - questionCheckDialog.py[line:22] - DEBUG: QuestionCheckDialog init ok
+2018-11-30 15:06:11,855 - A_suggestion_check.py[line:50] - DEBUG: A_suggestion_check init..
+2018-11-30 15:06:52,593 - questionCheckDialog.py[line:19] - DEBUG: QuestionCheckDialog init..
+2018-11-30 15:06:52,593 - questionCheckDialog.py[line:22] - DEBUG: QuestionCheckDialog init ok
+2018-11-30 15:06:54,758 - B_necessity_check.py[line:41] - DEBUG: B_necessity_check init..
+2018-11-30 15:08:16,348 - myLogging.py[line:37] - DEBUG: logging init over
+2018-11-30 15:08:16,491 - mainWin.py[line:26] - DEBUG: mainWin>init..
+2018-11-30 15:08:16,866 - mainWin.py[line:68] - DEBUG: mainWin>init ok
+2018-11-30 15:08:18,481 - mainWin.py[line:107] - DEBUG: help
+2018-11-30 15:08:23,872 - importFileDialog.py[line:17] - DEBUG: importFileDialog init..
+2018-11-30 15:08:23,872 - importFileDialog.py[line:24] - DEBUG: importFileDialog init ok
+2018-11-30 15:08:49,303 - mainWin.py[line:362] - DEBUG: mainWin>function:openFile:try
+2018-11-30 15:08:49,303 - mainWin.py[line:202] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/A310151.18.csv
+2018-11-30 15:08:49,326 - mainWin.py[line:362] - DEBUG: mainWin>function:openFile:try
+2018-11-30 15:08:49,326 - mainWin.py[line:202] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/B310151.18.csv
+2018-11-30 15:08:49,334 - mainWin.py[line:362] - DEBUG: mainWin>function:openFile:try
+2018-11-30 15:08:49,334 - mainWin.py[line:202] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/住户样本310151.18.csv
+2018-11-30 15:08:49,342 - mainWin.py[line:362] - DEBUG: mainWin>function:openFile:try
+2018-11-30 15:08:49,343 - mainWin.py[line:202] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/住宅名录310151.18.csv
+2018-11-30 15:08:49,347 - mainWin.py[line:362] - DEBUG: mainWin>function:openFile:try
+2018-11-30 15:08:49,347 - mainWin.py[line:202] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/小区名录310151.18.csv
+2018-11-30 15:08:50,701 - questionCheckDialog.py[line:19] - DEBUG: QuestionCheckDialog init..
+2018-11-30 15:08:50,701 - questionCheckDialog.py[line:22] - DEBUG: QuestionCheckDialog init ok
+2018-11-30 15:08:53,085 - A_necessity_check.py[line:60] - DEBUG: A_necessity_check init..
+2018-11-30 15:08:54,027 - mainWin.py[line:583] - DEBUG: 将结果显示在表上
+2018-11-30 15:08:55,578 - questionCheckDialog.py[line:19] - DEBUG: QuestionCheckDialog init..
+2018-11-30 15:08:55,578 - questionCheckDialog.py[line:22] - DEBUG: QuestionCheckDialog init ok
+2018-11-30 15:08:57,892 - A_suggestion_check.py[line:50] - DEBUG: A_suggestion_check init..
+2018-11-30 15:08:58,516 - mainWin.py[line:583] - DEBUG: 将结果显示在表上
+2018-11-30 15:09:06,989 - mainWin.py[line:583] - DEBUG: 将结果显示在表上
+2018-11-30 15:09:07,161 - mainWin.py[line:583] - DEBUG: 将结果显示在表上
+2018-11-30 15:09:10,851 - zyCheckDialog.py[line:20] - DEBUG: zyCheckDialog init ok
+2018-11-30 15:09:13,354 - questionCheckDialog.py[line:19] - DEBUG: QuestionCheckDialog init..
+2018-11-30 15:09:13,354 - questionCheckDialog.py[line:22] - DEBUG: QuestionCheckDialog init ok
+2018-11-30 15:09:16,056 - B_necessity_check.py[line:41] - DEBUG: B_necessity_check init..
+2018-11-30 15:09:16,821 - mainWin.py[line:583] - DEBUG: 将结果显示在表上
+2018-11-30 15:09:52,176 - questionCheckDialog.py[line:19] - DEBUG: QuestionCheckDialog init..
+2018-11-30 15:09:52,176 - questionCheckDialog.py[line:22] - DEBUG: QuestionCheckDialog init ok
+2018-11-30 15:09:54,621 - B_suggestion_check.py[line:40] - DEBUG: B_necessity_check init..
+2018-11-30 15:09:55,230 - mainWin.py[line:583] - DEBUG: 将结果显示在表上
+2018-11-30 15:10:19,533 - mainWin.py[line:583] - DEBUG: 将结果显示在表上
+2018-11-30 15:10:19,736 - mainWin.py[line:583] - DEBUG: 将结果显示在表上
+2018-11-30 15:10:20,522 - mainWin.py[line:583] - DEBUG: 将结果显示在表上
+2018-11-30 15:10:20,678 - mainWin.py[line:583] - DEBUG: 将结果显示在表上
+2018-11-30 15:10:21,287 - mainWin.py[line:583] - DEBUG: 将结果显示在表上
+2018-11-30 15:10:21,482 - mainWin.py[line:583] - DEBUG: 将结果显示在表上
+2018-11-30 15:10:22,022 - mainWin.py[line:583] - DEBUG: 将结果显示在表上
+2018-11-30 15:10:22,194 - mainWin.py[line:583] - DEBUG: 将结果显示在表上
+2018-11-30 15:11:46,233 - mainWin.py[line:583] - DEBUG: 将结果显示在表上
+2018-11-30 15:11:46,420 - mainWin.py[line:583] - DEBUG: 将结果显示在表上
+2018-11-30 15:15:42,484 - myLogging.py[line:37] - DEBUG: logging init over
+2018-11-30 15:15:42,631 - mainWin.py[line:26] - DEBUG: mainWin>init..
+2018-11-30 15:15:43,052 - mainWin.py[line:69] - DEBUG: mainWin>init ok
+2018-11-30 15:15:50,819 - importFileDialog.py[line:17] - DEBUG: importFileDialog init..
+2018-11-30 15:15:50,819 - importFileDialog.py[line:24] - DEBUG: importFileDialog init ok
+2018-11-30 15:16:16,662 - mainWin.py[line:363] - DEBUG: mainWin>function:openFile:try
+2018-11-30 15:16:16,662 - mainWin.py[line:203] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/A310151.18.csv
+2018-11-30 15:16:16,678 - mainWin.py[line:363] - DEBUG: mainWin>function:openFile:try
+2018-11-30 15:16:16,678 - mainWin.py[line:203] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/B310151.18.csv
+2018-11-30 15:16:16,685 - mainWin.py[line:363] - DEBUG: mainWin>function:openFile:try
+2018-11-30 15:16:16,685 - mainWin.py[line:203] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/住户样本310151.18.csv
+2018-11-30 15:16:16,691 - mainWin.py[line:363] - DEBUG: mainWin>function:openFile:try
+2018-11-30 15:16:16,691 - mainWin.py[line:203] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/住宅名录310151.18.csv
+2018-11-30 15:16:16,695 - mainWin.py[line:363] - DEBUG: mainWin>function:openFile:try
+2018-11-30 15:16:16,695 - mainWin.py[line:203] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/小区名录310151.18.csv
+2018-11-30 15:16:19,233 - questionCheckDialog.py[line:19] - DEBUG: QuestionCheckDialog init..
+2018-11-30 15:16:19,233 - questionCheckDialog.py[line:22] - DEBUG: QuestionCheckDialog init ok
+2018-11-30 15:16:23,028 - A_necessity_check.py[line:60] - DEBUG: A_necessity_check init..
+2018-11-30 15:16:23,963 - mainWin.py[line:584] - DEBUG: 将结果显示在表上
+2018-11-30 15:16:23,963 - A_suggestion_check.py[line:50] - DEBUG: A_suggestion_check init..
+2018-11-30 15:16:24,562 - mainWin.py[line:584] - DEBUG: 将结果显示在表上
+2018-11-30 15:16:27,659 - mainWin.py[line:584] - DEBUG: 将结果显示在表上
+2018-11-30 15:16:27,816 - mainWin.py[line:584] - DEBUG: 将结果显示在表上
+2018-11-30 15:16:30,852 - questionCheckDialog.py[line:19] - DEBUG: QuestionCheckDialog init..
+2018-11-30 15:16:30,852 - questionCheckDialog.py[line:22] - DEBUG: QuestionCheckDialog init ok
+2018-11-30 15:16:33,725 - B_necessity_check.py[line:41] - DEBUG: B_necessity_check init..
+2018-11-30 15:16:34,494 - mainWin.py[line:584] - DEBUG: 将结果显示在表上
+2018-11-30 15:16:34,494 - B_suggestion_check.py[line:40] - DEBUG: B_necessity_check init..
+2018-11-30 15:16:35,104 - mainWin.py[line:584] - DEBUG: 将结果显示在表上
+2018-11-30 15:16:50,058 - mainWin.py[line:584] - DEBUG: 将结果显示在表上
+2018-11-30 15:16:50,543 - mainWin.py[line:584] - DEBUG: 将结果显示在表上
+2018-11-30 15:16:50,715 - mainWin.py[line:584] - DEBUG: 将结果显示在表上
+2018-11-30 15:17:23,162 - mainWin.py[line:584] - DEBUG: 将结果显示在表上
+2018-11-30 15:17:23,349 - mainWin.py[line:584] - DEBUG: 将结果显示在表上
+2018-11-30 15:17:24,465 - mainWin.py[line:584] - DEBUG: 将结果显示在表上
+2018-11-30 15:17:24,637 - mainWin.py[line:584] - DEBUG: 将结果显示在表上
+2018-11-30 15:17:27,350 - mainWin.py[line:584] - DEBUG: 将结果显示在表上
+2018-11-30 15:17:27,542 - mainWin.py[line:584] - DEBUG: 将结果显示在表上
+2018-11-30 15:17:29,776 - mainWin.py[line:584] - DEBUG: 将结果显示在表上
+2018-11-30 15:17:29,979 - mainWin.py[line:584] - DEBUG: 将结果显示在表上
+2018-11-30 15:17:31,459 - mainWin.py[line:584] - DEBUG: 将结果显示在表上
+2018-11-30 15:17:31,624 - mainWin.py[line:584] - DEBUG: 将结果显示在表上
+2018-11-30 15:17:33,312 - mainWin.py[line:584] - DEBUG: 将结果显示在表上
+2018-11-30 15:17:33,504 - mainWin.py[line:584] - DEBUG: 将结果显示在表上
+2018-11-30 15:17:54,994 - mainWin.py[line:584] - DEBUG: 将结果显示在表上
+2018-11-30 15:17:57,140 - mainWin.py[line:584] - DEBUG: 将结果显示在表上
+2018-11-30 15:17:57,156 - mainWin.py[line:584] - DEBUG: 将结果显示在表上
+2018-11-30 15:17:59,357 - mainWin.py[line:584] - DEBUG: 将结果显示在表上
+2018-11-30 15:18:03,351 - mainWin.py[line:584] - DEBUG: 将结果显示在表上
+2018-11-30 15:18:04,945 - mainWin.py[line:584] - DEBUG: 将结果显示在表上
+2018-11-30 15:18:18,255 - mainWin.py[line:584] - DEBUG: 将结果显示在表上
+2018-11-30 15:18:18,470 - mainWin.py[line:584] - DEBUG: 将结果显示在表上
+2018-11-30 15:18:22,085 - mainWin.py[line:584] - DEBUG: 将结果显示在表上
+2018-11-30 15:18:22,272 - mainWin.py[line:584] - DEBUG: 将结果显示在表上
+2018-11-30 15:18:23,049 - mainWin.py[line:584] - DEBUG: 将结果显示在表上
+2018-11-30 15:18:23,231 - mainWin.py[line:584] - DEBUG: 将结果显示在表上
+2018-11-30 15:18:28,538 - mainWin.py[line:584] - DEBUG: 将结果显示在表上
+2018-11-30 15:18:29,124 - mainWin.py[line:584] - DEBUG: 将结果显示在表上
+2018-11-30 15:18:30,287 - mainWin.py[line:584] - DEBUG: 将结果显示在表上
+2018-11-30 15:18:32,746 - mainWin.py[line:584] - DEBUG: 将结果显示在表上
+2018-11-30 15:18:59,285 - mainWin.py[line:584] - DEBUG: 将结果显示在表上
+2018-11-30 15:19:01,285 - mainWin.py[line:584] - DEBUG: 将结果显示在表上
+2018-11-30 15:19:01,483 - mainWin.py[line:584] - DEBUG: 将结果显示在表上
+2018-11-30 15:19:32,639 - myLogging.py[line:37] - DEBUG: logging init over
+2018-11-30 15:19:32,780 - mainWin.py[line:26] - DEBUG: mainWin>init..
+2018-11-30 15:19:33,186 - mainWin.py[line:69] - DEBUG: mainWin>init ok
+2018-11-30 15:19:39,335 - importFileDialog.py[line:17] - DEBUG: importFileDialog init..
+2018-11-30 15:19:39,335 - importFileDialog.py[line:24] - DEBUG: importFileDialog init ok
+2018-11-30 15:20:04,175 - mainWin.py[line:363] - DEBUG: mainWin>function:openFile:try
+2018-11-30 15:20:04,175 - mainWin.py[line:203] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/A310151.18.csv
+2018-11-30 15:20:04,194 - mainWin.py[line:363] - DEBUG: mainWin>function:openFile:try
+2018-11-30 15:20:04,195 - mainWin.py[line:203] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/B310151.18.csv
+2018-11-30 15:20:04,202 - mainWin.py[line:363] - DEBUG: mainWin>function:openFile:try
+2018-11-30 15:20:04,202 - mainWin.py[line:203] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/住户样本310151.18.csv
+2018-11-30 15:20:04,210 - mainWin.py[line:363] - DEBUG: mainWin>function:openFile:try
+2018-11-30 15:20:04,210 - mainWin.py[line:203] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/住宅名录310151.18.csv
+2018-11-30 15:20:04,214 - mainWin.py[line:363] - DEBUG: mainWin>function:openFile:try
+2018-11-30 15:20:04,214 - mainWin.py[line:203] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/小区名录310151.18.csv
+2018-11-30 15:20:05,390 - questionCheckDialog.py[line:19] - DEBUG: QuestionCheckDialog init..
+2018-11-30 15:20:05,390 - questionCheckDialog.py[line:22] - DEBUG: QuestionCheckDialog init ok
+2018-11-30 15:20:15,938 - A_suggestion_check.py[line:50] - DEBUG: A_suggestion_check init..
+2018-11-30 15:20:16,568 - mainWin.py[line:584] - DEBUG: 将结果显示在表上
+2018-11-30 15:20:25,015 - questionCheckDialog.py[line:19] - DEBUG: QuestionCheckDialog init..
+2018-11-30 15:20:25,015 - questionCheckDialog.py[line:22] - DEBUG: QuestionCheckDialog init ok
+2018-11-30 15:20:27,824 - A_necessity_check.py[line:60] - DEBUG: A_necessity_check init..
+2018-11-30 15:20:28,761 - mainWin.py[line:584] - DEBUG: 将结果显示在表上
+2018-11-30 15:20:30,327 - mainWin.py[line:584] - DEBUG: 将结果显示在表上
+2018-11-30 15:20:30,515 - mainWin.py[line:584] - DEBUG: 将结果显示在表上
+2018-11-30 15:20:31,078 - mainWin.py[line:584] - DEBUG: 将结果显示在表上
+2018-11-30 15:20:31,250 - mainWin.py[line:584] - DEBUG: 将结果显示在表上
+2018-11-30 15:20:33,756 - mainWin.py[line:584] - DEBUG: 将结果显示在表上
+2018-11-30 15:20:33,943 - mainWin.py[line:584] - DEBUG: 将结果显示在表上
+2018-11-30 15:20:35,603 - mainWin.py[line:584] - DEBUG: 将结果显示在表上
+2018-11-30 15:20:35,759 - mainWin.py[line:584] - DEBUG: 将结果显示在表上
+2018-11-30 15:20:37,994 - questionCheckDialog.py[line:19] - DEBUG: QuestionCheckDialog init..
+2018-11-30 15:20:37,994 - questionCheckDialog.py[line:22] - DEBUG: QuestionCheckDialog init ok
+2018-11-30 15:20:39,862 - B_necessity_check.py[line:41] - DEBUG: B_necessity_check init..
+2018-11-30 15:20:40,626 - mainWin.py[line:584] - DEBUG: 将结果显示在表上
+2018-11-30 15:20:43,456 - mainWin.py[line:584] - DEBUG: 将结果显示在表上
+2018-11-30 15:20:43,612 - mainWin.py[line:584] - DEBUG: 将结果显示在表上
+2018-11-30 15:20:44,648 - importFileDialog.py[line:17] - DEBUG: importFileDialog init..
+2018-11-30 15:20:44,648 - importFileDialog.py[line:24] - DEBUG: importFileDialog init ok
+2018-11-30 15:20:46,885 - questionCheckDialog.py[line:19] - DEBUG: QuestionCheckDialog init..
+2018-11-30 15:20:46,885 - questionCheckDialog.py[line:22] - DEBUG: QuestionCheckDialog init ok
+2018-11-30 15:20:56,820 - B_suggestion_check.py[line:40] - DEBUG: B_necessity_check init..
+2018-11-30 15:20:57,433 - mainWin.py[line:584] - DEBUG: 将结果显示在表上
+2018-11-30 15:20:58,555 - mainWin.py[line:584] - DEBUG: 将结果显示在表上
+2018-11-30 15:20:58,742 - mainWin.py[line:584] - DEBUG: 将结果显示在表上
+2018-11-30 15:20:59,414 - mainWin.py[line:584] - DEBUG: 将结果显示在表上
+2018-11-30 15:20:59,585 - mainWin.py[line:584] - DEBUG: 将结果显示在表上
+2018-11-30 15:21:00,241 - mainWin.py[line:584] - DEBUG: 将结果显示在表上
+2018-11-30 15:21:00,435 - mainWin.py[line:584] - DEBUG: 将结果显示在表上
+2018-11-30 15:21:01,401 - mainWin.py[line:584] - DEBUG: 将结果显示在表上
+2018-11-30 15:21:01,573 - mainWin.py[line:584] - DEBUG: 将结果显示在表上
+2018-11-30 15:21:02,886 - mainWin.py[line:584] - DEBUG: 将结果显示在表上
+2018-11-30 15:21:03,089 - mainWin.py[line:584] - DEBUG: 将结果显示在表上
+2018-11-30 15:21:05,171 - mainWin.py[line:584] - DEBUG: 将结果显示在表上
+2018-11-30 15:21:05,343 - mainWin.py[line:584] - DEBUG: 将结果显示在表上
+2018-11-30 15:22:14,693 - mainWin.py[line:584] - DEBUG: 将结果显示在表上
+2018-11-30 15:22:14,881 - mainWin.py[line:584] - DEBUG: 将结果显示在表上
+2018-11-30 15:22:16,739 - mainWin.py[line:584] - DEBUG: 将结果显示在表上
+2018-11-30 15:22:16,895 - mainWin.py[line:584] - DEBUG: 将结果显示在表上
+2018-11-30 15:29:19,349 - mainWin.py[line:584] - DEBUG: 将结果显示在表上
+2018-11-30 15:29:20,073 - mainWin.py[line:584] - DEBUG: 将结果显示在表上
+2018-11-30 15:29:20,245 - mainWin.py[line:584] - DEBUG: 将结果显示在表上
+2018-11-30 15:29:28,378 - mainWin.py[line:584] - DEBUG: 将结果显示在表上
+2018-11-30 15:29:28,537 - mainWin.py[line:584] - DEBUG: 将结果显示在表上
+2018-11-30 15:29:29,209 - mainWin.py[line:584] - DEBUG: 将结果显示在表上
+2018-11-30 15:29:29,933 - mainWin.py[line:584] - DEBUG: 将结果显示在表上
+2018-11-30 15:29:30,198 - mainWin.py[line:584] - DEBUG: 将结果显示在表上
+2018-11-30 15:30:44,317 - mainWin.py[line:584] - DEBUG: 将结果显示在表上
+2018-11-30 15:30:44,490 - mainWin.py[line:584] - DEBUG: 将结果显示在表上
+2018-11-30 15:35:11,406 - importFileDialog.py[line:17] - DEBUG: importFileDialog init..
+2018-11-30 15:35:11,406 - importFileDialog.py[line:24] - DEBUG: importFileDialog init ok
+2018-11-30 15:35:18,533 - importFileDialog.py[line:17] - DEBUG: importFileDialog init..
+2018-11-30 15:35:18,533 - importFileDialog.py[line:24] - DEBUG: importFileDialog init ok
+2018-11-30 15:36:44,495 - mainWin.py[line:363] - DEBUG: mainWin>function:openFile:try
+2018-11-30 15:36:44,495 - mainWin.py[line:203] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/A310151.18.csv
+2018-11-30 15:36:44,505 - mainWin.py[line:363] - DEBUG: mainWin>function:openFile:try
+2018-11-30 15:36:44,505 - mainWin.py[line:203] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/B310151.18.csv
+2018-11-30 15:36:44,515 - mainWin.py[line:363] - DEBUG: mainWin>function:openFile:try
+2018-11-30 15:36:44,515 - mainWin.py[line:203] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/住户样本310151.18.csv
+2018-11-30 15:36:44,521 - mainWin.py[line:363] - DEBUG: mainWin>function:openFile:try
+2018-11-30 15:36:44,521 - mainWin.py[line:203] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/小区名录310151.18.csv
+2018-11-30 15:36:48,006 - questionCheckDialog.py[line:19] - DEBUG: QuestionCheckDialog init..
+2018-11-30 15:36:48,006 - questionCheckDialog.py[line:22] - DEBUG: QuestionCheckDialog init ok
+2018-11-30 15:36:49,935 - A_necessity_check.py[line:60] - DEBUG: A_necessity_check init..
+2018-11-30 15:36:50,886 - mainWin.py[line:584] - DEBUG: 将结果显示在表上
+2018-11-30 15:36:58,553 - questionCheckDialog.py[line:19] - DEBUG: QuestionCheckDialog init..
+2018-11-30 15:36:58,553 - questionCheckDialog.py[line:22] - DEBUG: QuestionCheckDialog init ok
+2018-11-30 15:37:01,019 - A_suggestion_check.py[line:50] - DEBUG: A_suggestion_check init..
+2018-11-30 15:37:01,637 - mainWin.py[line:584] - DEBUG: 将结果显示在表上
+2018-11-30 15:37:05,960 - questionCheckDialog.py[line:19] - DEBUG: QuestionCheckDialog init..
+2018-11-30 15:37:05,960 - questionCheckDialog.py[line:22] - DEBUG: QuestionCheckDialog init ok
+2018-11-30 15:37:07,966 - A_necessity_check.py[line:60] - DEBUG: A_necessity_check init..
+2018-11-30 15:37:08,893 - mainWin.py[line:584] - DEBUG: 将结果显示在表上
+2018-11-30 15:37:19,694 - myLogging.py[line:37] - DEBUG: logging init over
+2018-11-30 15:37:19,823 - mainWin.py[line:26] - DEBUG: mainWin>init..
+2018-11-30 15:37:20,197 - mainWin.py[line:69] - DEBUG: mainWin>init ok
+2018-11-30 15:37:24,969 - mainWin.py[line:397] - DEBUG: mainWin>function:openFile:
+2018-11-30 15:37:24,969 - mainWin.py[line:428] - DEBUG: openTownList openFile
+2018-11-30 15:37:24,969 - mainWin.py[line:430] - DEBUG: openTownList 未选中文件
+2018-11-30 15:37:30,411 - importFileDialog.py[line:17] - DEBUG: importFileDialog init..
+2018-11-30 15:37:30,411 - importFileDialog.py[line:24] - DEBUG: importFileDialog init ok
+2018-11-30 15:37:47,981 - mainWin.py[line:363] - DEBUG: mainWin>function:openFile:try
+2018-11-30 15:37:47,981 - mainWin.py[line:203] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/A310151.18.csv
+2018-11-30 15:37:47,997 - mainWin.py[line:363] - DEBUG: mainWin>function:openFile:try
+2018-11-30 15:37:47,997 - mainWin.py[line:203] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/小区名录310151.18.csv
+2018-11-30 15:37:49,238 - questionCheckDialog.py[line:19] - DEBUG: QuestionCheckDialog init..
+2018-11-30 15:37:49,238 - questionCheckDialog.py[line:22] - DEBUG: QuestionCheckDialog init ok
+2018-11-30 15:37:51,346 - A_suggestion_check.py[line:50] - DEBUG: A_suggestion_check init..
+2018-11-30 15:37:51,961 - mainWin.py[line:584] - DEBUG: 将结果显示在表上
+2018-11-30 15:37:53,648 - questionCheckDialog.py[line:19] - DEBUG: QuestionCheckDialog init..
+2018-11-30 15:37:53,648 - questionCheckDialog.py[line:22] - DEBUG: QuestionCheckDialog init ok
+2018-11-30 15:39:02,474 - importFileDialog.py[line:17] - DEBUG: importFileDialog init..
+2018-11-30 15:39:02,475 - importFileDialog.py[line:24] - DEBUG: importFileDialog init ok
+2018-11-30 15:39:47,911 - myLogging.py[line:37] - DEBUG: logging init over
+2018-11-30 15:39:48,052 - mainWin.py[line:26] - DEBUG: mainWin>init..
+2018-11-30 15:39:48,427 - mainWin.py[line:69] - DEBUG: mainWin>init ok
+2018-11-30 15:39:51,869 - mainWin.py[line:397] - DEBUG: mainWin>function:openFile:
+2018-11-30 15:39:51,869 - mainWin.py[line:428] - DEBUG: openTownList openFile
+2018-11-30 15:39:51,869 - mainWin.py[line:430] - DEBUG: openTownList 未选中文件
+2018-11-30 15:39:57,776 - importFileDialog.py[line:17] - DEBUG: importFileDialog init..
+2018-11-30 15:39:57,776 - importFileDialog.py[line:24] - DEBUG: importFileDialog init ok
+2018-11-30 15:40:03,838 - mainWin.py[line:363] - DEBUG: mainWin>function:openFile:try
+2018-11-30 15:40:03,838 - mainWin.py[line:203] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/A310151.18.csv
+2018-11-30 15:40:04,865 - questionCheckDialog.py[line:19] - DEBUG: QuestionCheckDialog init..
+2018-11-30 15:40:04,865 - questionCheckDialog.py[line:22] - DEBUG: QuestionCheckDialog init ok
+2018-11-30 15:40:10,146 - importFileDialog.py[line:17] - DEBUG: importFileDialog init..
+2018-11-30 15:40:10,146 - importFileDialog.py[line:24] - DEBUG: importFileDialog init ok
+2018-11-30 15:40:17,711 - mainWin.py[line:363] - DEBUG: mainWin>function:openFile:try
+2018-11-30 15:40:17,711 - mainWin.py[line:203] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/住户样本310151.18.csv
+2018-11-30 15:40:18,558 - questionCheckDialog.py[line:19] - DEBUG: QuestionCheckDialog init..
+2018-11-30 15:40:18,558 - questionCheckDialog.py[line:22] - DEBUG: QuestionCheckDialog init ok
+2018-11-30 15:40:22,151 - questionCheckDialog.py[line:19] - DEBUG: QuestionCheckDialog init..
+2018-11-30 15:40:22,151 - questionCheckDialog.py[line:22] - DEBUG: QuestionCheckDialog init ok
+2018-11-30 15:40:23,976 - importFileDialog.py[line:17] - DEBUG: importFileDialog init..
+2018-11-30 15:40:23,976 - importFileDialog.py[line:24] - DEBUG: importFileDialog init ok
+2018-11-30 15:40:29,246 - mainWin.py[line:363] - DEBUG: mainWin>function:openFile:try
+2018-11-30 15:40:29,247 - mainWin.py[line:203] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/小区名录310151.18.csv
+2018-11-30 15:40:30,169 - questionCheckDialog.py[line:19] - DEBUG: QuestionCheckDialog init..
+2018-11-30 15:40:30,169 - questionCheckDialog.py[line:22] - DEBUG: QuestionCheckDialog init ok
+2018-11-30 15:40:32,157 - A_necessity_check.py[line:60] - DEBUG: A_necessity_check init..
+2018-11-30 15:40:33,139 - mainWin.py[line:584] - DEBUG: 将结果显示在表上
+2018-11-30 15:40:36,644 - questionCheckDialog.py[line:19] - DEBUG: QuestionCheckDialog init..
+2018-11-30 15:40:36,659 - questionCheckDialog.py[line:22] - DEBUG: QuestionCheckDialog init ok
+2018-11-30 15:40:45,506 - questionCheckDialog.py[line:19] - DEBUG: QuestionCheckDialog init..
+2018-11-30 15:40:45,506 - questionCheckDialog.py[line:22] - DEBUG: QuestionCheckDialog init ok
+2018-11-30 15:40:55,317 - questionCheckDialog.py[line:19] - DEBUG: QuestionCheckDialog init..
+2018-11-30 15:40:55,317 - questionCheckDialog.py[line:22] - DEBUG: QuestionCheckDialog init ok
+2018-11-30 15:41:02,761 - importFileDialog.py[line:17] - DEBUG: importFileDialog init..
+2018-11-30 15:41:02,761 - importFileDialog.py[line:24] - DEBUG: importFileDialog init ok
+2018-11-30 15:41:11,382 - mainWin.py[line:363] - DEBUG: mainWin>function:openFile:try
+2018-11-30 15:41:11,382 - mainWin.py[line:203] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/住宅名录310151.18.csv
+2018-11-30 15:41:12,710 - questionCheckDialog.py[line:19] - DEBUG: QuestionCheckDialog init..
+2018-11-30 15:41:12,710 - questionCheckDialog.py[line:22] - DEBUG: QuestionCheckDialog init ok
+2018-11-30 15:41:16,339 - questionCheckDialog.py[line:19] - DEBUG: QuestionCheckDialog init..
+2018-11-30 15:41:16,355 - questionCheckDialog.py[line:22] - DEBUG: QuestionCheckDialog init ok
+2018-11-30 15:41:18,750 - importFileDialog.py[line:17] - DEBUG: importFileDialog init..
+2018-11-30 15:41:18,750 - importFileDialog.py[line:24] - DEBUG: importFileDialog init ok
+2018-11-30 15:41:24,421 - mainWin.py[line:363] - DEBUG: mainWin>function:openFile:try
+2018-11-30 15:41:24,421 - mainWin.py[line:203] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/B310151.18.csv
+2018-11-30 15:41:25,482 - questionCheckDialog.py[line:19] - DEBUG: QuestionCheckDialog init..
+2018-11-30 15:41:25,484 - questionCheckDialog.py[line:22] - DEBUG: QuestionCheckDialog init ok
+2018-11-30 15:41:27,740 - B_necessity_check.py[line:41] - DEBUG: B_necessity_check init..
+2018-11-30 15:41:28,523 - mainWin.py[line:584] - DEBUG: 将结果显示在表上
+2018-11-30 15:43:32,892 - myLogging.py[line:37] - DEBUG: logging init over
+2018-11-30 15:43:32,971 - B_necessity_check.py[line:41] - DEBUG: B_necessity_check init..
+2018-11-30 15:52:09,262 - mainWin.py[line:584] - DEBUG: 将结果显示在表上
+2018-11-30 15:52:11,462 - mainWin.py[line:584] - DEBUG: 将结果显示在表上
+2018-11-30 15:52:11,482 - mainWin.py[line:584] - DEBUG: 将结果显示在表上
+2018-11-30 15:52:11,484 - mainWin.py[line:584] - DEBUG: 将结果显示在表上
+2018-11-30 15:52:11,499 - mainWin.py[line:584] - DEBUG: 将结果显示在表上
+2018-11-30 15:52:11,515 - mainWin.py[line:584] - DEBUG: 将结果显示在表上
+2018-11-30 15:52:11,703 - mainWin.py[line:584] - DEBUG: 将结果显示在表上
+2018-11-30 15:52:19,791 - mainWin.py[line:584] - DEBUG: 将结果显示在表上
+2018-11-30 15:52:19,963 - mainWin.py[line:584] - DEBUG: 将结果显示在表上
+2018-11-30 17:07:22,706 - myLogging.py[line:37] - DEBUG: logging init over
+2018-11-30 17:07:22,753 - B_necessity_check.py[line:41] - DEBUG: B_necessity_check init..
+2018-11-30 17:07:32,396 - myLogging.py[line:37] - DEBUG: logging init over
+2018-11-30 17:07:38,756 - myLogging.py[line:37] - DEBUG: logging init over
+2018-11-30 17:07:39,100 - mainWin.py[line:26] - DEBUG: mainWin>init..
+2018-11-30 17:07:39,520 - mainWin.py[line:69] - DEBUG: mainWin>init ok
+2018-11-30 17:07:47,028 - mainWin.py[line:397] - DEBUG: mainWin>function:openFile:
+2018-11-30 17:07:47,028 - mainWin.py[line:428] - DEBUG: openTownList openFile
+2018-11-30 17:07:47,028 - mainWin.py[line:430] - DEBUG: openTownList 未选中文件
+2018-11-30 17:07:48,122 - importFileDialog.py[line:17] - DEBUG: importFileDialog init..
+2018-11-30 17:07:48,137 - importFileDialog.py[line:24] - DEBUG: importFileDialog init ok
+2018-11-30 17:08:32,787 - mainWin.py[line:363] - DEBUG: mainWin>function:openFile:try
+2018-11-30 17:08:32,787 - mainWin.py[line:203] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/A310151.18.csv
+2018-11-30 17:08:32,803 - mainWin.py[line:363] - DEBUG: mainWin>function:openFile:try
+2018-11-30 17:08:32,804 - mainWin.py[line:203] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/B310151.18.csv
+2018-11-30 17:08:32,811 - mainWin.py[line:363] - DEBUG: mainWin>function:openFile:try
+2018-11-30 17:08:32,811 - mainWin.py[line:203] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/住户样本310151.18.csv
+2018-11-30 17:08:32,817 - mainWin.py[line:363] - DEBUG: mainWin>function:openFile:try
+2018-11-30 17:08:32,817 - mainWin.py[line:203] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/住宅名录310151.18.csv
+2018-11-30 17:08:32,821 - mainWin.py[line:363] - DEBUG: mainWin>function:openFile:try
+2018-11-30 17:08:32,821 - mainWin.py[line:203] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/小区名录310151.18.csv
+2018-11-30 17:08:33,982 - questionCheckDialog.py[line:19] - DEBUG: QuestionCheckDialog init..
+2018-11-30 17:08:33,982 - questionCheckDialog.py[line:22] - DEBUG: QuestionCheckDialog init ok
+2018-11-30 17:08:38,224 - A_necessity_check.py[line:60] - DEBUG: A_necessity_check init..
+2018-11-30 17:08:39,181 - mainWin.py[line:584] - DEBUG: 将结果显示在表上
+2018-11-30 17:08:39,181 - A_suggestion_check.py[line:50] - DEBUG: A_suggestion_check init..
+2018-11-30 17:08:39,806 - mainWin.py[line:584] - DEBUG: 将结果显示在表上
+2018-11-30 17:08:39,806 - B_necessity_check.py[line:41] - DEBUG: B_necessity_check init..
+2018-11-30 17:08:40,619 - mainWin.py[line:584] - DEBUG: 将结果显示在表上
+2018-11-30 17:08:40,634 - B_suggestion_check.py[line:40] - DEBUG: B_necessity_check init..
+2018-11-30 17:08:41,259 - mainWin.py[line:584] - DEBUG: 将结果显示在表上
+2018-11-30 17:08:50,644 - mainWin.py[line:584] - DEBUG: 将结果显示在表上
+2018-11-30 17:08:50,831 - mainWin.py[line:584] - DEBUG: 将结果显示在表上
+2018-11-30 17:12:42,908 - myLogging.py[line:37] - DEBUG: logging init over
+2018-11-30 17:12:43,268 - mainWin.py[line:26] - DEBUG: mainWin>init..
+2018-11-30 17:12:43,678 - mainWin.py[line:69] - DEBUG: mainWin>init ok
+2018-11-30 17:12:51,992 - importFileDialog.py[line:17] - DEBUG: importFileDialog init..
+2018-11-30 17:12:51,992 - importFileDialog.py[line:24] - DEBUG: importFileDialog init ok
+2018-11-30 17:13:15,715 - mainWin.py[line:363] - DEBUG: mainWin>function:openFile:try
+2018-11-30 17:13:15,715 - mainWin.py[line:203] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/A310151.18.csv
+2018-11-30 17:13:15,733 - mainWin.py[line:363] - DEBUG: mainWin>function:openFile:try
+2018-11-30 17:13:15,733 - mainWin.py[line:203] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/B310151.18.csv
+2018-11-30 17:13:15,741 - mainWin.py[line:363] - DEBUG: mainWin>function:openFile:try
+2018-11-30 17:13:15,741 - mainWin.py[line:203] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/住户样本310151.18.csv
+2018-11-30 17:13:15,747 - mainWin.py[line:363] - DEBUG: mainWin>function:openFile:try
+2018-11-30 17:13:15,747 - mainWin.py[line:203] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/住宅名录310151.18.csv
+2018-11-30 17:13:15,751 - mainWin.py[line:363] - DEBUG: mainWin>function:openFile:try
+2018-11-30 17:13:15,751 - mainWin.py[line:203] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/小区名录310151.18.csv
+2018-11-30 17:13:16,640 - questionCheckDialog.py[line:19] - DEBUG: QuestionCheckDialog init..
+2018-11-30 17:13:16,640 - questionCheckDialog.py[line:22] - DEBUG: QuestionCheckDialog init ok
+2018-11-30 17:13:21,717 - A_necessity_check.py[line:60] - DEBUG: A_necessity_check init..
+2018-11-30 17:13:22,670 - mainWin.py[line:584] - DEBUG: 将结果显示在表上
+2018-11-30 17:13:22,686 - A_suggestion_check.py[line:50] - DEBUG: A_suggestion_check init..
+2018-11-30 17:13:23,330 - mainWin.py[line:584] - DEBUG: 将结果显示在表上
+2018-11-30 17:14:54,210 - myLogging.py[line:37] - DEBUG: logging init over
+2018-11-30 17:14:54,413 - mainWin.py[line:26] - DEBUG: mainWin>init..
+2018-11-30 17:14:54,851 - mainWin.py[line:69] - DEBUG: mainWin>init ok
+2018-11-30 17:15:00,638 - importFileDialog.py[line:17] - DEBUG: importFileDialog init..
+2018-11-30 17:15:00,638 - importFileDialog.py[line:24] - DEBUG: importFileDialog init ok
+2018-11-30 17:15:23,108 - mainWin.py[line:363] - DEBUG: mainWin>function:openFile:try
+2018-11-30 17:15:23,108 - mainWin.py[line:203] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/A310151.18.csv
+2018-11-30 17:15:23,125 - mainWin.py[line:363] - DEBUG: mainWin>function:openFile:try
+2018-11-30 17:15:23,125 - mainWin.py[line:203] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/B310151.18.csv
+2018-11-30 17:15:23,133 - mainWin.py[line:363] - DEBUG: mainWin>function:openFile:try
+2018-11-30 17:15:23,133 - mainWin.py[line:203] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/住户样本310151.18.csv
+2018-11-30 17:15:23,139 - mainWin.py[line:363] - DEBUG: mainWin>function:openFile:try
+2018-11-30 17:15:23,139 - mainWin.py[line:203] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/住宅名录310151.18.csv
+2018-11-30 17:15:23,144 - mainWin.py[line:363] - DEBUG: mainWin>function:openFile:try
+2018-11-30 17:15:23,144 - mainWin.py[line:203] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/小区名录310151.18.csv
+2018-11-30 17:15:24,229 - questionCheckDialog.py[line:19] - DEBUG: QuestionCheckDialog init..
+2018-11-30 17:15:24,229 - questionCheckDialog.py[line:22] - DEBUG: QuestionCheckDialog init ok
+2018-11-30 17:15:29,477 - A_necessity_check.py[line:60] - DEBUG: A_necessity_check init..
+2018-11-30 17:15:30,434 - mainWin.py[line:584] - DEBUG: 将结果显示在表上
+2018-11-30 17:15:30,449 - A_suggestion_check.py[line:50] - DEBUG: A_suggestion_check init..
+2018-11-30 17:15:31,054 - mainWin.py[line:584] - DEBUG: 将结果显示在表上
+2018-11-30 17:15:31,054 - B_necessity_check.py[line:41] - DEBUG: B_necessity_check init..
+2018-11-30 17:15:31,809 - mainWin.py[line:584] - DEBUG: 将结果显示在表上
+2018-11-30 17:15:31,824 - B_suggestion_check.py[line:40] - DEBUG: B_necessity_check init..
+2018-11-30 17:15:32,404 - mainWin.py[line:584] - DEBUG: 将结果显示在表上
+2018-11-30 17:15:35,846 - mainWin.py[line:584] - DEBUG: 将结果显示在表上
+2018-11-30 17:15:36,002 - mainWin.py[line:584] - DEBUG: 将结果显示在表上
+2018-11-30 17:15:37,195 - mainWin.py[line:584] - DEBUG: 将结果显示在表上
+2018-11-30 17:15:37,395 - mainWin.py[line:584] - DEBUG: 将结果显示在表上
+2018-11-30 17:15:54,595 - mainWin.py[line:584] - DEBUG: 将结果显示在表上
+2018-11-30 17:15:54,783 - mainWin.py[line:584] - DEBUG: 将结果显示在表上
+2018-11-30 17:18:42,699 - myLogging.py[line:37] - DEBUG: logging init over
+2018-11-30 17:18:42,863 - mainWin.py[line:26] - DEBUG: mainWin>init..
+2018-11-30 17:18:43,316 - mainWin.py[line:69] - DEBUG: mainWin>init ok
+2018-11-30 17:18:50,055 - importFileDialog.py[line:17] - DEBUG: importFileDialog init..
+2018-11-30 17:18:50,057 - importFileDialog.py[line:24] - DEBUG: importFileDialog init ok
+2018-11-30 17:19:15,051 - mainWin.py[line:363] - DEBUG: mainWin>function:openFile:try
+2018-11-30 17:19:15,051 - mainWin.py[line:203] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/A310151.18.csv
+2018-11-30 17:19:15,070 - mainWin.py[line:363] - DEBUG: mainWin>function:openFile:try
+2018-11-30 17:19:15,071 - mainWin.py[line:203] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/B310151.18.csv
+2018-11-30 17:19:15,080 - mainWin.py[line:363] - DEBUG: mainWin>function:openFile:try
+2018-11-30 17:19:15,080 - mainWin.py[line:203] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/住户样本310151.18.csv
+2018-11-30 17:19:15,086 - mainWin.py[line:363] - DEBUG: mainWin>function:openFile:try
+2018-11-30 17:19:15,086 - mainWin.py[line:203] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/住宅名录310151.18.csv
+2018-11-30 17:19:15,092 - mainWin.py[line:363] - DEBUG: mainWin>function:openFile:try
+2018-11-30 17:19:15,092 - mainWin.py[line:203] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/小区名录310151.18.csv
+2018-11-30 17:19:17,140 - questionCheckDialog.py[line:19] - DEBUG: QuestionCheckDialog init..
+2018-11-30 17:19:17,141 - questionCheckDialog.py[line:22] - DEBUG: QuestionCheckDialog init ok
+2018-11-30 17:19:22,377 - A_necessity_check.py[line:60] - DEBUG: A_necessity_check init..
+2018-11-30 17:19:23,425 - mainWin.py[line:584] - DEBUG: 将结果显示在表上
+2018-11-30 17:19:23,434 - A_suggestion_check.py[line:50] - DEBUG: A_suggestion_check init..
+2018-11-30 17:19:24,063 - mainWin.py[line:584] - DEBUG: 将结果显示在表上
+2018-11-30 17:19:24,066 - B_necessity_check.py[line:41] - DEBUG: B_necessity_check init..
+2018-11-30 17:19:24,902 - mainWin.py[line:584] - DEBUG: 将结果显示在表上
+2018-11-30 17:19:24,908 - B_suggestion_check.py[line:40] - DEBUG: B_necessity_check init..
+2018-11-30 17:19:25,571 - mainWin.py[line:584] - DEBUG: 将结果显示在表上
+2018-11-30 17:26:16,999 - myLogging.py[line:37] - DEBUG: logging init over
+2018-11-30 17:26:17,144 - mainWin.py[line:26] - DEBUG: mainWin>init..
+2018-11-30 17:26:17,546 - mainWin.py[line:69] - DEBUG: mainWin>init ok
+2018-11-30 17:26:25,976 - importFileDialog.py[line:17] - DEBUG: importFileDialog init..
+2018-11-30 17:26:25,977 - importFileDialog.py[line:24] - DEBUG: importFileDialog init ok
+2018-11-30 17:26:44,212 - mainWin.py[line:363] - DEBUG: mainWin>function:openFile:try
+2018-11-30 17:26:44,212 - mainWin.py[line:203] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/B310151.18.csv
+2018-11-30 17:26:44,229 - mainWin.py[line:363] - DEBUG: mainWin>function:openFile:try
+2018-11-30 17:26:44,229 - mainWin.py[line:203] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/住户样本310151.18.csv
+2018-11-30 17:26:44,236 - mainWin.py[line:363] - DEBUG: mainWin>function:openFile:try
+2018-11-30 17:26:44,237 - mainWin.py[line:203] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/住宅名录310151.18.csv
+2018-11-30 17:26:44,240 - mainWin.py[line:363] - DEBUG: mainWin>function:openFile:try
+2018-11-30 17:26:44,240 - mainWin.py[line:203] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/小区名录310151.18.csv
+2018-11-30 17:26:45,318 - questionCheckDialog.py[line:19] - DEBUG: QuestionCheckDialog init..
+2018-11-30 17:26:45,320 - questionCheckDialog.py[line:22] - DEBUG: QuestionCheckDialog init ok
+2018-11-30 17:26:48,497 - B_necessity_check.py[line:41] - DEBUG: B_necessity_check init..
+2018-11-30 17:26:49,354 - mainWin.py[line:584] - DEBUG: 将结果显示在表上
+2018-11-30 17:30:48,693 - myLogging.py[line:37] - DEBUG: logging init over
+2018-11-30 17:30:49,058 - mainWin.py[line:26] - DEBUG: mainWin>init..
+2018-11-30 17:30:49,460 - mainWin.py[line:69] - DEBUG: mainWin>init ok
+2018-11-30 17:30:57,226 - importFileDialog.py[line:17] - DEBUG: importFileDialog init..
+2018-11-30 17:30:57,226 - importFileDialog.py[line:24] - DEBUG: importFileDialog init ok
+2018-11-30 17:31:15,851 - mainWin.py[line:363] - DEBUG: mainWin>function:openFile:try
+2018-11-30 17:31:15,851 - mainWin.py[line:203] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/B310151.18.csv
+2018-11-30 17:31:15,868 - mainWin.py[line:363] - DEBUG: mainWin>function:openFile:try
+2018-11-30 17:31:15,868 - mainWin.py[line:203] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/住户样本310151.18.csv
+2018-11-30 17:31:15,875 - mainWin.py[line:363] - DEBUG: mainWin>function:openFile:try
+2018-11-30 17:31:15,875 - mainWin.py[line:203] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/住宅名录310151.18.csv
+2018-11-30 17:31:15,879 - mainWin.py[line:363] - DEBUG: mainWin>function:openFile:try
+2018-11-30 17:31:15,879 - mainWin.py[line:203] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/小区名录310151.18.csv
+2018-11-30 17:31:17,132 - questionCheckDialog.py[line:19] - DEBUG: QuestionCheckDialog init..
+2018-11-30 17:31:17,132 - questionCheckDialog.py[line:22] - DEBUG: QuestionCheckDialog init ok
+2018-11-30 17:31:19,555 - B_necessity_check.py[line:41] - DEBUG: B_necessity_check init..
+2018-11-30 17:31:20,383 - mainWin.py[line:584] - DEBUG: 将结果显示在表上
+2018-11-30 17:43:54,048 - myLogging.py[line:37] - DEBUG: logging init over
+2018-11-30 17:43:54,436 - mainWin.py[line:26] - DEBUG: mainWin>init..
+2018-11-30 17:43:54,900 - mainWin.py[line:69] - DEBUG: mainWin>init ok
+2018-11-30 17:44:00,583 - importFileDialog.py[line:17] - DEBUG: importFileDialog init..
+2018-11-30 17:44:00,585 - importFileDialog.py[line:24] - DEBUG: importFileDialog init ok
+2018-11-30 17:44:23,955 - mainWin.py[line:363] - DEBUG: mainWin>function:openFile:try
+2018-11-30 17:44:23,955 - mainWin.py[line:203] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/A310151.18.csv
+2018-11-30 17:44:23,972 - mainWin.py[line:363] - DEBUG: mainWin>function:openFile:try
+2018-11-30 17:44:23,972 - mainWin.py[line:203] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/B310151.18.csv
+2018-11-30 17:44:23,980 - mainWin.py[line:363] - DEBUG: mainWin>function:openFile:try
+2018-11-30 17:44:23,980 - mainWin.py[line:203] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/住户样本310151.18.csv
+2018-11-30 17:44:23,986 - mainWin.py[line:363] - DEBUG: mainWin>function:openFile:try
+2018-11-30 17:44:23,986 - mainWin.py[line:203] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/住宅名录310151.18.csv
+2018-11-30 17:44:23,990 - mainWin.py[line:363] - DEBUG: mainWin>function:openFile:try
+2018-11-30 17:44:23,990 - mainWin.py[line:203] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/小区名录310151.18.csv
+2018-11-30 17:44:25,023 - questionCheckDialog.py[line:19] - DEBUG: QuestionCheckDialog init..
+2018-11-30 17:44:25,023 - questionCheckDialog.py[line:22] - DEBUG: QuestionCheckDialog init ok
+2018-11-30 17:44:28,773 - B_necessity_check.py[line:41] - DEBUG: B_necessity_check init..
+2018-11-30 17:44:29,610 - mainWin.py[line:584] - DEBUG: 将结果显示在表上
+2018-11-30 17:44:29,610 - B_suggestion_check.py[line:42] - DEBUG: B_necessity_check init..
+2018-11-30 17:44:30,235 - mainWin.py[line:584] - DEBUG: 将结果显示在表上
+2018-11-30 17:45:56,348 - mainWin.py[line:584] - DEBUG: 将结果显示在表上
+2018-11-30 17:45:56,536 - mainWin.py[line:584] - DEBUG: 将结果显示在表上
+2018-11-30 17:45:57,738 - mainWin.py[line:584] - DEBUG: 将结果显示在表上
+2018-11-30 17:45:57,936 - mainWin.py[line:584] - DEBUG: 将结果显示在表上
+2018-11-30 17:45:58,828 - mainWin.py[line:584] - DEBUG: 将结果显示在表上
+2018-11-30 17:45:59,031 - mainWin.py[line:584] - DEBUG: 将结果显示在表上
+2018-11-30 17:46:00,664 - mainWin.py[line:584] - DEBUG: 将结果显示在表上
+2018-11-30 17:46:00,852 - mainWin.py[line:584] - DEBUG: 将结果显示在表上
+2018-11-30 17:47:05,735 - mainWin.py[line:584] - DEBUG: 将结果显示在表上
+2018-11-30 17:47:05,907 - mainWin.py[line:584] - DEBUG: 将结果显示在表上
+2018-11-30 17:47:06,600 - mainWin.py[line:584] - DEBUG: 将结果显示在表上
+2018-11-30 17:47:06,773 - mainWin.py[line:584] - DEBUG: 将结果显示在表上
+2018-11-30 17:47:25,608 - myLogging.py[line:37] - DEBUG: logging init over
+2018-11-30 17:47:25,779 - mainWin.py[line:26] - DEBUG: mainWin>init..
+2018-11-30 17:47:26,197 - mainWin.py[line:69] - DEBUG: mainWin>init ok
+2018-11-30 17:47:33,650 - importFileDialog.py[line:17] - DEBUG: importFileDialog init..
+2018-11-30 17:47:33,666 - importFileDialog.py[line:24] - DEBUG: importFileDialog init ok
+2018-11-30 17:48:05,795 - mainWin.py[line:363] - DEBUG: mainWin>function:openFile:try
+2018-11-30 17:48:05,796 - mainWin.py[line:203] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/B310151.18.csv
+2018-11-30 17:48:05,812 - mainWin.py[line:363] - DEBUG: mainWin>function:openFile:try
+2018-11-30 17:48:05,812 - mainWin.py[line:203] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/住户样本310151.18.csv
+2018-11-30 17:48:05,818 - mainWin.py[line:363] - DEBUG: mainWin>function:openFile:try
+2018-11-30 17:48:05,818 - mainWin.py[line:203] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/住宅名录310151.18.csv
+2018-11-30 17:48:05,822 - mainWin.py[line:363] - DEBUG: mainWin>function:openFile:try
+2018-11-30 17:48:05,822 - mainWin.py[line:203] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/小区名录310151.18.csv
+2018-11-30 17:48:06,836 - questionCheckDialog.py[line:19] - DEBUG: QuestionCheckDialog init..
+2018-11-30 17:48:06,836 - questionCheckDialog.py[line:22] - DEBUG: QuestionCheckDialog init ok
+2018-11-30 17:48:09,714 - B_necessity_check.py[line:41] - DEBUG: B_necessity_check init..
+2018-11-30 17:48:10,551 - mainWin.py[line:584] - DEBUG: 将结果显示在表上
+2018-11-30 17:48:10,551 - B_suggestion_check.py[line:42] - DEBUG: B_necessity_check init..
+2018-11-30 17:48:11,195 - mainWin.py[line:584] - DEBUG: 将结果显示在表上
+2018-11-30 17:48:49,782 - mainWin.py[line:397] - DEBUG: mainWin>function:openFile:
+2018-11-30 17:48:49,782 - mainWin.py[line:428] - DEBUG: openTownList openFile
+2018-11-30 17:48:49,782 - mainWin.py[line:430] - DEBUG: openTownList 未选中文件
+2018-11-30 17:48:51,008 - mainWin.py[line:509] - DEBUG: mainWin>function:setTableZy
+2018-11-30 17:48:55,830 - mainWin.py[line:397] - DEBUG: mainWin>function:openFile:D:/研一/项目/Auditing/输入文件夹/D3101511806.csv
+2018-11-30 17:48:55,830 - mainWin.py[line:404] - DEBUG: mainWin>function:openFile:try
+2018-11-30 17:48:55,830 - mainWin.py[line:203] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/D3101511806.csv
+2018-11-30 17:49:00,648 - mainWin.py[line:397] - DEBUG: mainWin>function:openFile:D:/研一/项目/Auditing/输入文件夹/小区名录310151.18.csv
+2018-11-30 17:49:00,648 - mainWin.py[line:404] - DEBUG: mainWin>function:openFile:try
+2018-11-30 17:49:00,648 - mainWin.py[line:203] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/小区名录310151.18.csv
+2018-11-30 17:49:00,648 - mainWin.py[line:428] - DEBUG: openTownList openFile
+2018-11-30 17:49:00,648 - mainWin.py[line:432] - DEBUG: in openTownList else
+2018-11-30 17:49:00,664 - mainWin.py[line:457] - DEBUG: in townSelectChange
+2018-11-30 17:49:00,664 - mainWin.py[line:457] - DEBUG: in townSelectChange
+2018-11-30 17:49:00,664 - mainWin.py[line:448] - DEBUG: mainWin>function:openTownList
+2018-11-30 17:49:04,391 - deal_taizhang.py[line:18] - DEBUG: deal_taizhang init..
+2018-11-30 17:49:04,391 - deal_taizhang.py[line:95] - DEBUG: deal_taizhang init ok
+2018-11-30 17:49:06,899 - mainWin.py[line:504] - DEBUG: mainWin>function:setTableA
+2018-11-30 17:49:11,256 - mainWin.py[line:397] - DEBUG: mainWin>function:openFile:D:/研一/项目/Auditing/输入文件夹/国家点6月A问卷.csv
+2018-11-30 17:49:11,256 - mainWin.py[line:404] - DEBUG: mainWin>function:openFile:try
+2018-11-30 17:49:11,256 - mainWin.py[line:203] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/国家点6月A问卷.csv
+2018-11-30 17:49:18,567 - mainWin.py[line:504] - DEBUG: mainWin>function:setTableA
+2018-11-30 17:49:21,475 - mainWin.py[line:397] - DEBUG: mainWin>function:openFile:D:/研一/项目/Auditing/输入文件夹/A310151.18.csv
+2018-11-30 17:49:21,475 - mainWin.py[line:404] - DEBUG: mainWin>function:openFile:try
+2018-11-30 17:49:21,475 - mainWin.py[line:203] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/A310151.18.csv
+2018-11-30 17:49:22,977 - mainWin.py[line:509] - DEBUG: mainWin>function:setTableZy
+2018-11-30 17:49:26,059 - mainWin.py[line:397] - DEBUG: mainWin>function:openFile:D:/研一/项目/Auditing/输入文件夹/D3101511806.csv
+2018-11-30 17:49:26,059 - mainWin.py[line:404] - DEBUG: mainWin>function:openFile:try
+2018-11-30 17:49:26,059 - mainWin.py[line:203] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/D3101511806.csv
+2018-11-30 17:49:28,103 - mainWin.py[line:457] - DEBUG: in townSelectChange
+2018-11-30 17:49:30,633 - deal_taizhang.py[line:18] - DEBUG: deal_taizhang init..
+2018-11-30 17:49:30,633 - deal_taizhang.py[line:95] - DEBUG: deal_taizhang init ok
+2018-11-30 17:49:30,633 - deal_taizhang.py[line:209] - DEBUG: deal_taizhang>function:getCommunity
+2018-11-30 17:49:37,344 - mainWin.py[line:534] - DEBUG: 获取到生成台账结果
+2018-11-30 17:49:37,344 - mainWin.py[line:584] - DEBUG: 将结果显示在表上
+2018-11-30 17:53:59,388 - myLogging.py[line:37] - DEBUG: logging init over
+2018-11-30 17:53:59,619 - mainWin.py[line:26] - DEBUG: mainWin>init..
+2018-11-30 17:54:00,025 - mainWin.py[line:69] - DEBUG: mainWin>init ok
+2018-11-30 17:54:06,680 - importFileDialog.py[line:17] - DEBUG: importFileDialog init..
+2018-11-30 17:54:06,680 - importFileDialog.py[line:24] - DEBUG: importFileDialog init ok
+2018-11-30 17:54:29,019 - mainWin.py[line:363] - DEBUG: mainWin>function:openFile:try
+2018-11-30 17:54:29,020 - mainWin.py[line:203] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/A310151.18.csv
+2018-11-30 17:54:29,038 - mainWin.py[line:363] - DEBUG: mainWin>function:openFile:try
+2018-11-30 17:54:29,038 - mainWin.py[line:203] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/B310151.18.csv
+2018-11-30 17:54:29,047 - mainWin.py[line:363] - DEBUG: mainWin>function:openFile:try
+2018-11-30 17:54:29,047 - mainWin.py[line:203] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/住户样本310151.18.csv
+2018-11-30 17:54:29,053 - mainWin.py[line:363] - DEBUG: mainWin>function:openFile:try
+2018-11-30 17:54:29,053 - mainWin.py[line:203] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/住宅名录310151.18.csv
+2018-11-30 17:54:29,058 - mainWin.py[line:363] - DEBUG: mainWin>function:openFile:try
+2018-11-30 17:54:29,058 - mainWin.py[line:203] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/小区名录310151.18.csv
+2018-11-30 17:54:29,968 - questionCheckDialog.py[line:19] - DEBUG: QuestionCheckDialog init..
+2018-11-30 17:54:29,968 - questionCheckDialog.py[line:22] - DEBUG: QuestionCheckDialog init ok
+2018-11-30 17:54:33,081 - B_necessity_check.py[line:41] - DEBUG: B_necessity_check init..
+2018-11-30 17:54:33,947 - mainWin.py[line:584] - DEBUG: 将结果显示在表上
+2018-11-30 17:54:33,947 - B_suggestion_check.py[line:42] - DEBUG: B_necessity_check init..
+2018-11-30 17:54:34,603 - mainWin.py[line:584] - DEBUG: 将结果显示在表上
+2018-11-30 17:55:46,138 - myLogging.py[line:37] - DEBUG: logging init over
+2018-11-30 17:55:46,310 - mainWin.py[line:26] - DEBUG: mainWin>init..
+2018-11-30 17:55:46,728 - mainWin.py[line:69] - DEBUG: mainWin>init ok
+2018-11-30 17:55:52,616 - importFileDialog.py[line:17] - DEBUG: importFileDialog init..
+2018-11-30 17:55:52,617 - importFileDialog.py[line:24] - DEBUG: importFileDialog init ok
+2018-11-30 17:56:09,379 - mainWin.py[line:363] - DEBUG: mainWin>function:openFile:try
+2018-11-30 17:56:09,379 - mainWin.py[line:203] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/B310151.18.csv
+2018-11-30 17:56:09,395 - mainWin.py[line:363] - DEBUG: mainWin>function:openFile:try
+2018-11-30 17:56:09,396 - mainWin.py[line:203] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/住户样本310151.18.csv
+2018-11-30 17:56:09,402 - mainWin.py[line:363] - DEBUG: mainWin>function:openFile:try
+2018-11-30 17:56:09,402 - mainWin.py[line:203] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/住宅名录310151.18.csv
+2018-11-30 17:56:09,405 - mainWin.py[line:363] - DEBUG: mainWin>function:openFile:try
+2018-11-30 17:56:09,405 - mainWin.py[line:203] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/小区名录310151.18.csv
+2018-11-30 17:56:10,433 - questionCheckDialog.py[line:19] - DEBUG: QuestionCheckDialog init..
+2018-11-30 17:56:10,433 - questionCheckDialog.py[line:22] - DEBUG: QuestionCheckDialog init ok
+2018-11-30 17:56:14,242 - B_necessity_check.py[line:41] - DEBUG: B_necessity_check init..
+2018-11-30 17:56:15,070 - mainWin.py[line:584] - DEBUG: 将结果显示在表上
+2018-11-30 17:56:15,086 - B_suggestion_check.py[line:42] - DEBUG: B_necessity_check init..
+2018-11-30 17:56:15,715 - mainWin.py[line:584] - DEBUG: 将结果显示在表上
+2018-11-30 17:57:03,929 - mainWin.py[line:584] - DEBUG: 将结果显示在表上
+2018-11-30 17:57:04,101 - mainWin.py[line:584] - DEBUG: 将结果显示在表上
+2018-11-30 17:57:04,718 - mainWin.py[line:584] - DEBUG: 将结果显示在表上
+2018-11-30 17:57:04,905 - mainWin.py[line:584] - DEBUG: 将结果显示在表上
+2018-11-30 17:57:07,735 - mainWin.py[line:584] - DEBUG: 将结果显示在表上
+2018-11-30 17:57:07,891 - mainWin.py[line:584] - DEBUG: 将结果显示在表上
+2018-11-30 17:58:01,295 - myLogging.py[line:37] - DEBUG: logging init over
+2018-11-30 17:58:01,442 - mainWin.py[line:26] - DEBUG: mainWin>init..
+2018-11-30 17:58:01,836 - mainWin.py[line:69] - DEBUG: mainWin>init ok
+2018-11-30 17:58:07,974 - importFileDialog.py[line:17] - DEBUG: importFileDialog init..
+2018-11-30 17:58:07,974 - importFileDialog.py[line:24] - DEBUG: importFileDialog init ok
+2018-11-30 17:58:28,812 - mainWin.py[line:363] - DEBUG: mainWin>function:openFile:try
+2018-11-30 17:58:28,812 - mainWin.py[line:203] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/B310151.18.csv
+2018-11-30 17:58:28,829 - mainWin.py[line:363] - DEBUG: mainWin>function:openFile:try
+2018-11-30 17:58:28,829 - mainWin.py[line:203] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/住户样本310151.18.csv
+2018-11-30 17:58:28,835 - mainWin.py[line:363] - DEBUG: mainWin>function:openFile:try
+2018-11-30 17:58:28,835 - mainWin.py[line:203] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/住宅名录310151.18.csv
+2018-11-30 17:58:28,839 - mainWin.py[line:363] - DEBUG: mainWin>function:openFile:try
+2018-11-30 17:58:28,839 - mainWin.py[line:203] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/小区名录310151.18.csv
+2018-11-30 17:58:29,832 - questionCheckDialog.py[line:19] - DEBUG: QuestionCheckDialog init..
+2018-11-30 17:58:29,832 - questionCheckDialog.py[line:22] - DEBUG: QuestionCheckDialog init ok
+2018-11-30 17:58:32,517 - B_necessity_check.py[line:41] - DEBUG: B_necessity_check init..
+2018-11-30 17:58:33,374 - mainWin.py[line:584] - DEBUG: 将结果显示在表上
+2018-11-30 17:58:33,374 - B_suggestion_check.py[line:42] - DEBUG: B_necessity_check init..
+2018-11-30 17:58:33,999 - mainWin.py[line:584] - DEBUG: 将结果显示在表上
+2018-11-30 17:58:35,576 - mainWin.py[line:584] - DEBUG: 将结果显示在表上
+2018-11-30 17:58:35,749 - mainWin.py[line:584] - DEBUG: 将结果显示在表上
+2018-11-30 19:39:20,216 - zyCheckDialog.py[line:20] - DEBUG: zyCheckDialog init ok
+2018-11-30 19:40:29,153 - zyCheckDialog.py[line:20] - DEBUG: zyCheckDialog init ok
+2018-11-30 19:40:36,556 - zyCheckDialog.py[line:20] - DEBUG: zyCheckDialog init ok
+2018-11-30 19:45:36,834 - zyCheckDialog.py[line:20] - DEBUG: zyCheckDialog init ok
+2018-11-30 19:51:46,777 - questionCheckDialog.py[line:19] - DEBUG: QuestionCheckDialog init..
+2018-11-30 19:51:46,777 - questionCheckDialog.py[line:22] - DEBUG: QuestionCheckDialog init ok
+2018-11-30 20:11:43,381 - myLogging.py[line:37] - DEBUG: logging init over
+2018-11-30 20:11:43,755 - mainWin.py[line:26] - DEBUG: mainWin>init..
+2018-11-30 20:11:44,177 - mainWin.py[line:69] - DEBUG: mainWin>init ok
+2018-11-30 20:37:25,906 - myLogging.py[line:37] - DEBUG: logging init over
+2018-11-30 20:37:26,075 - mainWin.py[line:26] - DEBUG: mainWin>init..
+2018-11-30 20:37:26,464 - mainWin.py[line:69] - DEBUG: mainWin>init ok
+2018-11-30 20:37:29,298 - zyCheckDialog.py[line:20] - DEBUG: zyCheckDialog init ok
+2018-11-30 20:38:16,093 - myLogging.py[line:37] - DEBUG: logging init over
+2018-11-30 20:38:16,240 - mainWin.py[line:26] - DEBUG: mainWin>init..
+2018-11-30 20:38:16,604 - mainWin.py[line:69] - DEBUG: mainWin>init ok
+2018-11-30 20:38:20,062 - questionCheckDialog.py[line:19] - DEBUG: QuestionCheckDialog init..
+2018-11-30 20:38:20,062 - questionCheckDialog.py[line:22] - DEBUG: QuestionCheckDialog init ok
+2018-11-30 20:38:23,168 - zyCheckDialog.py[line:20] - DEBUG: zyCheckDialog init ok
+2018-11-30 20:38:40,268 - myLogging.py[line:37] - DEBUG: logging init over
+2018-11-30 20:38:40,421 - mainWin.py[line:26] - DEBUG: mainWin>init..
+2018-11-30 20:38:40,785 - mainWin.py[line:69] - DEBUG: mainWin>init ok
+2018-11-30 20:38:43,161 - questionCheckDialog.py[line:19] - DEBUG: QuestionCheckDialog init..
+2018-11-30 20:38:43,161 - questionCheckDialog.py[line:22] - DEBUG: QuestionCheckDialog init ok
+2018-11-30 20:38:45,621 - zyCheckDialog.py[line:20] - DEBUG: zyCheckDialog init ok
+2018-11-30 20:54:26,155 - questionCheckDialog.py[line:19] - DEBUG: QuestionCheckDialog init..
+2018-11-30 20:54:26,155 - questionCheckDialog.py[line:22] - DEBUG: QuestionCheckDialog init ok
+2018-11-30 20:54:28,419 - zyCheckDialog.py[line:20] - DEBUG: zyCheckDialog init ok
+2018-11-30 21:03:21,222 - myLogging.py[line:37] - DEBUG: logging init over
+2018-11-30 21:03:21,485 - mainWin.py[line:26] - DEBUG: mainWin>init..
+2018-11-30 21:03:21,832 - mainWin.py[line:69] - DEBUG: mainWin>init ok
+2018-11-30 21:03:28,273 - questionCheckDialog.py[line:19] - DEBUG: QuestionCheckDialog init..
+2018-11-30 21:03:28,289 - questionCheckDialog.py[line:22] - DEBUG: QuestionCheckDialog init ok
+2018-11-30 21:04:02,728 - myLogging.py[line:37] - DEBUG: logging init over
+2018-11-30 21:04:02,991 - mainWin.py[line:26] - DEBUG: mainWin>init..
+2018-11-30 21:04:03,376 - mainWin.py[line:69] - DEBUG: mainWin>init ok
+2018-11-30 21:04:08,805 - importFileDialog.py[line:17] - DEBUG: importFileDialog init..
+2018-11-30 21:04:08,805 - importFileDialog.py[line:24] - DEBUG: importFileDialog init ok
+2018-11-30 21:04:10,876 - questionCheckDialog.py[line:19] - DEBUG: QuestionCheckDialog init..
+2018-11-30 21:04:10,876 - questionCheckDialog.py[line:22] - DEBUG: QuestionCheckDialog init ok
+2018-11-30 21:04:19,108 - zyCheckDialog.py[line:18] - DEBUG: zyCheckDialog init..
+2018-11-30 21:04:19,108 - zyCheckDialog.py[line:21] - DEBUG: zyCheckDialog init ok
+2018-11-30 21:04:57,739 - importFileDialog.py[line:17] - DEBUG: importFileDialog init..
+2018-11-30 21:04:57,739 - importFileDialog.py[line:24] - DEBUG: importFileDialog init ok
+2018-11-30 21:05:01,556 - zyCheckDialog.py[line:18] - DEBUG: zyCheckDialog init..
+2018-11-30 21:05:01,556 - zyCheckDialog.py[line:21] - DEBUG: zyCheckDialog init ok
+2018-11-30 21:05:09,183 - zyCheckDialog.py[line:18] - DEBUG: zyCheckDialog init..
+2018-11-30 21:05:09,183 - zyCheckDialog.py[line:21] - DEBUG: zyCheckDialog init ok
+2018-11-30 21:50:45,354 - questionCheckDialog.py[line:19] - DEBUG: QuestionCheckDialog init..
+2018-11-30 21:50:45,354 - questionCheckDialog.py[line:22] - DEBUG: QuestionCheckDialog init ok
+2018-11-30 21:53:33,243 - mainWin.py[line:397] - DEBUG: mainWin>function:openFile:
+2018-11-30 21:53:33,243 - mainWin.py[line:428] - DEBUG: openTownList openFile
+2018-11-30 21:53:33,243 - mainWin.py[line:430] - DEBUG: openTownList 未选中文件
+2018-11-30 21:53:34,423 - mainWin.py[line:504] - DEBUG: mainWin>function:setTableA
+2018-11-30 21:53:35,881 - mainWin.py[line:397] - DEBUG: mainWin>function:openFile:
+2018-11-30 21:53:43,026 - questionCheckDialog.py[line:19] - DEBUG: QuestionCheckDialog init..
+2018-11-30 21:53:43,026 - questionCheckDialog.py[line:22] - DEBUG: QuestionCheckDialog init ok
+2018-11-30 21:53:45,659 - importFileDialog.py[line:17] - DEBUG: importFileDialog init..
+2018-11-30 21:53:45,659 - importFileDialog.py[line:24] - DEBUG: importFileDialog init ok
+2018-11-30 22:09:02,999 - zyCheckDialog.py[line:18] - DEBUG: zyCheckDialog init..
+2018-11-30 22:09:03,015 - zyCheckDialog.py[line:21] - DEBUG: zyCheckDialog init ok
+2018-11-30 22:22:48,221 - myLogging.py[line:37] - DEBUG: logging init over
+2018-11-30 22:22:48,268 - zyCheckDialog.py[line:19] - DEBUG: zyCheckDialog init..
+2018-11-30 22:23:08,718 - myLogging.py[line:37] - DEBUG: logging init over
+2018-11-30 22:23:08,746 - zyCheckDialog.py[line:19] - DEBUG: zyCheckDialog init..
+2018-11-30 22:23:09,094 - zyCheckDialog.py[line:22] - DEBUG: zyCheckDialog init ok
+2018-11-30 22:24:01,472 - myLogging.py[line:37] - DEBUG: logging init over
+2018-11-30 22:24:01,518 - zyCheckDialog.py[line:19] - DEBUG: zyCheckDialog init..
+2018-11-30 22:24:01,849 - zyCheckDialog.py[line:22] - DEBUG: zyCheckDialog init ok
+2018-11-30 22:25:19,520 - myLogging.py[line:37] - DEBUG: logging init over
+2018-11-30 22:25:19,551 - zyCheckDialog.py[line:19] - DEBUG: zyCheckDialog init..
+2018-11-30 22:25:19,905 - zyCheckDialog.py[line:22] - DEBUG: zyCheckDialog init ok
+2018-11-30 22:25:37,577 - myLogging.py[line:37] - DEBUG: logging init over
+2018-11-30 22:25:37,624 - questionCheckDialog.py[line:19] - DEBUG: QuestionCheckDialog init..
+2018-11-30 22:25:37,994 - questionCheckDialog.py[line:22] - DEBUG: QuestionCheckDialog init ok

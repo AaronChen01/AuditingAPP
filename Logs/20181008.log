@@ -1,0 +1,27 @@
+2018-10-08 18:06:53,762 - myLogging.py[line:30] - DEBUG: logging init over
+2018-10-08 18:06:53,871 - deal_taizhang.py[line:94] - DEBUG: deal_taizhang init over
+2018-10-08 18:06:54,936 - mainWin.py[line:34] - DEBUG: mainWin>init ok
+2018-10-08 18:08:19,386 - myLogging.py[line:30] - DEBUG: logging init over
+2018-10-08 18:08:19,396 - deal_taizhang.py[line:94] - DEBUG: deal_taizhang init over
+2018-10-08 18:08:19,779 - mainWin.py[line:34] - DEBUG: mainWin>init ok
+2018-10-08 18:08:47,523 - myLogging.py[line:30] - DEBUG: logging init over
+2018-10-08 18:08:47,533 - deal_taizhang.py[line:94] - DEBUG: deal_taizhang init over
+2018-10-08 18:08:47,830 - mainWin.py[line:34] - DEBUG: mainWin>init ok
+2018-10-08 18:09:13,346 - myLogging.py[line:30] - DEBUG: logging init over
+2018-10-08 18:09:13,360 - deal_taizhang.py[line:94] - DEBUG: deal_taizhang init over
+2018-10-08 18:09:13,658 - mainWin.py[line:34] - DEBUG: mainWin>init ok
+2018-10-08 18:09:38,811 - myLogging.py[line:30] - DEBUG: logging init over
+2018-10-08 18:09:38,823 - deal_taizhang.py[line:94] - DEBUG: deal_taizhang init over
+2018-10-08 18:09:39,117 - mainWin.py[line:34] - DEBUG: mainWin>init ok
+2018-10-08 18:10:48,573 - myLogging.py[line:30] - DEBUG: logging init over
+2018-10-08 18:10:48,584 - deal_taizhang.py[line:94] - DEBUG: deal_taizhang init over
+2018-10-08 18:10:48,915 - mainWin.py[line:34] - DEBUG: mainWin>init ok
+2018-10-08 18:13:00,855 - myLogging.py[line:30] - DEBUG: logging init over
+2018-10-08 18:13:00,865 - deal_taizhang.py[line:94] - DEBUG: deal_taizhang init over
+2018-10-08 18:13:01,161 - mainWin.py[line:34] - DEBUG: mainWin>init ok
+2018-10-08 18:13:19,387 - myLogging.py[line:30] - DEBUG: logging init over
+2018-10-08 18:13:19,397 - deal_taizhang.py[line:94] - DEBUG: deal_taizhang init over
+2018-10-08 18:13:19,715 - mainWin.py[line:34] - DEBUG: mainWin>init ok
+2018-10-08 18:13:34,094 - mainWin.py[line:76] - DEBUG: mainWin>function:openFile:
+2018-10-08 18:13:34,096 - mainWin.py[line:106] - DEBUG: openTownList openFile
+2018-10-08 18:13:34,096 - mainWin.py[line:108] - DEBUG: openTownList 未选中文件

@@ -1,0 +1,69 @@
+TypeError
+Python 3.6.5: D:\ProgramFile\Anaconda\python.exe
+Fri Nov 30 17:13:23 2018
+
+A problem occurred in a Python script.  Here is the sequence of
+function calls leading up to the error, in the order they occurred.
+
+ D:\研一\项目\Auditing\mainWin.py in openQuestionCheckDialog(self=<mainWin.MyMainWindow object>)
+  286             if self.B_flag == True and self.zhuhu_flag == True and self.zhuzhai_flag == True and self.xiaoqu_flag == True:
+  287                 if Bn == True:
+  288                     B_necessity_outcome = B_necessity_check(self.B,self.zhuhu,self.zhuzhai,self.xiaoqu)
+  289                     Bnfilename = 'B_necessity_result.xlsx'
+  290                     B_necessity_outcome.to_excel('./B_necessity_result.xlsx',encoding="utf-8",index=False,sheet_name='Sheet',columns= self.colums)
+B_necessity_outcome undefined
+B_necessity_check = <function B_necessity_check>
+self = <mainWin.MyMainWindow object>
+self.B =                        SID  COL       SCODE  YEA...     2   NaN     2   NaN
+
+[366 rows x 96 columns]
+self.zhuhu =                       HHID  COL    COUN    VCODE...     2     3   NaN   NaN
+
+[351 rows x 43 columns]
+self.zhuzhai =                      HID    COUN    VCODE HCODE ...    82    30     1     1
+
+[483 rows x 15 columns]
+self.xiaoqu =                 VID    COUN COUNNAME   ...    NV...       2     NaN        1
+
+[36 rows x 23 columns]
+TypeError: B_necessity_check() missing 1 required positional argument: 'result_table'
+    __cause__ = None
+    __class__ = <class 'TypeError'>
+    __context__ = None
+    __delattr__ = <method-wrapper '__delattr__' of TypeError object>
+    __dict__ = {}
+    __dir__ = <built-in method __dir__ of TypeError object>
+    __doc__ = 'Inappropriate argument type.'
+    __eq__ = <method-wrapper '__eq__' of TypeError object>
+    __format__ = <built-in method __format__ of TypeError object>
+    __ge__ = <method-wrapper '__ge__' of TypeError object>
+    __getattribute__ = <method-wrapper '__getattribute__' of TypeError object>
+    __gt__ = <method-wrapper '__gt__' of TypeError object>
+    __hash__ = <method-wrapper '__hash__' of TypeError object>
+    __init__ = <method-wrapper '__init__' of TypeError object>
+    __init_subclass__ = <built-in method __init_subclass__ of type object>
+    __le__ = <method-wrapper '__le__' of TypeError object>
+    __lt__ = <method-wrapper '__lt__' of TypeError object>
+    __ne__ = <method-wrapper '__ne__' of TypeError object>
+    __new__ = <built-in method __new__ of type object>
+    __reduce__ = <built-in method __reduce__ of TypeError object>
+    __reduce_ex__ = <built-in method __reduce_ex__ of TypeError object>
+    __repr__ = <method-wrapper '__repr__' of TypeError object>
+    __setattr__ = <method-wrapper '__setattr__' of TypeError object>
+    __setstate__ = <built-in method __setstate__ of TypeError object>
+    __sizeof__ = <built-in method __sizeof__ of TypeError object>
+    __str__ = <method-wrapper '__str__' of TypeError object>
+    __subclasshook__ = <built-in method __subclasshook__ of type object>
+    __suppress_context__ = False
+    __traceback__ = <traceback object>
+    args = ("B_necessity_check() missing 1 required positional argument: 'result_table'",)
+    with_traceback = <built-in method with_traceback of TypeError object>
+
+The above is a description of an error in a Python program.  Here is
+the original traceback:
+
+Traceback (most recent call last):
+  File "D:\研一\项目\Auditing\mainWin.py", line 288, in openQuestionCheckDialog
+    B_necessity_outcome = B_necessity_check(self.B,self.zhuhu,self.zhuzhai,self.xiaoqu)
+TypeError: B_necessity_check() missing 1 required positional argument: 'result_table'
+

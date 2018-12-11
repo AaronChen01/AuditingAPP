@@ -1,0 +1,73 @@
+2018-12-05 20:02:36,471 - myLogging.py[line:37] - DEBUG: logging init over
+2018-12-05 20:02:36,737 - B_independent_check[line:39] - DEBUG: B_independent_check init...
+2018-12-05 20:02:53,456 - myLogging.py[line:37] - DEBUG: logging init over
+2018-12-05 20:02:53,483 - B_independent_check[line:39] - DEBUG: B_independent_check init...
+2018-12-05 20:03:03,347 - myLogging.py[line:37] - DEBUG: logging init over
+2018-12-05 20:03:03,362 - B_independent_check[line:39] - DEBUG: B_independent_check init...
+2018-12-05 20:05:45,377 - myLogging.py[line:37] - DEBUG: logging init over
+2018-12-05 20:05:45,393 - B_independent_check[line:39] - DEBUG: B_independent_check init...
+2018-12-05 20:07:54,347 - myLogging.py[line:37] - DEBUG: logging init over
+2018-12-05 20:07:54,363 - B_independent_check[line:39] - DEBUG: B_independent_check init...
+2018-12-05 20:08:18,273 - myLogging.py[line:37] - DEBUG: logging init over
+2018-12-05 20:08:18,289 - B_independent_check[line:39] - DEBUG: B_independent_check init...
+2018-12-05 20:10:53,785 - myLogging.py[line:37] - DEBUG: logging init over
+2018-12-05 20:10:53,801 - B_independent_check[line:39] - DEBUG: B_independent_check init...
+2018-12-05 20:14:08,301 - myLogging.py[line:37] - DEBUG: logging init over
+2018-12-05 20:14:08,332 - B_independent_check[line:39] - DEBUG: B_independent_check init...
+2018-12-05 20:21:04,487 - myLogging.py[line:37] - DEBUG: logging init over
+2018-12-05 20:21:04,565 - B_independent_check[line:39] - DEBUG: B_independent_check init...
+2018-12-05 20:24:32,474 - myLogging.py[line:37] - DEBUG: logging init over
+2018-12-05 20:24:32,505 - B_independent_check[line:39] - DEBUG: B_independent_check init...
+2018-12-05 20:25:57,313 - myLogging.py[line:37] - DEBUG: logging init over
+2018-12-05 20:25:57,329 - B_independent_check[line:39] - DEBUG: B_independent_check init...
+2018-12-05 20:27:26,029 - myLogging.py[line:37] - DEBUG: logging init over
+2018-12-05 20:27:26,044 - B_independent_check[line:39] - DEBUG: B_independent_check init...
+2018-12-05 20:28:53,736 - myLogging.py[line:37] - DEBUG: logging init over
+2018-12-05 20:28:54,106 - zy_check_necessity.py[line:150] - DEBUG: zy_necessity init...
+2018-12-05 20:29:53,207 - myLogging.py[line:37] - DEBUG: logging init over
+2018-12-05 20:29:53,422 - zy_check_necessity.py[line:150] - DEBUG: zy_necessity init...
+2018-12-05 20:33:33,719 - myLogging.py[line:37] - DEBUG: logging init over
+2018-12-05 20:33:33,766 - B_necessity_check.py[line:41] - DEBUG: B_necessity_check init..
+2018-12-05 20:36:17,547 - myLogging.py[line:37] - DEBUG: logging init over
+2018-12-05 20:36:17,562 - B_independent_check[line:39] - DEBUG: B_independent_check init...
+2018-12-05 20:44:47,127 - myLogging.py[line:37] - DEBUG: logging init over
+2018-12-05 20:44:47,158 - B_independent_check[line:39] - DEBUG: B_independent_check init...
+2018-12-05 21:02:32,378 - myLogging.py[line:37] - DEBUG: logging init over
+2018-12-05 21:02:32,409 - B_independent_check[line:39] - DEBUG: B_independent_check init...
+2018-12-05 21:02:37,903 - myLogging.py[line:37] - DEBUG: logging init over
+2018-12-05 21:02:37,919 - B_independent_check[line:39] - DEBUG: B_independent_check init...
+2018-12-05 21:05:18,788 - myLogging.py[line:37] - DEBUG: logging init over
+2018-12-05 21:05:18,803 - B_independent_check[line:39] - DEBUG: B_independent_check init...
+2018-12-05 21:10:25,779 - myLogging.py[line:37] - DEBUG: logging init over
+2018-12-05 21:10:40,661 - myLogging.py[line:37] - DEBUG: logging init over
+2018-12-05 21:10:42,061 - mainWin.py[line:26] - DEBUG: mainWin>init..
+2018-12-05 21:10:42,926 - mainWin.py[line:76] - DEBUG: mainWin>init ok
+2018-12-05 21:10:51,872 - importFileDialog.py[line:17] - DEBUG: importFileDialog init..
+2018-12-05 21:10:51,872 - importFileDialog.py[line:24] - DEBUG: importFileDialog init ok
+2018-12-05 21:11:22,552 - mainWin.py[line:394] - DEBUG: mainWin>function:openFile:try
+2018-12-05 21:11:22,552 - mainWin.py[line:210] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/A310151.18.csv
+2018-12-05 21:11:22,570 - mainWin.py[line:394] - DEBUG: mainWin>function:openFile:try
+2018-12-05 21:11:22,570 - mainWin.py[line:210] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/B310151.18.csv
+2018-12-05 21:11:22,577 - mainWin.py[line:394] - DEBUG: mainWin>function:openFile:try
+2018-12-05 21:11:22,577 - mainWin.py[line:210] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/住户样本310151.18.csv
+2018-12-05 21:11:22,584 - mainWin.py[line:394] - DEBUG: mainWin>function:openFile:try
+2018-12-05 21:11:22,584 - mainWin.py[line:210] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/住宅名录310151.18.csv
+2018-12-05 21:11:22,590 - mainWin.py[line:394] - DEBUG: mainWin>function:openFile:try
+2018-12-05 21:11:22,590 - mainWin.py[line:210] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/小区名录310151.18.csv
+2018-12-05 21:11:22,593 - mainWin.py[line:394] - DEBUG: mainWin>function:openFile:try
+2018-12-05 21:11:22,594 - mainWin.py[line:210] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/D3101511806.csv
+2018-12-05 21:11:23,736 - questionCheckDialog.py[line:19] - DEBUG: QuestionCheckDialog init..
+2018-12-05 21:11:23,736 - questionCheckDialog.py[line:22] - DEBUG: QuestionCheckDialog init ok
+2018-12-05 21:11:26,350 - A_necessity_check.py[line:60] - DEBUG: A_necessity_check init..
+2018-12-05 21:11:27,345 - mainWin.py[line:615] - DEBUG: 将结果显示在表上
+2018-12-05 21:11:32,862 - questionCheckDialog.py[line:19] - DEBUG: QuestionCheckDialog init..
+2018-12-05 21:11:32,862 - questionCheckDialog.py[line:22] - DEBUG: QuestionCheckDialog init ok
+2018-12-05 21:11:34,587 - B_necessity_check.py[line:41] - DEBUG: B_necessity_check init..
+2018-12-05 21:11:44,600 - questionCheckDialog.py[line:19] - DEBUG: QuestionCheckDialog init..
+2018-12-05 21:11:44,600 - questionCheckDialog.py[line:22] - DEBUG: QuestionCheckDialog init ok
+2018-12-05 21:11:46,507 - B_suggestion_check.py[line:42] - DEBUG: B_necessity_check init..
+2018-12-05 21:11:47,136 - mainWin.py[line:615] - DEBUG: 将结果显示在表上
+2018-12-05 21:17:09,673 - myLogging.py[line:37] - DEBUG: logging init over
+2018-12-05 21:17:09,689 - B_independent_check[line:39] - DEBUG: B_independent_check init...
+2018-12-05 21:44:25,524 - myLogging.py[line:37] - DEBUG: logging init over
+2018-12-05 21:44:25,617 - IndependentCheck.py[line:102] - DEBUG: zy_independent_check init...

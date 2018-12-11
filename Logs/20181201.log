@@ -1,0 +1,194 @@
+2018-12-01 12:35:28,302 - myLogging.py[line:37] - DEBUG: logging init over
+2018-12-01 12:35:31,223 - mainWin.py[line:26] - DEBUG: mainWin>init..
+2018-12-01 12:35:31,958 - mainWin.py[line:69] - DEBUG: mainWin>init ok
+2018-12-01 12:35:43,041 - mainWin.py[line:397] - DEBUG: mainWin>function:openFile:
+2018-12-01 12:35:43,041 - mainWin.py[line:428] - DEBUG: openTownList openFile
+2018-12-01 12:35:43,041 - mainWin.py[line:430] - DEBUG: openTownList 未选中文件
+2018-12-01 12:35:44,401 - mainWin.py[line:504] - DEBUG: mainWin>function:setTableA
+2018-12-01 12:35:46,166 - mainWin.py[line:397] - DEBUG: mainWin>function:openFile:
+2018-12-01 12:35:55,054 - importFileDialog.py[line:17] - DEBUG: importFileDialog init..
+2018-12-01 12:35:55,054 - importFileDialog.py[line:24] - DEBUG: importFileDialog init ok
+2018-12-01 13:04:30,399 - zyCheckDialog.py[line:19] - DEBUG: zyCheckDialog init..
+2018-12-01 13:04:30,399 - zyCheckDialog.py[line:22] - DEBUG: zyCheckDialog init ok
+2018-12-01 13:07:46,183 - myLogging.py[line:37] - DEBUG: logging init over
+2018-12-01 13:07:46,221 - zyCheckDialog.py[line:19] - DEBUG: zyCheckDialog init..
+2018-12-01 13:07:46,606 - zyCheckDialog.py[line:22] - DEBUG: zyCheckDialog init ok
+2018-12-01 13:12:25,247 - myLogging.py[line:37] - DEBUG: logging init over
+2018-12-01 13:12:25,285 - zyCheckDialog.py[line:19] - DEBUG: zyCheckDialog init..
+2018-12-01 13:12:25,648 - zyCheckDialog.py[line:22] - DEBUG: zyCheckDialog init ok
+2018-12-01 13:15:50,598 - myLogging.py[line:37] - DEBUG: logging init over
+2018-12-01 13:15:50,636 - zyCheckDialog.py[line:19] - DEBUG: zyCheckDialog init..
+2018-12-01 13:16:58,830 - myLogging.py[line:37] - DEBUG: logging init over
+2018-12-01 13:16:58,868 - zyCheckDialog.py[line:19] - DEBUG: zyCheckDialog init..
+2018-12-01 13:16:59,247 - zyCheckDialog.py[line:22] - DEBUG: zyCheckDialog init ok
+2018-12-01 13:17:03,695 - myLogging.py[line:37] - DEBUG: logging init over
+2018-12-01 13:17:03,727 - zyCheckDialog.py[line:19] - DEBUG: zyCheckDialog init..
+2018-12-01 13:17:04,090 - zyCheckDialog.py[line:22] - DEBUG: zyCheckDialog init ok
+2018-12-01 13:19:06,639 - myLogging.py[line:37] - DEBUG: logging init over
+2018-12-01 13:19:06,685 - zyCheckDialog.py[line:19] - DEBUG: zyCheckDialog init..
+2018-12-01 13:19:07,086 - zyCheckDialog.py[line:22] - DEBUG: zyCheckDialog init ok
+2018-12-01 13:20:32,917 - myLogging.py[line:37] - DEBUG: logging init over
+2018-12-01 13:20:32,949 - zyCheckDialog.py[line:19] - DEBUG: zyCheckDialog init..
+2018-12-01 13:20:33,350 - zyCheckDialog.py[line:22] - DEBUG: zyCheckDialog init ok
+2018-12-01 13:20:51,716 - myLogging.py[line:37] - DEBUG: logging init over
+2018-12-01 13:20:51,754 - zyCheckDialog.py[line:19] - DEBUG: zyCheckDialog init..
+2018-12-01 13:20:52,140 - zyCheckDialog.py[line:24] - DEBUG: zyCheckDialog init ok
+2018-12-01 13:24:48,174 - myLogging.py[line:37] - DEBUG: logging init over
+2018-12-01 13:24:48,482 - mainWin.py[line:26] - DEBUG: mainWin>init..
+2018-12-01 13:24:48,915 - mainWin.py[line:69] - DEBUG: mainWin>init ok
+2018-12-01 13:24:54,877 - questionCheckDialog.py[line:19] - DEBUG: QuestionCheckDialog init..
+2018-12-01 13:24:54,877 - questionCheckDialog.py[line:22] - DEBUG: QuestionCheckDialog init ok
+2018-12-01 13:25:03,057 - questionCheckDialog.py[line:19] - DEBUG: QuestionCheckDialog init..
+2018-12-01 13:25:03,057 - questionCheckDialog.py[line:22] - DEBUG: QuestionCheckDialog init ok
+2018-12-01 13:25:05,397 - zyCheckDialog.py[line:19] - DEBUG: zyCheckDialog init..
+2018-12-01 13:25:05,397 - zyCheckDialog.py[line:24] - DEBUG: zyCheckDialog init ok
+2018-12-01 13:25:30,184 - zyCheckDialog.py[line:19] - DEBUG: zyCheckDialog init..
+2018-12-01 13:25:30,184 - zyCheckDialog.py[line:24] - DEBUG: zyCheckDialog init ok
+2018-12-01 13:28:50,468 - zyCheckDialog.py[line:19] - DEBUG: zyCheckDialog init..
+2018-12-01 13:28:50,468 - zyCheckDialog.py[line:24] - DEBUG: zyCheckDialog init ok
+2018-12-01 13:28:57,163 - zyCheckDialog.py[line:19] - DEBUG: zyCheckDialog init..
+2018-12-01 13:28:57,163 - zyCheckDialog.py[line:24] - DEBUG: zyCheckDialog init ok
+2018-12-01 13:44:57,294 - myLogging.py[line:37] - DEBUG: logging init over
+2018-12-01 13:44:57,964 - zy_check_suggestion.py[line:70] - DEBUG: zySuggestionCheck init...
+2018-12-01 15:22:16,640 - myLogging.py[line:37] - DEBUG: logging init over
+2018-12-01 15:22:19,405 - mainWin.py[line:26] - DEBUG: mainWin>init..
+2018-12-01 15:22:20,498 - mainWin.py[line:69] - DEBUG: mainWin>init ok
+2018-12-01 15:22:23,623 - zyCheckDialog.py[line:19] - DEBUG: zyCheckDialog init..
+2018-12-01 15:22:23,623 - zyCheckDialog.py[line:24] - DEBUG: zyCheckDialog init ok
+2018-12-01 15:45:54,615 - myLogging.py[line:37] - DEBUG: logging init over
+2018-12-01 15:45:55,365 - zy_check_suggestion.py[line:84] - DEBUG: zy_check_suggestion init..
+2018-12-01 15:47:38,700 - myLogging.py[line:37] - DEBUG: logging init over
+2018-12-01 15:47:39,075 - zy_check_suggestion.py[line:79] - DEBUG: zy_check_suggestion init..
+2018-12-01 16:29:43,079 - myLogging.py[line:37] - DEBUG: logging init over
+2018-12-01 16:29:43,235 - mainWin.py[line:26] - DEBUG: mainWin>init..
+2018-12-01 16:29:43,735 - mainWin.py[line:73] - DEBUG: mainWin>init ok
+2018-12-01 16:29:50,968 - mainWin.py[line:418] - DEBUG: mainWin>function:openFile:
+2018-12-01 16:29:50,968 - mainWin.py[line:449] - DEBUG: openTownList openFile
+2018-12-01 16:29:50,968 - mainWin.py[line:451] - DEBUG: openTownList 未选中文件
+2018-12-01 16:29:52,343 - importFileDialog.py[line:17] - DEBUG: importFileDialog init..
+2018-12-01 16:29:52,343 - importFileDialog.py[line:24] - DEBUG: importFileDialog init ok
+2018-12-01 16:30:24,354 - mainWin.py[line:384] - DEBUG: mainWin>function:openFile:try
+2018-12-01 16:30:24,355 - mainWin.py[line:207] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/A310151.18.csv
+2018-12-01 16:30:24,372 - mainWin.py[line:384] - DEBUG: mainWin>function:openFile:try
+2018-12-01 16:30:24,373 - mainWin.py[line:207] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/B310151.18.csv
+2018-12-01 16:30:24,381 - mainWin.py[line:384] - DEBUG: mainWin>function:openFile:try
+2018-12-01 16:30:24,381 - mainWin.py[line:207] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/住户样本310151.18.csv
+2018-12-01 16:30:24,387 - mainWin.py[line:384] - DEBUG: mainWin>function:openFile:try
+2018-12-01 16:30:24,388 - mainWin.py[line:207] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/住宅名录310151.18.csv
+2018-12-01 16:30:24,391 - mainWin.py[line:384] - DEBUG: mainWin>function:openFile:try
+2018-12-01 16:30:24,392 - mainWin.py[line:207] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/小区名录310151.18.csv
+2018-12-01 16:30:24,394 - mainWin.py[line:384] - DEBUG: mainWin>function:openFile:try
+2018-12-01 16:30:24,394 - mainWin.py[line:207] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/D3101511806.csv
+2018-12-01 16:30:30,141 - questionCheckDialog.py[line:19] - DEBUG: QuestionCheckDialog init..
+2018-12-01 16:30:30,141 - questionCheckDialog.py[line:22] - DEBUG: QuestionCheckDialog init ok
+2018-12-01 16:30:33,750 - zyCheckDialog.py[line:19] - DEBUG: zyCheckDialog init..
+2018-12-01 16:30:33,750 - zyCheckDialog.py[line:24] - DEBUG: zyCheckDialog init ok
+2018-12-01 16:34:04,294 - myLogging.py[line:37] - DEBUG: logging init over
+2018-12-01 16:34:04,450 - mainWin.py[line:26] - DEBUG: mainWin>init..
+2018-12-01 16:34:04,841 - mainWin.py[line:73] - DEBUG: mainWin>init ok
+2018-12-01 16:34:10,696 - importFileDialog.py[line:17] - DEBUG: importFileDialog init..
+2018-12-01 16:34:10,696 - importFileDialog.py[line:24] - DEBUG: importFileDialog init ok
+2018-12-01 16:34:38,370 - mainWin.py[line:384] - DEBUG: mainWin>function:openFile:try
+2018-12-01 16:34:38,370 - mainWin.py[line:207] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/A310151.18.csv
+2018-12-01 16:34:38,386 - mainWin.py[line:384] - DEBUG: mainWin>function:openFile:try
+2018-12-01 16:34:38,386 - mainWin.py[line:207] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/B310151.18.csv
+2018-12-01 16:34:38,393 - mainWin.py[line:384] - DEBUG: mainWin>function:openFile:try
+2018-12-01 16:34:38,393 - mainWin.py[line:207] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/住户样本310151.18.csv
+2018-12-01 16:34:38,400 - mainWin.py[line:384] - DEBUG: mainWin>function:openFile:try
+2018-12-01 16:34:38,400 - mainWin.py[line:207] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/住宅名录310151.18.csv
+2018-12-01 16:34:38,404 - mainWin.py[line:384] - DEBUG: mainWin>function:openFile:try
+2018-12-01 16:34:38,404 - mainWin.py[line:207] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/小区名录310151.18.csv
+2018-12-01 16:34:38,406 - mainWin.py[line:384] - DEBUG: mainWin>function:openFile:try
+2018-12-01 16:34:38,406 - mainWin.py[line:207] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/D3101511806.csv
+2018-12-01 16:34:40,021 - zyCheckDialog.py[line:19] - DEBUG: zyCheckDialog init..
+2018-12-01 16:34:40,021 - zyCheckDialog.py[line:24] - DEBUG: zyCheckDialog init ok
+2018-12-01 16:34:58,309 - zy_check_suggestion.py[line:77] - DEBUG: zy_check_suggestion init..
+2018-12-01 16:35:50,634 - myLogging.py[line:37] - DEBUG: logging init over
+2018-12-01 16:35:50,775 - mainWin.py[line:26] - DEBUG: mainWin>init..
+2018-12-01 16:35:51,181 - mainWin.py[line:73] - DEBUG: mainWin>init ok
+2018-12-01 16:35:56,990 - importFileDialog.py[line:17] - DEBUG: importFileDialog init..
+2018-12-01 16:35:56,990 - importFileDialog.py[line:24] - DEBUG: importFileDialog init ok
+2018-12-01 16:36:23,706 - mainWin.py[line:384] - DEBUG: mainWin>function:openFile:try
+2018-12-01 16:36:23,707 - mainWin.py[line:207] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/A310151.18.csv
+2018-12-01 16:36:23,723 - mainWin.py[line:384] - DEBUG: mainWin>function:openFile:try
+2018-12-01 16:36:23,723 - mainWin.py[line:207] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/B310151.18.csv
+2018-12-01 16:36:23,731 - mainWin.py[line:384] - DEBUG: mainWin>function:openFile:try
+2018-12-01 16:36:23,731 - mainWin.py[line:207] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/住户样本310151.18.csv
+2018-12-01 16:36:23,737 - mainWin.py[line:384] - DEBUG: mainWin>function:openFile:try
+2018-12-01 16:36:23,737 - mainWin.py[line:207] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/住宅名录310151.18.csv
+2018-12-01 16:36:23,740 - mainWin.py[line:384] - DEBUG: mainWin>function:openFile:try
+2018-12-01 16:36:23,740 - mainWin.py[line:207] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/小区名录310151.18.csv
+2018-12-01 16:36:23,743 - mainWin.py[line:384] - DEBUG: mainWin>function:openFile:try
+2018-12-01 16:36:23,743 - mainWin.py[line:207] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/D3101511806.csv
+2018-12-01 16:36:24,748 - zyCheckDialog.py[line:19] - DEBUG: zyCheckDialog init..
+2018-12-01 16:36:24,748 - zyCheckDialog.py[line:24] - DEBUG: zyCheckDialog init ok
+2018-12-01 16:36:34,465 - zy_check_suggestion.py[line:77] - DEBUG: zy_check_suggestion init..
+2018-12-01 16:36:40,056 - mainWin.py[line:605] - DEBUG: 将结果显示在表上
+2018-12-01 16:37:18,942 - mainWin.py[line:605] - DEBUG: 将结果显示在表上
+2018-12-01 16:38:11,147 - mainWin.py[line:605] - DEBUG: 将结果显示在表上
+2018-12-01 16:38:11,319 - mainWin.py[line:605] - DEBUG: 将结果显示在表上
+2018-12-01 16:40:51,898 - myLogging.py[line:37] - DEBUG: logging init over
+2018-12-01 16:40:52,069 - mainWin.py[line:26] - DEBUG: mainWin>init..
+2018-12-01 16:40:52,476 - mainWin.py[line:73] - DEBUG: mainWin>init ok
+2018-12-01 16:40:58,294 - importFileDialog.py[line:17] - DEBUG: importFileDialog init..
+2018-12-01 16:40:58,294 - importFileDialog.py[line:24] - DEBUG: importFileDialog init ok
+2018-12-01 16:41:21,810 - mainWin.py[line:384] - DEBUG: mainWin>function:openFile:try
+2018-12-01 16:41:21,810 - mainWin.py[line:207] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/A310151.18.csv
+2018-12-01 16:41:21,827 - mainWin.py[line:384] - DEBUG: mainWin>function:openFile:try
+2018-12-01 16:41:21,827 - mainWin.py[line:207] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/B310151.18.csv
+2018-12-01 16:41:21,834 - mainWin.py[line:384] - DEBUG: mainWin>function:openFile:try
+2018-12-01 16:41:21,835 - mainWin.py[line:207] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/住户样本310151.18.csv
+2018-12-01 16:41:21,840 - mainWin.py[line:384] - DEBUG: mainWin>function:openFile:try
+2018-12-01 16:41:21,840 - mainWin.py[line:207] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/住宅名录310151.18.csv
+2018-12-01 16:41:21,844 - mainWin.py[line:384] - DEBUG: mainWin>function:openFile:try
+2018-12-01 16:41:21,844 - mainWin.py[line:207] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/小区名录310151.18.csv
+2018-12-01 16:41:21,847 - mainWin.py[line:384] - DEBUG: mainWin>function:openFile:try
+2018-12-01 16:41:21,848 - mainWin.py[line:207] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/D3101511806.csv
+2018-12-01 16:41:23,855 - zyCheckDialog.py[line:19] - DEBUG: zyCheckDialog init..
+2018-12-01 16:41:23,855 - zyCheckDialog.py[line:24] - DEBUG: zyCheckDialog init ok
+2018-12-01 16:42:09,634 - zy_check_suggestion.py[line:77] - DEBUG: zy_check_suggestion init..
+2018-12-01 16:45:15,724 - zyCheckDialog.py[line:19] - DEBUG: zyCheckDialog init..
+2018-12-01 16:45:15,724 - zyCheckDialog.py[line:24] - DEBUG: zyCheckDialog init ok
+2018-12-01 16:48:53,264 - myLogging.py[line:37] - DEBUG: logging init over
+2018-12-01 16:48:53,420 - mainWin.py[line:26] - DEBUG: mainWin>init..
+2018-12-01 16:48:53,763 - mainWin.py[line:73] - DEBUG: mainWin>init ok
+2018-12-01 16:48:59,971 - importFileDialog.py[line:17] - DEBUG: importFileDialog init..
+2018-12-01 16:48:59,971 - importFileDialog.py[line:24] - DEBUG: importFileDialog init ok
+2018-12-01 16:49:29,393 - mainWin.py[line:384] - DEBUG: mainWin>function:openFile:try
+2018-12-01 16:49:29,393 - mainWin.py[line:207] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/A310151.18.csv
+2018-12-01 16:49:29,410 - mainWin.py[line:384] - DEBUG: mainWin>function:openFile:try
+2018-12-01 16:49:29,410 - mainWin.py[line:207] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/B310151.18.csv
+2018-12-01 16:49:29,418 - mainWin.py[line:384] - DEBUG: mainWin>function:openFile:try
+2018-12-01 16:49:29,418 - mainWin.py[line:207] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/住户样本310151.18.csv
+2018-12-01 16:49:29,424 - mainWin.py[line:384] - DEBUG: mainWin>function:openFile:try
+2018-12-01 16:49:29,424 - mainWin.py[line:207] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/住宅名录310151.18.csv
+2018-12-01 16:49:29,427 - mainWin.py[line:384] - DEBUG: mainWin>function:openFile:try
+2018-12-01 16:49:29,427 - mainWin.py[line:207] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/小区名录310151.18.csv
+2018-12-01 16:49:29,431 - mainWin.py[line:384] - DEBUG: mainWin>function:openFile:try
+2018-12-01 16:49:29,431 - mainWin.py[line:207] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/D3101511806.csv
+2018-12-01 16:49:31,060 - zyCheckDialog.py[line:19] - DEBUG: zyCheckDialog init..
+2018-12-01 16:49:31,060 - zyCheckDialog.py[line:24] - DEBUG: zyCheckDialog init ok
+2018-12-01 16:49:52,646 - zy_check_suggestion.py[line:77] - DEBUG: zy_check_suggestion init..
+2018-12-01 16:49:57,697 - mainWin.py[line:605] - DEBUG: 将结果显示在表上
+2018-12-01 16:50:01,281 - mainWin.py[line:605] - DEBUG: 将结果显示在表上
+2018-12-01 16:58:56,876 - myLogging.py[line:37] - DEBUG: logging init over
+2018-12-01 16:58:57,033 - mainWin.py[line:26] - DEBUG: mainWin>init..
+2018-12-01 16:58:57,428 - mainWin.py[line:73] - DEBUG: mainWin>init ok
+2018-12-01 16:59:03,871 - importFileDialog.py[line:17] - DEBUG: importFileDialog init..
+2018-12-01 16:59:03,886 - importFileDialog.py[line:24] - DEBUG: importFileDialog init ok
+2018-12-01 16:59:31,761 - mainWin.py[line:384] - DEBUG: mainWin>function:openFile:try
+2018-12-01 16:59:31,761 - mainWin.py[line:207] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/A310151.18.csv
+2018-12-01 16:59:31,777 - mainWin.py[line:384] - DEBUG: mainWin>function:openFile:try
+2018-12-01 16:59:31,777 - mainWin.py[line:207] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/B310151.18.csv
+2018-12-01 16:59:31,784 - mainWin.py[line:384] - DEBUG: mainWin>function:openFile:try
+2018-12-01 16:59:31,784 - mainWin.py[line:207] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/住户样本310151.18.csv
+2018-12-01 16:59:31,790 - mainWin.py[line:384] - DEBUG: mainWin>function:openFile:try
+2018-12-01 16:59:31,790 - mainWin.py[line:207] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/住宅名录310151.18.csv
+2018-12-01 16:59:31,793 - mainWin.py[line:384] - DEBUG: mainWin>function:openFile:try
+2018-12-01 16:59:31,793 - mainWin.py[line:207] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/小区名录310151.18.csv
+2018-12-01 16:59:31,796 - mainWin.py[line:384] - DEBUG: mainWin>function:openFile:try
+2018-12-01 16:59:31,796 - mainWin.py[line:207] - DEBUG: mainWin>openFile:D:/研一/项目/Auditing/输入文件夹/D3101511806.csv
+2018-12-01 16:59:32,860 - zyCheckDialog.py[line:19] - DEBUG: zyCheckDialog init..
+2018-12-01 16:59:32,860 - zyCheckDialog.py[line:24] - DEBUG: zyCheckDialog init ok
+2018-12-01 16:59:46,933 - zy_check_suggestion.py[line:77] - DEBUG: zy_check_suggestion init..
+2018-12-01 16:59:51,962 - mainWin.py[line:605] - DEBUG: 将结果显示在表上

@@ -1,0 +1,61 @@
+AttributeError
+Python 3.6.5: D:\ProgramFile\Anaconda\python.exe
+Fri Dec  7 21:17:26 2018
+
+A problem occurred in a Python script.  Here is the sequence of
+function calls leading up to the error, in the order they occurred.
+
+ D:\研一\项目\Auditing\mainWin.py in save_to_csv(self=<mainWin.MyMainWindow object>)
+  638         from page_break_print import page_break_print
+  639         path = './' + self.location + '台账结果.xlsx'
+  640         self.now_show_table.to_excel(path,encoding="utf-8",index=False,sheet_name='Sheet')
+  641         self.statusbar.showMessage("正在添加分页符...")
+  642         page_break_print(path)
+self = <mainWin.MyMainWindow object>
+self.now_show_table = ''
+self.now_show_table.to_excel undefined
+path = './台账结果.xlsx'
+encoding undefined
+index undefined
+sheet_name undefined
+AttributeError: 'str' object has no attribute 'to_excel'
+    __cause__ = None
+    __class__ = <class 'AttributeError'>
+    __context__ = None
+    __delattr__ = <method-wrapper '__delattr__' of AttributeError object>
+    __dict__ = {}
+    __dir__ = <built-in method __dir__ of AttributeError object>
+    __doc__ = 'Attribute not found.'
+    __eq__ = <method-wrapper '__eq__' of AttributeError object>
+    __format__ = <built-in method __format__ of AttributeError object>
+    __ge__ = <method-wrapper '__ge__' of AttributeError object>
+    __getattribute__ = <method-wrapper '__getattribute__' of AttributeError object>
+    __gt__ = <method-wrapper '__gt__' of AttributeError object>
+    __hash__ = <method-wrapper '__hash__' of AttributeError object>
+    __init__ = <method-wrapper '__init__' of AttributeError object>
+    __init_subclass__ = <built-in method __init_subclass__ of type object>
+    __le__ = <method-wrapper '__le__' of AttributeError object>
+    __lt__ = <method-wrapper '__lt__' of AttributeError object>
+    __ne__ = <method-wrapper '__ne__' of AttributeError object>
+    __new__ = <built-in method __new__ of type object>
+    __reduce__ = <built-in method __reduce__ of AttributeError object>
+    __reduce_ex__ = <built-in method __reduce_ex__ of AttributeError object>
+    __repr__ = <method-wrapper '__repr__' of AttributeError object>
+    __setattr__ = <method-wrapper '__setattr__' of AttributeError object>
+    __setstate__ = <built-in method __setstate__ of AttributeError object>
+    __sizeof__ = <built-in method __sizeof__ of AttributeError object>
+    __str__ = <method-wrapper '__str__' of AttributeError object>
+    __subclasshook__ = <built-in method __subclasshook__ of type object>
+    __suppress_context__ = False
+    __traceback__ = <traceback object>
+    args = ("'str' object has no attribute 'to_excel'",)
+    with_traceback = <built-in method with_traceback of AttributeError object>
+
+The above is a description of an error in a Python program.  Here is
+the original traceback:
+
+Traceback (most recent call last):
+  File "D:\研一\项目\Auditing\mainWin.py", line 640, in save_to_csv
+    self.now_show_table.to_excel(path,encoding="utf-8",index=False,sheet_name='Sheet')
+AttributeError: 'str' object has no attribute 'to_excel'
+

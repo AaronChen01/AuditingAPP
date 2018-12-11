@@ -1,0 +1,114 @@
+ValueError
+Python 3.6.5: D:\ProgramFile\Anaconda\python.exe
+Sat Dec  1 16:42:14 2018
+
+A problem occurred in a Python script.  Here is the sequence of
+function calls leading up to the error, in the order they occurred.
+
+ D:\研一\项目\Auditing\mainWin.py in openzyCheckDialog(self=<mainWin.MyMainWindow object>)
+  363                     Zs_outcome = zy_check_suggestion(self.A,self.B,self.zy,self.zhuzhai,self.zhuhu,self.xiaoqu,self.zs_check_result)
+  364                     Zsfilename = 'zy_suggestion_result.xlsx'
+  365                     Zs_outcome.to_excel(directory, encoding="utf-8", index=False,sheet_name='Sheet')
+  366                     self.addToList(Zsfilename, Zs_outcome)
+  367                     self.showData(Zs_outcome, 100)
+Zs_outcome =     year month    ...     townname      vname
+0 ....          长兴镇  先丰村村委会002
+
+[28 rows x 11 columns]
+Zs_outcome.to_excel = <bound method DataFrame.to_excel of     year mon...          长兴镇  先丰村村委会002
+
+[28 rows x 11 columns]>
+directory = 'D:/研一/项目/Auditing/输出结果'
+encoding undefined
+index undefined
+sheet_name undefined
+
+ D:\ProgramFile\Anaconda\lib\site-packages\pandas\core\frame.py in to_excel(self=    year month    ...     townname      vname
+0 ....          长兴镇  先丰村村委会002
+
+[28 rows x 11 columns], excel_writer='D:/研一/项目/Auditing/输出结果', sheet_name='Sheet', na_rep='', float_format=None, columns=None, header=True, index=False, index_label=None, startrow=0, startcol=0, engine=None, merge_cells=True, encoding='utf-8', inf_rep='inf', verbose=True, freeze_panes=None)
+ 1764         formatter.write(excel_writer, sheet_name=sheet_name, startrow=startrow,
+ 1765                         startcol=startcol, freeze_panes=freeze_panes,
+ 1766                         engine=engine)
+ 1767 
+ 1768     def to_stata(self, fname, convert_dates=None, write_index=True,
+engine = None
+
+ D:\ProgramFile\Anaconda\lib\site-packages\pandas\io\formats\excel.py in write(self=<pandas.io.formats.excel.ExcelFormatter object>, writer='D:/研一/项目/Auditing/输出结果', sheet_name='Sheet', startrow=0, startcol=0, freeze_panes=None, engine=None)
+  644             need_save = False
+  645         else:
+  646             writer = ExcelWriter(_stringify_path(writer), engine=engine)
+  647             need_save = True
+  648 
+writer = 'D:/研一/项目/Auditing/输出结果'
+ExcelWriter = <class 'pandas.io.excel.ExcelWriter'>
+_stringify_path = <function _stringify_path>
+engine = None
+
+ D:\ProgramFile\Anaconda\lib\site-packages\pandas\io\excel.py in __new__(cls=<class 'pandas.io.excel.ExcelWriter'>, path='D:/研一/项目/Auditing/输出结果', engine=None, **kwargs={})
+  851                     error = ValueError("No engine for filetype: '{ext}'"
+  852                                        .format(ext=ext))
+  853                     raise error
+  854             cls = get_writer(engine)
+  855 
+error = ValueError("No engine for filetype: ''",)
+ValueError: No engine for filetype: ''
+    __cause__ = None
+    __class__ = <class 'ValueError'>
+    __context__ = OptionError("No such keys(s): 'io.excel..writer'",)
+    __delattr__ = <method-wrapper '__delattr__' of ValueError object>
+    __dict__ = {}
+    __dir__ = <built-in method __dir__ of ValueError object>
+    __doc__ = 'Inappropriate argument value (of correct type).'
+    __eq__ = <method-wrapper '__eq__' of ValueError object>
+    __format__ = <built-in method __format__ of ValueError object>
+    __ge__ = <method-wrapper '__ge__' of ValueError object>
+    __getattribute__ = <method-wrapper '__getattribute__' of ValueError object>
+    __gt__ = <method-wrapper '__gt__' of ValueError object>
+    __hash__ = <method-wrapper '__hash__' of ValueError object>
+    __init__ = <method-wrapper '__init__' of ValueError object>
+    __init_subclass__ = <built-in method __init_subclass__ of type object>
+    __le__ = <method-wrapper '__le__' of ValueError object>
+    __lt__ = <method-wrapper '__lt__' of ValueError object>
+    __ne__ = <method-wrapper '__ne__' of ValueError object>
+    __new__ = <built-in method __new__ of type object>
+    __reduce__ = <built-in method __reduce__ of ValueError object>
+    __reduce_ex__ = <built-in method __reduce_ex__ of ValueError object>
+    __repr__ = <method-wrapper '__repr__' of ValueError object>
+    __setattr__ = <method-wrapper '__setattr__' of ValueError object>
+    __setstate__ = <built-in method __setstate__ of ValueError object>
+    __sizeof__ = <built-in method __sizeof__ of ValueError object>
+    __str__ = <method-wrapper '__str__' of ValueError object>
+    __subclasshook__ = <built-in method __subclasshook__ of type object>
+    __suppress_context__ = False
+    __traceback__ = <traceback object>
+    args = ("No engine for filetype: ''",)
+    with_traceback = <built-in method with_traceback of ValueError object>
+
+The above is a description of an error in a Python program.  Here is
+the original traceback:
+
+Traceback (most recent call last):
+  File "D:\ProgramFile\Anaconda\lib\site-packages\pandas\io\excel.py", line 847, in __new__
+    .format(ext=ext))
+  File "D:\ProgramFile\Anaconda\lib\site-packages\pandas\core\config.py", line 227, in __call__
+    return self.__func__(*args, **kwds)
+  File "D:\ProgramFile\Anaconda\lib\site-packages\pandas\core\config.py", line 97, in _get_option
+    key = _get_single_key(pat, silent)
+  File "D:\ProgramFile\Anaconda\lib\site-packages\pandas\core\config.py", line 83, in _get_single_key
+    raise OptionError('No such keys(s): {pat!r}'.format(pat=pat))
+pandas.core.config.OptionError: "No such keys(s): 'io.excel..writer'"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\研一\项目\Auditing\mainWin.py", line 365, in openzyCheckDialog
+    Zs_outcome.to_excel(directory, encoding="utf-8", index=False,sheet_name='Sheet')
+  File "D:\ProgramFile\Anaconda\lib\site-packages\pandas\core\frame.py", line 1766, in to_excel
+    engine=engine)
+  File "D:\ProgramFile\Anaconda\lib\site-packages\pandas\io\formats\excel.py", line 646, in write
+    writer = ExcelWriter(_stringify_path(writer), engine=engine)
+  File "D:\ProgramFile\Anaconda\lib\site-packages\pandas\io\excel.py", line 853, in __new__
+    raise error
+ValueError: No engine for filetype: ''
+

@@ -1,0 +1,74 @@
+AttributeError
+Python 3.6.5: D:\ProgramFile\Anaconda\python.exe
+Sat Dec  1 16:30:43 2018
+
+A problem occurred in a Python script.  Here is the sequence of
+function calls leading up to the error, in the order they occurred.
+
+ D:\研一\项目\Auditing\mainWin.py in openzyCheckDialog(self=<mainWin.MyMainWindow object>)
+  356         zcd = zyCheckDialog(self)
+  357         result = zcd.exec_()
+  358         Zn,Zs,Za,townRange,monthRange,directory = zcd.getData()
+  359         if Zs == True or Zn == True or Za == True:
+  360             if self.zy_flag == True and self.A_flag == True and self.B_flag == True and self.zhuhu_flag == True and \
+Zn undefined
+Zs undefined
+Za undefined
+townRange undefined
+monthRange undefined
+directory undefined
+zcd = <zyCheckDialog.zyCheckDialog object>
+zcd.getData = <bound method zyCheckDialog.getData of <zyCheckDialog.zyCheckDialog object>>
+
+ D:\研一\项目\Auditing\zyCheckDialog.py in getData(self=<zyCheckDialog.zyCheckDialog object>)
+   60         townRange = 0
+   61         monthRange = 0
+   62         directory = self.dir
+   63 
+   64         if self.partTownRadioButton.isChecked() == True:
+directory undefined
+self = <zyCheckDialog.zyCheckDialog object>
+self.dir undefined
+AttributeError: 'zyCheckDialog' object has no attribute 'dir'
+    __cause__ = None
+    __class__ = <class 'AttributeError'>
+    __context__ = None
+    __delattr__ = <method-wrapper '__delattr__' of AttributeError object>
+    __dict__ = {}
+    __dir__ = <built-in method __dir__ of AttributeError object>
+    __doc__ = 'Attribute not found.'
+    __eq__ = <method-wrapper '__eq__' of AttributeError object>
+    __format__ = <built-in method __format__ of AttributeError object>
+    __ge__ = <method-wrapper '__ge__' of AttributeError object>
+    __getattribute__ = <method-wrapper '__getattribute__' of AttributeError object>
+    __gt__ = <method-wrapper '__gt__' of AttributeError object>
+    __hash__ = <method-wrapper '__hash__' of AttributeError object>
+    __init__ = <method-wrapper '__init__' of AttributeError object>
+    __init_subclass__ = <built-in method __init_subclass__ of type object>
+    __le__ = <method-wrapper '__le__' of AttributeError object>
+    __lt__ = <method-wrapper '__lt__' of AttributeError object>
+    __ne__ = <method-wrapper '__ne__' of AttributeError object>
+    __new__ = <built-in method __new__ of type object>
+    __reduce__ = <built-in method __reduce__ of AttributeError object>
+    __reduce_ex__ = <built-in method __reduce_ex__ of AttributeError object>
+    __repr__ = <method-wrapper '__repr__' of AttributeError object>
+    __setattr__ = <method-wrapper '__setattr__' of AttributeError object>
+    __setstate__ = <built-in method __setstate__ of AttributeError object>
+    __sizeof__ = <built-in method __sizeof__ of AttributeError object>
+    __str__ = <method-wrapper '__str__' of AttributeError object>
+    __subclasshook__ = <built-in method __subclasshook__ of type object>
+    __suppress_context__ = False
+    __traceback__ = <traceback object>
+    args = ("'zyCheckDialog' object has no attribute 'dir'",)
+    with_traceback = <built-in method with_traceback of AttributeError object>
+
+The above is a description of an error in a Python program.  Here is
+the original traceback:
+
+Traceback (most recent call last):
+  File "D:\研一\项目\Auditing\mainWin.py", line 358, in openzyCheckDialog
+    Zn,Zs,Za,townRange,monthRange,directory = zcd.getData()
+  File "D:\研一\项目\Auditing\zyCheckDialog.py", line 62, in getData
+    directory = self.dir
+AttributeError: 'zyCheckDialog' object has no attribute 'dir'
+

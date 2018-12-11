@@ -1,0 +1,55 @@
+KeyError
+Python 3.6.5: D:\ProgramFile\Anaconda\python.exe
+Fri Nov 30 11:16:54 2018
+
+A problem occurred in a Python script.  Here is the sequence of
+function calls leading up to the error, in the order they occurred.
+
+ D:\研一\项目\Auditing\mainWin.py in openImportFileDialog(self=<mainWin.MyMainWindow object>)
+  285             self.xiaoqu, self.xiaoqu_flag = self.openFileByPath(res_path["小区"])
+  286             info += "住宅,"
+  287         if res_path["账页表"] != "":
+  288             self.zy, self.zy_flag = self.openFileByPath(res_path["账页表"])
+  289             info += "住宅,"
+res_path = {'A': '', 'B': '', '住宅': '', '住户': '', '小区': 'D:/研一/项目/Auditing/输入文件夹/小区名录310151.18.csv'}
+KeyError: '账页表'
+    __cause__ = None
+    __class__ = <class 'KeyError'>
+    __context__ = None
+    __delattr__ = <method-wrapper '__delattr__' of KeyError object>
+    __dict__ = {}
+    __dir__ = <built-in method __dir__ of KeyError object>
+    __doc__ = 'Mapping key not found.'
+    __eq__ = <method-wrapper '__eq__' of KeyError object>
+    __format__ = <built-in method __format__ of KeyError object>
+    __ge__ = <method-wrapper '__ge__' of KeyError object>
+    __getattribute__ = <method-wrapper '__getattribute__' of KeyError object>
+    __gt__ = <method-wrapper '__gt__' of KeyError object>
+    __hash__ = <method-wrapper '__hash__' of KeyError object>
+    __init__ = <method-wrapper '__init__' of KeyError object>
+    __init_subclass__ = <built-in method __init_subclass__ of type object>
+    __le__ = <method-wrapper '__le__' of KeyError object>
+    __lt__ = <method-wrapper '__lt__' of KeyError object>
+    __ne__ = <method-wrapper '__ne__' of KeyError object>
+    __new__ = <built-in method __new__ of type object>
+    __reduce__ = <built-in method __reduce__ of KeyError object>
+    __reduce_ex__ = <built-in method __reduce_ex__ of KeyError object>
+    __repr__ = <method-wrapper '__repr__' of KeyError object>
+    __setattr__ = <method-wrapper '__setattr__' of KeyError object>
+    __setstate__ = <built-in method __setstate__ of KeyError object>
+    __sizeof__ = <built-in method __sizeof__ of KeyError object>
+    __str__ = <method-wrapper '__str__' of KeyError object>
+    __subclasshook__ = <built-in method __subclasshook__ of type object>
+    __suppress_context__ = False
+    __traceback__ = <traceback object>
+    args = ('账页表',)
+    with_traceback = <built-in method with_traceback of KeyError object>
+
+The above is a description of an error in a Python program.  Here is
+the original traceback:
+
+Traceback (most recent call last):
+  File "D:\研一\项目\Auditing\mainWin.py", line 287, in openImportFileDialog
+    if res_path["账页表"] != "":
+KeyError: '账页表'
+
